@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Vectrex</text>
-
-  </text>   
-  <text name="shortdescription">
-   <text>1982  ·  Home Console</text>
-  </text>
-  <text name="longdescription">
-   <text>Vector display based home video game console that was developed by Western Technologies Smith Engineering</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Vectrex</text>
+</text>
+<text name="shortdescription">
+<text>1982  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>Vector display based home video game console that was developed by Western Technologies Smith Engineering</text>
+</text>
+</view>
 </theme>

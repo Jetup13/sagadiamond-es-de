@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Sega</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>SC-3000</text>
-
+<text name="sys_line1">
+<text>Sega</text>
 </text>
-  <text name="shortdescription">
-   <text>1983  ·  8-bit Home Computer</text>
-  </text>
-  <text name="longdescription">
-   <text>The SC-3000 is the first and only computer to be designed and manufactured by Sega</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>SC-3000</text>
+</text>
+<text name="shortdescription">
+<text>1983  ·  8-bit Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The SC-3000 is the first and only computer to be designed and manufactured by Sega</text>
+</text>
+</view>
 </theme>

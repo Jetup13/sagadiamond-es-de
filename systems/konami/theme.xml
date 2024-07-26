@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Konami</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>1969  ·  Arcade Board</text>
-  </text>
-  <text name="longdescription">
-   <text>Konami Group Corporation is a Japanese multinational entertainment company and video game developer and publisher headquartered in Chūō, Tokyo</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Konami</text>
+</text>
+<text name="shortdescription">
+<text>1969  ·  Arcade Board</text>
+</text>
+<text name="longdescription">
+<text>Konami Group Corporation is a Japanese multinational entertainment company and video game developer and publisher headquartered in Chūō, Tokyo</text>
+</text>
+</view>
 </theme>

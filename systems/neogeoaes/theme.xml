@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Neo Geo AES</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>1990  ·  Home Console</text>
-  </text>
-  <text name="longdescription">
-   <text>Originally launched as the MVS coin-operated arcade machine. It was ranked 19th out of 25 best video game consoles of all time</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Neo Geo AES</text>
+</text>
+<text name="shortdescription">
+<text>1990  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>Originally launched as the MVS coin-operated arcade machine. It was ranked 19th out of 25 best video game consoles of all time</text>
+</text>
+</view>
 </theme>

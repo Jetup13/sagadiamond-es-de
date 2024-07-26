@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>CAVE</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>1994  ·  Arcade Board</text>
-  </text>
-  <text name="longdescription">
-   <text>CAVE Interactive Co., Ltd. is a Japanese video game company founded in 1994 by former employees of Toaplan following its bankruptcy</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>CAVE</text>
+</text>
+<text name="shortdescription">
+<text>1994  ·  Arcade Board</text>
+</text>
+<text name="longdescription">
+<text>CAVE Interactive Co., Ltd. is a Japanese video game company founded in 1994 by former employees of Toaplan following its bankruptcy</text>
+</text>
+</view>
 </theme>

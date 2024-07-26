@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Neo Geo</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>Pocket Color</text>
-
+<text name="sys_line1">
+<text>Neo Geo</text>
 </text>
-  <text name="shortdescription">
-   <text>1999  ·  Handheld Console</text>
-  </text>
-  <text name="longdescription">
-   <text>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Pocket Color</text>
+</text>
+<text name="shortdescription">
+<text>1999  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</text>
+</text>
+</view>
 </theme>

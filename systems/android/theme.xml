@@ -1,17 +1,16 @@
 <theme>
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Google</text>
-  </text>    
-  <text name="sys_line2">
-    <text>Android</text>
-  </text>    
-  <text name="shortdescription">
-   <text>2008  ·  Mobile Operating System</text>
-  </text>
-  <text name="longdescription">
-   <text>Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets</text>
-  </text>
- </view>
+<text name="sys_line1">
+<text>Google</text>
+</text>
+<text name="sys_line2">
+<text>Android</text>
+</text>
+<text name="shortdescription">
+<text>2008  ·  Mobile Operating System</text>
+</text>
+<text name="longdescription">
+<text>Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets</text>
+</text>
+</view>
 </theme>

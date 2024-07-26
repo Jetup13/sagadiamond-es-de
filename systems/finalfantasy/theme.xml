@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Final Fantasy</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>Final Fantasy · Game Series</text>
-  </text>
-  <text name="longdescription">
-   <text>Final Fantasy is a Japanese anthology science fantasy media franchise created by Hironobu Sakaguchi, and developed and owned by Square</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Final Fantasy</text>
+</text>
+<text name="shortdescription">
+<text>Final Fantasy · Game Series</text>
+</text>
+<text name="longdescription">
+<text>Final Fantasy is a Japanese anthology science fantasy media franchise created by Hironobu Sakaguchi, and developed and owned by Square</text>
+</text>
+</view>
 </theme>

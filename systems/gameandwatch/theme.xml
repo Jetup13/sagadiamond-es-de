@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Game & Watch</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>Handheld Electronic Games</text>
-  </text>
-  <text name="longdescription">
-   <text>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Game & Watch</text>
+</text>
+<text name="shortdescription">
+<text>Handheld Electronic Games</text>
+</text>
+<text name="longdescription">
+<text>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi</text>
+</text>
+</view>
 </theme>

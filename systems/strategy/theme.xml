@@ -1,22 +1,17 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Strategy</text>
-    <fontSize>0.18</fontSize>
-    <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
-    <size>0 0</size>
-  </text>    
-  <text name="shortdescription">
-   <text>Game Genre</text>
-  </text>
-  <text name="longdescription">
-   <text>Strategy video games focus on thinking and planning, and provide strategic, tactical, and sometimes logistical challenges</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Strategy</text>
+<fontSize>0.18</fontSize>
+<origin>0 0</origin>
+<pos>0.12 0.130</pos>
+<size>0 0</size>
+</text>
+<text name="shortdescription">
+<text>Game Genre</text>
+</text>
+<text name="longdescription">
+<text>Strategy video games focus on thinking and planning, and provide strategic, tactical, and sometimes logistical challenges</text>
+</text>
+</view>
 </theme>

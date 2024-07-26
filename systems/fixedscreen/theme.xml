@@ -1,18 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Fixed Screen</text>
-  </text>    
-  <text name="shortdescription">
-   <text>Game Genre</text>
-  </text>
-  <text name="longdescription">
-   <text>A fixed or single screen perspective applies to all video games in which the entire playfield is shown on the screen</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Fixed Screen</text>
+</text>
+<text name="shortdescription">
+<text>Game Genre</text>
+</text>
+<text name="longdescription">
+<text>A fixed or single screen perspective applies to all video games in which the entire playfield is shown on the screen</text>
+</text>
+</view>
 </theme>

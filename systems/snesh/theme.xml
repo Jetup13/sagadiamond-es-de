@@ -1,20 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-
-  <text name="sys_line2">
-    <text>SNES HACKS</text>
-
+<text name="sys_line2">
+<text>SNES HACKS</text>
 </text>
-  <text name="shortdescription">
-   <text>ROM HACKS</text>
-  </text>
-  <text name="longdescription">
-   <text>Rom hacks of SNES games</text>
-  </text>
- </view>
+<text name="shortdescription">
+<text>ROM HACKS</text>
+</text>
+<text name="longdescription">
+<text>Rom hacks of SNES games</text>
+</text>
+</view>
 </theme>

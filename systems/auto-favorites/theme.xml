@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Favorites</text>
-
-  </text>  
-  <text name="shortdescription">
-   <text>All Consoles / Handhelds</text>
-  </text>
-  <text name="longdescription">
-   <text>Access and quickly play your favorite games across the entire library</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Favorites</text>
+</text>
+<text name="shortdescription">
+<text>All Consoles / Handhelds</text>
+</text>
+<text name="longdescription">
+<text>Access and quickly play your favorite games across the entire library</text>
+</text>
+</view>
 </theme>

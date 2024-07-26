@@ -1,16 +1,16 @@
 <theme>
 <view name="system">
-  <text name="sys_line1">
-    <text>Commodore</text>
-  </text> 
-  <text name="sys_line2">
-    <text>Amiga CD32</text>
-  </text>    
-  <text name="shortdescription">
-   <text>1993  ·  Home Console</text>
-  </text>
-  <text name="longdescription">
-   <text>The CD32 is part of a family of Amiga computers and other hardware. It was first released September 16, 1993 and was discontinued only eight months after its debut.</text>
-  </text>
- </view>
+<text name="sys_line1">
+<text>Commodore</text>
+</text>
+<text name="sys_line2">
+<text>Amiga CD32</text>
+</text>
+<text name="shortdescription">
+<text>1993  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The CD32 is part of a family of Amiga computers and other hardware. It was first released September 16, 1993 and was discontinued only eight months after its debut.</text>
+</text>
+</view>
 </theme>

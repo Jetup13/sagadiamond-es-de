@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>ScummVM</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>Cross Platform Computer</text>
-  </text>
-  <text name="longdescription">
-   <text>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>ScummVM</text>
+</text>
+<text name="shortdescription">
+<text>Cross Platform Computer</text>
+</text>
+<text name="longdescription">
+<text>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</text>
+</text>
+</view>
 </theme>

@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Retroarch</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>Front-End</text>
-  </text>
-  <text name="longdescription">
-   <text>RetroArch is a frontend for emulators, game engines and media players</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Retroarch</text>
+</text>
+<text name="shortdescription">
+<text>Front-End</text>
+</text>
+<text name="longdescription">
+<text>RetroArch is a frontend for emulators, game engines and media players</text>
+</text>
+</view>
 </theme>

@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Commodore</text>
-
-  </text>    
-  <text name="shortdescription">
-   <text>1982  ·  Home Computer</text>
-  </text>
-  <text name="longdescription">
-   <text>The C64 is listed in the Guinness World Records as the highest-selling single computer model of all time.</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Commodore</text>
+</text>
+<text name="shortdescription">
+<text>1982  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The C64 is listed in the Guinness World Records as the highest-selling single computer model of all time.</text>
+</text>
+</view>
 </theme>

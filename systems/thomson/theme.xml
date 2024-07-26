@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Thomson</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>MO/TO7</text>
-
+<text name="sys_line1">
+<text>Thomson</text>
 </text>
-  <text name="shortdescription">
-   <text>1984  ·  Home Computer</text>
-  </text>
-  <text name="longdescription">
-   <text>The Thomson MO5 and TO7 are home computers introduced in France in 1984 to compete against systems such as the ZX Spectrum and Commodore 64</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>MO/TO7</text>
+</text>
+<text name="shortdescription">
+<text>1984  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The Thomson MO5 and TO7 are home computers introduced in France in 1984 to compete against systems such as the ZX Spectrum and Commodore 64</text>
+</text>
+</view>
 </theme>

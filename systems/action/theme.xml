@@ -1,14 +1,13 @@
 <theme>
 <view name="system">
-  <text name="sys_line2">
-    <text>Action</text>
-  </text>  
-  
-  <text name="shortdescription">
-   <text>Game Genre</text>
-  </text>
-  <text name="longdescription">
-   <text>An action game emphasizes physical challenges, including hand–eye coordination and reaction-time</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Action</text>
+</text>
+<text name="shortdescription">
+<text>Game Genre</text>
+</text>
+<text name="longdescription">
+<text>An action game emphasizes physical challenges, including hand–eye coordination and reaction-time</text>
+</text>
+</view>
 </theme>

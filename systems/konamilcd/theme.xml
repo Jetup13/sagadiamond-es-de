@@ -1,21 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Konami</text>
-  </text> 
-  <text name="sys_line2">
-    <text>Electronic Game</text>
-  </text>    
-  <text name="shortdescription">
-   <text>1982  ·  Handheld Console</text>
-  </text>
-  <text name="longdescription">
-   <text>Handheld Electronic Games released by Konami</text>
-  </text>
- </view>
+<text name="sys_line1">
+<text>Konami</text>
+</text>
+<text name="sys_line2">
+<text>Electronic Game</text>
+</text>
+<text name="shortdescription">
+<text>1982  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>Handheld Electronic Games released by Konami</text>
+</text>
+</view>
 </theme>

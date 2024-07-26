@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Sony</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>PlayStation 2</text>
-
+<text name="sys_line1">
+<text>Sony</text>
 </text>
-  <text name="shortdescription">
-   <text>2000  ·  Home Console</text>
-  </text>
-  <text name="longdescription">
-   <text>The PlayStation 2 is the best-selling video game console of all time, selling over 155 million units.</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>PlayStation 2</text>
+</text>
+<text name="shortdescription">
+<text>2000  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The PlayStation 2 is the best-selling video game console of all time, selling over 155 million units.</text>
+</text>
+</view>
 </theme>

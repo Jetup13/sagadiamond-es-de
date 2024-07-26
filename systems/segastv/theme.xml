@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>SEGA Titan Video</text>
+<text name="sys_line2">
+<text>SEGA Titan Video</text>
 </text>
-
-  <text name="shortdescription">
-   <text>1994  ·  Arcade Board</text>
-  </text>
-  <text name="longdescription">
-   <text>Sega Titan Video is an arcade system board released by Sega, in 1994 for Japan and 1995 worldwide</text>
-  </text>
- </view>
+<text name="shortdescription">
+<text>1994  ·  Arcade Board</text>
+</text>
+<text name="longdescription">
+<text>Sega Titan Video is an arcade system board released by Sega, in 1994 for Japan and 1995 worldwide</text>
+</text>
+</view>
 </theme>

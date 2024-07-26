@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Nintendo DS</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>2004  ·  Handheld Console</text>
-  </text>
-  <text name="longdescription">
-   <text>The Nintendo DS is a dual-screen handheld game console developed and released by Nintendo that featured two LCD screens working in tandem</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Nintendo DS</text>
+</text>
+<text name="shortdescription">
+<text>2004  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>The Nintendo DS is a dual-screen handheld game console developed and released by Nintendo that featured two LCD screens working in tandem</text>
+</text>
+</view>
 </theme>

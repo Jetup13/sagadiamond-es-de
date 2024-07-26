@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Apps</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>Standalone Applications</text>
-  </text>
-  <text name="longdescription">
-   <text>Standalone applications and programs that can be launched</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Apps</text>
+</text>
+<text name="shortdescription">
+<text>Standalone Applications</text>
+</text>
+<text name="longdescription">
+<text>Standalone applications and programs that can be launched</text>
+</text>
+</view>
 </theme>

@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Super</text>
-
-  </text>  
-  <text name="sys_line2">
-    <text>Famicom</text>
-
-  </text>   
-  <text name="shortdescription">
-   <text>1990  ·  Home Console</text>
-  </text>
-  <text name="longdescription">
-   <text>Nintendo's second home console introduced advanced graphics and sound capabilities compared with other systems at the time</text>
-  </text>
- </view>
+<text name="sys_line1">
+<text>Super</text>
+</text>
+<text name="sys_line2">
+<text>Famicom</text>
+</text>
+<text name="shortdescription">
+<text>1990  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>Nintendo's second home console introduced advanced graphics and sound capabilities compared with other systems at the time</text>
+</text>
+</view>
 </theme>

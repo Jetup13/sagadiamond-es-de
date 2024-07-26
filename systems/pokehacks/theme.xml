@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Pokemon</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>Hacks</text>
-
+<text name="sys_line1">
+<text>Pokemon</text>
 </text>
-  <text name="shortdescription">
-   <text>Pokemon Hacks</text>
-  </text>
-  <text name="longdescription">
-   <text>A collection of various Pokemon ROM hacks.</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Hacks</text>
+</text>
+<text name="shortdescription">
+<text>Pokemon Hacks</text>
+</text>
+<text name="longdescription">
+<text>A collection of various Pokemon ROM hacks.</text>
+</text>
+</view>
 </theme>

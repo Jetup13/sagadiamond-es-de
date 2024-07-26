@@ -1,20 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-
-  <text name="sys_line2">
-    <text>SEGA Pico</text>
-
+<text name="sys_line2">
+<text>SEGA Pico</text>
 </text>
-  <text name="shortdescription">
-   <text>1993  ·  Home Computer</text>
-  </text>
-  <text name="longdescription">
-   <text>Sega Pico is an educational video game console by Sega Toys. The main focus of the Pico was educational video games for children between 3 and 7 years old.</text>
-  </text>
- </view>
+<text name="shortdescription">
+<text>1993  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>Sega Pico is an educational video game console by Sega Toys. The main focus of the Pico was educational video games for children between 3 and 7 years old.</text>
+</text>
+</view>
 </theme>

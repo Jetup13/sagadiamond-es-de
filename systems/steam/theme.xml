@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Valve</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>Steam</text>
-
+<text name="sys_line1">
+<text>Valve</text>
 </text>
-  <text name="shortdescription">
-   <text>Digital Platform</text>
-  </text>
-  <text name="longdescription">
-   <text>Developed by Valve Corporation,  Steam offers digital rights management, multiplayer gaming, video streaming and social networking services</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Steam</text>
+</text>
+<text name="shortdescription">
+<text>Digital Platform</text>
+</text>
+<text name="longdescription">
+<text>Developed by Valve Corporation,  Steam offers digital rights management, multiplayer gaming, video streaming and social networking services</text>
+</text>
+</view>
 </theme>

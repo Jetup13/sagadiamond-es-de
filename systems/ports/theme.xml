@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Ports</text>
-
-  </text>    
-  <text name="shortdescription">
-   <text>Software</text>
-  </text>
-  <text name="longdescription">
-   <text>Multi-platform ports of software and game engines from PC to DOS </text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Ports</text>
+</text>
+<text name="shortdescription">
+<text>Software</text>
+</text>
+<text name="longdescription">
+<text>Multi-platform ports of software and game engines from PC to DOS </text>
+</text>
+</view>
 </theme>

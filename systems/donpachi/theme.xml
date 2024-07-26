@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>DonPachi</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>DonPachi · Game Series</text>
-  </text>
-  <text name="longdescription">
-   <text>DonPachi was the first project to be developed by Cave, a Japanese video game developer founded by former Toaplan staff</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>DonPachi</text>
+</text>
+<text name="shortdescription">
+<text>DonPachi · Game Series</text>
+</text>
+<text name="longdescription">
+<text>DonPachi was the first project to be developed by Cave, a Japanese video game developer founded by former Toaplan staff</text>
+</text>
+</view>
 </theme>

@@ -1,16 +1,16 @@
 <theme>
 <view name="system">
-  <text name="sys_line1">
-    <text>Commodore</text>
-  </text> 
-  <text name="sys_line2">
-    <text>Amiga 500</text>
-  </text>    
-  <text name="shortdescription">
-   <text>1987  ·  Home Computer</text>
-  </text>
-  <text name="longdescription">
-   <text>The Amiga 500 contains the same Motorola 68000 as the Amiga 1000, as well as the same graphics and sound coprocessors, but is in a smaller case similar to that of the Commodore 128</text>
-  </text>
- </view>
+<text name="sys_line1">
+<text>Commodore</text>
+</text>
+<text name="sys_line2">
+<text>Amiga 500</text>
+</text>
+<text name="shortdescription">
+<text>1987  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The Amiga 500 contains the same Motorola 68000 as the Amiga 1000, as well as the same graphics and sound coprocessors, but is in a smaller case similar to that of the Commodore 128</text>
+</text>
+</view>
 </theme>

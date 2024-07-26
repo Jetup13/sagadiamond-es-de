@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>WASM-4</text>
-
-  </text>   
-  <text name="shortdescription">
-   <text>2021  ·  Fantasy Computer</text>
-  </text>
-  <text name="longdescription">
-   <text>WASM-4 is a low-level fantasy game console for building small games with WebAssembly.</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>WASM-4</text>
+</text>
+<text name="shortdescription">
+<text>2021  ·  Fantasy Computer</text>
+</text>
+<text name="longdescription">
+<text>WASM-4 is a low-level fantasy game console for building small games with WebAssembly.</text>
+</text>
+</view>
 </theme>

@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Midway</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>1958  ·  Arcade Board</text>
-  </text>
-  <text name="longdescription">
-   <text>Midway's franchises include Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n, and NFL Blitz</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Midway</text>
+</text>
+<text name="shortdescription">
+<text>1958  ·  Arcade Board</text>
+</text>
+<text name="longdescription">
+<text>Midway's franchises include Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n, and NFL Blitz</text>
+</text>
+</view>
 </theme>

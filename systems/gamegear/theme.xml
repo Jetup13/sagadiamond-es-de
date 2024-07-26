@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Sega</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>GameGear</text>
-
+<text name="sys_line1">
+<text>Sega</text>
 </text>
-  <text name="shortdescription">
-   <text>1990  ·  Handheld Console</text>
-  </text>
-  <text name="longdescription">
-   <text>The Game Gear shares much of its hardware with the Master System and is able to play its own titles as well as those of the Master System</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>GameGear</text>
+</text>
+<text name="shortdescription">
+<text>1990  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>The Game Gear shares much of its hardware with the Master System and is able to play its own titles as well as those of the Master System</text>
+</text>
+</view>
 </theme>

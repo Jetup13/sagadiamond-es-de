@@ -1,21 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Bally</text>
-  </text>    
-  <text name="sys_line2">
-    <text>Astrocade</text>
-  </text>    
-  <text name="shortdescription">
-   <text>1977  ·  Home Computer</text>
-  </text>
-  <text name="longdescription">
-   <text>The Bally Astrocade is a second generation home video game console developed by Midway and distributed by Bally Manufacturing</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Bally</text>
+</text>
+<text name="sys_line2">
+<text>Astrocade</text>
+</text>
+<text name="shortdescription">
+<text>1977  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The Bally Astrocade is a second generation home video game console developed by Midway and distributed by Bally Manufacturing</text>
+</text>
+</view>
 </theme>

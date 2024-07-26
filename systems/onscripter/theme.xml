@@ -1,18 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>ONS</text>
-  </text>    
-  <text name="shortdescription">
-   <text>2002  ·  NScripter Interpreter</text>
-  </text>
-  <text name="longdescription">
-   <text>ONScripter is a program that interprets and executes scripts written for NScripter</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>ONS</text>
+</text>
+<text name="shortdescription">
+<text>2002  ·  NScripter Interpreter</text>
+</text>
+<text name="longdescription">
+<text>ONScripter is a program that interprets and executes scripts written for NScripter</text>
+</text>
+</view>
 </theme>

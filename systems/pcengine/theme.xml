@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>PC-Engine</text>
-
-  </text>    
-  <text name="shortdescription">
-   <text>1987  ·  Home Console</text>
-  </text>
-  <text name="longdescription">
-   <text>Originally intended to compete with the NES, it ended up competing with the Sega Genesis, and later on the Super Nintendo</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>PC-Engine</text>
+</text>
+<text name="shortdescription">
+<text>1987  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>Originally intended to compete with the NES, it ended up competing with the Sega Genesis, and later on the Super Nintendo</text>
+</text>
+</view>
 </theme>

@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Nintendo</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>GameCube</text>
-
+<text name="sys_line1">
+<text>Nintendo</text>
 </text>
-  <text name="shortdescription">
-   <text>2001  ·  Home Console</text>
-  </text>
-  <text name="longdescription">
-   <text>The Nintendo GameCube is the successor to the Nintendo 64 and is the first Nintendo console to use optical discs as its primary storage medium</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>GameCube</text>
+</text>
+<text name="shortdescription">
+<text>2001  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The Nintendo GameCube is the successor to the Nintendo 64 and is the first Nintendo console to use optical discs as its primary storage medium</text>
+</text>
+</view>
 </theme>

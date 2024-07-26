@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>MSX</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>1983  ·  Home Computer</text>
-  </text>
-  <text name="longdescription">
-   <text>The MSX is the name of a standardized home computer architecture, first announced by Microsoft on June 16, 1983</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>MSX</text>
+</text>
+<text name="shortdescription">
+<text>1983  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The MSX is the name of a standardized home computer architecture, first announced by Microsoft on June 16, 1983</text>
+</text>
+</view>
 </theme>

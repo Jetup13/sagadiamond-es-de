@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>GameBoy</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>2 Player</text>
-
+<text name="sys_line1">
+<text>GameBoy</text>
 </text>
-  <text name="shortdescription">
-   <text>1989  ·  Handheld Console</text>
-  </text>
-  <text name="longdescription">
-   <text>Nintendo's second handheld system following the Game & Watch series. It mainly competed with Game Gear and Lynx</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>2 Player</text>
+</text>
+<text name="shortdescription">
+<text>1989  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>Nintendo's second handheld system following the Game & Watch series. It mainly competed with Game Gear and Lynx</text>
+</text>
+</view>
 </theme>

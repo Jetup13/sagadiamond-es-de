@@ -1,23 +1,16 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Sony</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>PlayStation Portable</text>
-
+<text name="sys_line1">
+<text>Sony</text>
 </text>
-  <text name="shortdescription">
-   <text>2004  ·  Handheld Console</text>
-  </text>
-  <text name="longdescription">
-   <text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>PlayStation Portable</text>
+</text>
+<text name="shortdescription">
+<text>2004  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>
+</text>
+</view>
 </theme>

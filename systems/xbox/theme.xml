@@ -1,19 +1,16 @@
 <theme>
-
 <view name="system">
-  <text name="sys_line1">
-    <text>Microsoft</text>
-
-  </text>
-  <text name="sys_line2">
-    <text>Xbox</text>
-
+<text name="sys_line1">
+<text>Microsoft</text>
 </text>
-  <text name="shortdescription">
-   <text>2001  ·  Home Console</text>
-  </text>
-  <text name="longdescription">
-   <text>The Microsoft Xbox is a sixth generation home video game console developed and distributed by Microsoft</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Xbox</text>
+</text>
+<text name="shortdescription">
+<text>2001  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The Microsoft Xbox is a sixth generation home video game console developed and distributed by Microsoft</text>
+</text>
+</view>
 </theme>

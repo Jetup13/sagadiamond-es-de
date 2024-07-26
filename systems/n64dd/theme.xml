@@ -1,19 +1,13 @@
 <theme>
-
-
-
-    
-
 <view name="system">
-  <text name="sys_line2">
-    <text>Nintendo 64DD</text>
-
-  </text> 
-  <text name="shortdescription">
-   <text>1996  ·  Home Console</text>
-  </text>
-  <text name="longdescription">
-   <text>The N64 was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch</text>
-  </text>
- </view>
+<text name="sys_line2">
+<text>Nintendo 64DD</text>
+</text>
+<text name="shortdescription">
+<text>1996  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The N64 was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch</text>
+</text>
+</view>
 </theme>
