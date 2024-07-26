@@ -1,10 +1,13 @@
 <theme>
 <view name="system">
+<text name="sys_line1">
+<text>Sega</text>
+</text>
 <text name="sys_line2">
-<text>Sega Naomi 2</text>
+<text>NAOMI 2</text>
 </text>
 <text name="shortdescription">
-<text>2000  ·  Arcade Board</text>
+<text>2001  ·  Arcade Board</text>
 </text>
 <text name="longdescription">
 <text>The Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000.</text>

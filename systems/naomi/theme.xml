@@ -1,7 +1,10 @@
 <theme>
 <view name="system">
+<text name="sys_line1">
+<text>Sega</text>
+</text>
 <text name="sys_line2">
-<text>Sega Naomi</text>
+<text>NAOMI</text>
 </text>
 <text name="shortdescription">
 <text>1998  ·  Arcade Board</text>
