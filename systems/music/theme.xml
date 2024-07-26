@@ -1,0 +1,18 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Music</text>
+</text>
+  <text name="shortdescription">
+   <text>Media Player</text>
+  </text>
+  <text name="longdescription">
+   <text>Media Player for TV Shows. Supported formats: .mp4 .avi .mpeg .mp3 .mkv</text>
+  </text>
+ </view>
+</theme>

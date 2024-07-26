@@ -1,0 +1,32 @@
+<themeCapabilities>
+
+	<themeName>Saga Diamond</themeName>
+	
+	<aspectRatio>16:9</aspectRatio>
+	<aspectRatio>4:3</aspectRatio>
+	
+	<colorScheme name="white">
+		<label>White</label>
+	</colorScheme>
+	
+	<colorScheme name="mint">
+		<label>Mint</label>
+	</colorScheme>
+	
+	<colorScheme name="babyblue">
+		<label>Baby Blue</label>
+	</colorScheme>
+	
+	<colorScheme name="orange">
+		<label>Orange</label>
+	</colorScheme>
+	
+	<colorScheme name="cardinalred">
+		<label>Cardinal Red</label>
+	</colorScheme>
+	
+	<colorScheme name="fuchsiapink">
+		<label>Fuchsia Pink</label>
+	</colorScheme>
+
+</themeCapabilities>

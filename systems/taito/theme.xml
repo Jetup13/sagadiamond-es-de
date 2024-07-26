@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Taito</text>
+
+  </text> 
+  <text name="shortdescription">
+   <text>1953  ·  Arcade Board</text>
+  </text>
+  <text name="longdescription">
+   <text>Taito Corporation is a Japanese company that specializes in video games, toys, arcade cabinets, and game centers, based in Shinjuku, Tokyo</text>
+  </text>
+ </view>
+</theme>

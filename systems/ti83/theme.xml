@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>TI-83</text>
+
+  </text>    
+  <text name="shortdescription">
+   <text>1996  ·  Calculator</text>
+  </text>
+  <text name="longdescription">
+   <text>The TI-83 series is a series of graphing calculators manufactured by Texas Instruments</text>
+  </text>
+ </view>
+</theme>

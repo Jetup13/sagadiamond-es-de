@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>VirtualBoy</text>
+
+</text>
+  <text name="shortdescription">
+   <text>1995  ·  Table-Top Console</text>
+  </text>
+  <text name="longdescription">
+   <text>It was marketed as the first console capable of displaying stereoscopic 3D graphics using a parallax effect to create the illusion of depth</text>
+  </text>
+ </view>
+</theme>

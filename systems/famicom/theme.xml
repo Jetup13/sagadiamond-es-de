@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Famicom</text>
+  </text>
+  
+  <text name="shortdescription">
+   <text>1986  ·  Home Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The Family Computer (also known by the portmanteau abbreviation Famicom) was the Japanese version of the Nintendo Entertainment System</text>
+  </text>
+ </view>
+</theme>

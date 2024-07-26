@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>PolyGame Master</text>
+
+  </text> 
+  <text name="shortdescription">
+   <text>1997  ·  Arcade Board</text>
+  </text>
+  <text name="longdescription">
+   <text>The PolyGame Master is an arcade system board released in 1997 by the Taiwan company IGS</text>
+  </text>
+ </view>
+</theme>

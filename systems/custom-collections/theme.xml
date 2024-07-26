@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Custom</text>
+
+  </text>  
+  <text name="shortdescription">
+   <text>All Consoles / Handhelds</text>
+  </text>
+  <text name="longdescription">
+   <text>Access and quickly play games you have added to your custom collections</text>
+  </text>
+ </view>
+</theme>

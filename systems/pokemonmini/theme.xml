@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Pokemon Mini</text>
+
+  </text>    
+  <text name="shortdescription">
+   <text>2001  ·  Handheld Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+  </text>
+ </view>
+</theme>

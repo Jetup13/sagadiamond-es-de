@@ -1,0 +1,18 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Atari ST</text>
+  </text>  
+  <text name="shortdescription">
+   <text>1985  ·  Home Computer</text>
+  </text>
+  <text name="longdescription">
+   <text>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family</text>
+  </text>
+ </view>
+</theme>

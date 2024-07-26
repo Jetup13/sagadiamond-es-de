@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+  <text name="sys_line1">
+    <text>Commodore</text>
+  </text> 
+  <text name="sys_line2">
+    <text>Amiga 1200</text>
+  </text>    
+  <text name="shortdescription">
+   <text>1992  ·  Home Computer</text>
+  </text>
+  <text name="longdescription">
+   <text>The Amiga 1200 is a personal computer in the Amiga computer family released by Commodore International, aimed at the home computer market</text>
+  </text>
+ </view>
+</theme>

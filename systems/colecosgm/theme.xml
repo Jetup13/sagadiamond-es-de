@@ -1,0 +1,23 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line1">
+    <text>Coleco Vision</text>
+
+  </text>
+  <text name="sys_line2">
+    <text>SGM</text>
+
+</text>
+  <text name="shortdescription">
+   <text>1983  ·  Home Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The ColecoVision Super Game Module was an unreleased module from 1983</text>
+  </text>
+ </view>
+</theme>

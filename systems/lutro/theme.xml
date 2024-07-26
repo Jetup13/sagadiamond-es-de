@@ -1,0 +1,18 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Lutro</text>
+  </text>
+  <text name="shortdescription">
+   <text>2016  ·  2D Game Engine</text>
+  </text>
+  <text name="longdescription">
+   <text>Lutro is an in-development Love 2D reimplementation written in Lua and implemented as a libretro core</text>
+  </text>
+ </view>
+</theme>

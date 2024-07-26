@@ -1,0 +1,18 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>LOVE</text>
+  </text>    
+  <text name="shortdescription">
+   <text>2017  ·  2D Game Engine</text>
+  </text>
+  <text name="longdescription">
+   <text>ChaiLove, an experiment in porting LOVE to ChaiScript</text>
+  </text>
+ </view>
+</theme>

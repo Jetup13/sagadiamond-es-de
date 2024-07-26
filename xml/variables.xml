@@ -1,0 +1,8 @@
+<theme>
+	<variables>
+		<boldFont>./files/font/Roboto-Bold.ttf</boldFont>
+		<regularFont>./files/font/Roboto-Regular.ttf</regularFont>
+		<mediumFont>./files/font/Roboto-Medium.ttf</mediumFont>
+		<line>./artwork/files/line2.png</line>
+	</variables>	
+</theme>

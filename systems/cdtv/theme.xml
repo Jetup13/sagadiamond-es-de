@@ -1,0 +1,18 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Amiga CDTV</text>
+  </text>    
+  <text name="shortdescription">
+   <text>1991  ·  Home Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The CDTV is a multimedia platform developed by Commodore International and launched in March 1991</text>
+  </text>
+ </view>
+</theme>

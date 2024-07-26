@@ -1,0 +1,18 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Sports</text>
+  </text>    
+  <text name="shortdescription">
+   <text>Game Genre</text>
+  </text>
+  <text name="longdescription">
+   <text>Most sports have been recreated with a game, including team sports, track and field, extreme sports and combat sports</text>
+  </text>
+ </view>
+</theme>

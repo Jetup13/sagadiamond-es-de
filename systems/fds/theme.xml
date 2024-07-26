@@ -1,0 +1,23 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line1">
+    <text>Famicom</text>
+
+  </text>
+  <text name="sys_line2">
+    <text>Disk System</text>
+
+</text>
+  <text name="shortdescription">
+   <text>1986  ·  Home Console Peripheral</text>
+  </text>
+  <text name="longdescription">
+   <text>The Family Computer Disk System is a peripheral for Nintendo's Family Computer home video game console, released only in Japan on February 21, 1986</text>
+  </text>
+ </view>
+</theme>

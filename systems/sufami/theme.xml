@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Sufami Turbo</text>
+
+  </text>   
+  <text name="shortdescription">
+   <text>1996  ·  Home Console Peripheral</text>
+  </text>
+  <text name="longdescription">
+   <text>The SuFami Turbo is an accessory for the Super Famicom, by Bandai, released only in Japan in 1996.</text>
+  </text>
+ </view>
+</theme>

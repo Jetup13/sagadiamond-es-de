@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+  <text name="sys_line1">
+    <text>American</text>
+  </text>  
+  <text name="sys_line2">
+    <text>Laser Games</text>
+  </text>    
+  <text name="shortdescription">
+   <text>Laserdisc Console</text>
+  </text>
+  <text name="longdescription">
+   <text>American Laser Games was a company that created numerous light gun laserdisc video games featuring live action full motion video.</text>
+  </text>
+ </view>
+</theme>

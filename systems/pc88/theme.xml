@@ -1,0 +1,23 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+
+  <text name="sys_line1">
+    <text>NEC</text>
+  </text> 
+
+  <text name="sys_line2">
+    <text>PC-88</text>
+  </text>    
+  <text name="shortdescription">
+   <text>1981  ·  Home Computer</text>
+  </text>
+  <text name="longdescription">
+   <text>PC-88 are a brand of Zilog Z80-based 8-bit home computers released by Nippon Electric Company in 1981 and primarily sold in Japan</text>
+  </text>
+ </view>
+</theme>

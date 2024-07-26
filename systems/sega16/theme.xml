@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>SEGA System 16</text>
+
+</text>
+  <text name="shortdescription">
+   <text>1985  ·  Arcade Board</text>
+  </text>
+  <text name="longdescription">
+   <text>The Sega System 16 is an arcade board released by Sega in 1985 as a 16‑bit successor to the Sega System 1 and Sega System 2</text>
+  </text>
+ </view>
+</theme>

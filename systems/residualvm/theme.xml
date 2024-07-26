@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>ResidualVM</text>
+
+  </text> 
+  <text name="shortdescription">
+   <text>Cross Platform Computer</text>
+  </text>
+  <text name="longdescription">
+   <text>ResidualVM is a cross-platform 3D game interpreter which allows you to play LucasArts' Lua-based 3D adventures</text>
+  </text>
+ </view>
+</theme>

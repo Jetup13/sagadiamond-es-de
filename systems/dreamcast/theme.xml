@@ -1,0 +1,23 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line1">
+    <text>Sega</text>
+
+  </text>
+  <text name="sys_line2">
+    <text>Dreamcast</text>
+
+</text>
+  <text name="shortdescription">
+   <text>1998  ·  Home Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The Dreamcast was Sega's final home console, marking the end of the company's 18 years in the console market</text>
+  </text>
+ </view>
+</theme>

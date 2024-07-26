@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Image Viewer</text>
+
+  </text>    
+  <text name="shortdescription">
+   <text>Images</text>
+  </text>
+  <text name="longdescription">
+   <text>Screenshots of games you've taken!</text>
+  </text>
+ </view>
+</theme>

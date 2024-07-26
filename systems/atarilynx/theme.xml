@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+
+  <text name="sys_line2">
+    <text>Atari Lynx</text>
+</text>
+  <text name="shortdescription">
+   <text>1989  ·  Handheld Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The Lynx was the world's first handheld electronic game with a color LCD and was also notable for its advanced graphics and ambidextrous layout</text>
+  </text>
+ </view>
+</theme>

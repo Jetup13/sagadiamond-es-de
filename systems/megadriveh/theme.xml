@@ -1,0 +1,23 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line1">
+    <text>Sega</text>
+
+  </text>
+  <text name="sys_line2">
+    <text>Megadrive Hacks</text>
+
+</text>
+  <text name="shortdescription">
+   <text>1988  ·  Home Console</text>
+  </text>
+  <text name="longdescription">
+   <text>Sega's third console and the successor to the Master System. First released as the Mega Drive in Japan</text>
+  </text>
+ </view>
+</theme>

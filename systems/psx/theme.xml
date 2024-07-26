@@ -1,0 +1,23 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line1">
+    <text>Sony</text>
+
+  </text>
+  <text name="sys_line2">
+    <text>PlayStation</text>
+
+</text>
+  <text name="shortdescription">
+   <text>1994  ·  Home Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The Sony PlayStation primarily competed with the Nintendo 64 and the Sega Saturn as part of the fifth generation of video game consoles</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,18 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Atari 800</text>
+  </text>    
+  <text name="shortdescription">
+   <text>1979  ·  Home Computer</text>
+  </text>
+  <text name="longdescription">
+   <text>The Atari 8-bit family is a series of 8-bit home computers. All of the machines in the family are technically similar and differ primarily in packaging</text>
+  </text>
+ </view>
+</theme>

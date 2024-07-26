@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Intellivision</text>
+
+  </text>    
+  <text name="shortdescription">
+   <text>1980  ·  Home Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The Intellivision is a home video game console released by Mattel Electronics, and was in direct competition with the Atari 2600</text>
+  </text>
+ </view>
+</theme>

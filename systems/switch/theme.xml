@@ -1,0 +1,17 @@
+<theme>
+
+<view name="system">
+  <text name="sys_line1">
+    <text>Nintendo</text>
+  </text>    
+  <text name="sys_line2">
+    <text>Switch</text>
+  </text>    
+  <text name="shortdescription">
+   <text>2017  ·  Home Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The Nintendo Switch is a video game console developed by Nintendo and released worldwide in most regions on March 3, 2017. Released in the middle of the eighth generation of home consoles, the Switch succeeded the Wii U and competed with Microsoft's Xbox One and Sony's PlayStation 4</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>TIC-80</text>
+
+  </text>   
+  <text name="shortdescription">
+   <text>2017  ·  Fantasy Computer</text>
+  </text>
+  <text name="longdescription">
+   <text>TIC-80 is a fantasy computer for making, playing and sharing tiny games.</text>
+  </text>
+ </view>
+</theme>

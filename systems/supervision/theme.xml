@@ -1,0 +1,23 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line1">
+    <text>Watara</text>
+
+  </text>
+  <text name="sys_line2">
+    <text>Supervision</text>
+
+</text>
+  <text name="shortdescription">
+   <text>1992  ·  Handheld Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The Watara Supervision is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo's Game Boy</text>
+  </text>
+ </view>
+</theme>

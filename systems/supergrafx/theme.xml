@@ -1,0 +1,20 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>SuperGrafx</text>
+
+  </text>   
+  <text name="shortdescription">
+   <text>1989  ·  Home Console</text>
+  </text>
+  <text name="longdescription">
+   <text>The SuperGrafx is an upgraded version of the PC Engine. Only six retail games were produced which took advantage of the improved hardware
+</text>
+  </text>
+ </view>
+</theme>

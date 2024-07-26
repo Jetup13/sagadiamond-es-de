@@ -1,0 +1,20 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+
+  <text name="sys_line2">
+    <text>Satellaview</text>
+
+</text>
+  <text name="shortdescription">
+   <text>1995  ·  Console Peripheral</text>
+  </text>
+  <text name="longdescription">
+   <text>Satellaview allowed players to download games, magazines and other forms of content through satellite broadcasts</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>EASY RPG</text>
+
+  </text> 
+  <text name="shortdescription">
+   <text>EASY RPG · RPG Engine</text>
+  </text>
+  <text name="longdescription">
+   <text>Free and open source role playing game interpreter and editor compatible with RPG Maker 2000 and 2003 games</text>
+  </text>
+ </view>
+</theme>

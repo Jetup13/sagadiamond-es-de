@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>SEGA VIC Dual</text>
+
+  </text> 
+  <text name="shortdescription">
+   <text>1977  ·  Arcade Board</text>
+  </text>
+  <text name="longdescription">
+   <text>The Dual, also known as the VIC Dual, is an arcade system produced by Gremlin and Sega</text>
+  </text>
+ </view>
+</theme>

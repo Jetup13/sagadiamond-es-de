@@ -1,0 +1,23 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line1">
+    <text>Sega</text>
+
+  </text>
+  <text name="sys_line2">
+    <text>Saturn - Libretro</text>
+
+</text>
+  <text name="shortdescription">
+   <text>1994  ·  Home Console</text>
+  </text>
+  <text name="longdescription">
+   <text>Fifth generation home video game console developed by Sega and successor to the successful Sega Genesis</text>
+  </text>
+ </view>
+</theme>

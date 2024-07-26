@@ -1,0 +1,18 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Kids</text>
+  </text>    
+  <text name="shortdescription">
+   <text>Game Genre</text>
+  </text>
+  <text name="longdescription">
+   <text>A kids-friendly game may include minimal cartoon or fantasy violence, and infrequent mild language</text>
+  </text>
+ </view>
+</theme>

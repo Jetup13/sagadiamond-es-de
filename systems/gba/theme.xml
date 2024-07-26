@@ -1,0 +1,23 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line1">
+    <text>GameBoy</text>
+
+  </text>
+  <text name="sys_line2">
+    <text>Advance</text>
+
+</text>
+  <text name="shortdescription">
+   <text>2001  ·  Handheld Console</text>
+  </text>
+  <text name="longdescription">
+   <text>Successor to the Game Boy Color. Market competitors at the time were the Neo Geo Pocket Color, Wonder Swan, GP32 and the N-Gage</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Doom</text>
+
+  </text> 
+  <text name="shortdescription">
+   <text>LZdoom · Doom Engine</text>
+  </text>
+  <text name="longdescription">
+   <text>LZDoom is a classic style GZDoom fork with lower system requirements</text>
+  </text>
+ </view>
+</theme>

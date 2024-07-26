@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+  <text name="sys_line2">
+    <text>Adventure</text>
+  </text>    
+  <text name="shortdescription">
+   <text>Game Genre</text>
+  </text>
+  <text name="longdescription">
+   <text>In an adventure game the player follows an interactive story, driven by exploration and puzzle-solving</text>
+  </text>
+ </view>
+</theme>

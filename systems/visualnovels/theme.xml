@@ -1,0 +1,18 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Visual Novel</text>
+  </text>    
+  <text name="shortdescription">
+   <text>Game Genre</text>
+  </text>
+  <text name="longdescription">
+   <text>A visual novel is an interactive fiction video game genre, featuring text-based story with narrative style of literature and interactivity aided by static or sprite-based visuals</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>ZX-81</text>
+
+  </text>    
+  <text name="shortdescription">
+   <text>1980  ·  Home Computer</text>
+  </text>
+  <text name="longdescription">
+   <text>Notable for being one of the first computers available in the United Kingdom for less than a hundred pounds</text>
+  </text>
+ </view>
+</theme>

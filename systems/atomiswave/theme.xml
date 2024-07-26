@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Atomiswave</text>
+
+  </text>    
+  <text name="shortdescription">
+   <text>2003  ·  Arcade Board</text>
+  </text>
+  <text name="longdescription">
+   <text>Custom arcade system board and cabinet from Sammy Corporation. It is based on Sega's Dreamcast system board</text>
+  </text>
+ </view>
+</theme>

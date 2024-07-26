@@ -1,0 +1,18 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>FreeJ2ME</text>
+   </text>
+  <text name="shortdescription">
+   <text>1996  ·  Handheld OS</text>
+  </text>
+  <text name="longdescription">
+   <text>FreeJ2ME is a J2ME emulator</text>
+  </text>
+ </view>
+</theme>

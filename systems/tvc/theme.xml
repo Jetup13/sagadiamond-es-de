@@ -1,0 +1,21 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line1">
+    <text>Videotan</text>
+   </text>
+  <text name="sys_line2">
+    <text>TV-Computer</text>
+   </text>
+  <text name="shortdescription">
+   <text>1986  ·  Home Computer</text>
+  </text>
+  <text name="longdescription">
+   <text>The TV-Computer (or TVC in short) is an 8-bit home computer which was manufactured by the Hungarian company Videoton around 1986</text>
+  </text>
+ </view>
+</theme>

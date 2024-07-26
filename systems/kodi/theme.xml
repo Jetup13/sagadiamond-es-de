@@ -1,0 +1,19 @@
+<theme>
+
+
+
+    
+
+<view name="system">
+  <text name="sys_line2">
+    <text>Kodi</text>
+
+  </text>    
+  <text name="shortdescription">
+   <text>Streaming Video Service</text>
+  </text>
+  <text name="longdescription">
+   <text>Kodi is an award-winning free and open source cross-platform software media player and entertainment hub for digital media for HTPCs</text>
+  </text>
+ </view>
+</theme>
