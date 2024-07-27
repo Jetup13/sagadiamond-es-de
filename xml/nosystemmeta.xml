@@ -1,0 +1,12 @@
+<theme>
+	<variant name="nosystemmeta">
+	<view name="system">
+		<text name="longdescription">
+			<visible>false</visible>
+		</text>
+		<text name="shortdescription">
+			<visible>false</visible>
+		</text>
+	</view>
+	</variant>
+</theme>

@@ -5,6 +5,31 @@
 	<aspectRatio>16:9</aspectRatio>
 	<aspectRatio>4:3</aspectRatio>
 	
+	<variant name="default">
+		<label>Default</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="nosystemmeta">
+		<label>No System Metadata</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="removesystemname">
+		<label>Remove System Name</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="removesystemnameandmeta">
+		<label>Remove System Name & Metadata</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="removeeverything">
+		<label>Remove Everything</label>
+		<selectable>true</selectable>
+	</variant>
+
 	<colorScheme name="white">
 		<label>White</label>
 	</colorScheme>

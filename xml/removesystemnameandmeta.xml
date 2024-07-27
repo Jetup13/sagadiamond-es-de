@@ -1,0 +1,18 @@
+<theme>
+	<variant name="removesystemnameandmeta">
+	<view name="system">
+		<text name="longdescription">
+			<visible>false</visible>
+		</text>
+		<text name="shortdescription">
+			<visible>false</visible>
+		</text>
+		<text name="sys_line1">
+			<visible>false</visible>
+		</text>
+		<text name="sys_line2">
+			<visible>false</visible>
+		</text>
+	</view>
+	</variant>
+</theme>

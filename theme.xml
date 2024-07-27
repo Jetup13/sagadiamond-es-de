@@ -2,6 +2,11 @@
 	<include>./systems/${system.theme}/theme.xml</include>
 	<include>./xml/variables.xml</include>
 	<include>./xml/colors.xml</include>
+	<include>./xml/default.xml</include>
+	<include>./xml/nosystemmeta.xml</include>
+	<include>./xml/removesystemname.xml</include>
+	<include>./xml/removesystemnameandmeta.xml</include>
+	<include>./xml/removeeverything.xml</include>
 	
 	<aspectRatio name="16:9">
         <include>./xml/aspect-ratio-16-9.xml</include>
@@ -41,41 +46,49 @@
 		<text name="system-label">
 			<visible>false</visible>
 		</text>
+
 		<text name="sys_line1">
 			<color>${textColor}</color>
 			<fontPath>${boldFont}</fontPath>
 		</text>
+
 		<text name="sys_line2">
 			<color>${textColor}</color>
 			<fontPath>${boldFont}</fontPath>
 		</text>
+
 		<text name="longdescription">
 			<color>${textldColor}</color>
 			<container>true</container>
 			<fontPath>${regularFont}</fontPath>
 			<zIndex>17</zIndex>
 		</text>
+
 		<text name="shortdescription">
 			<color>${textsdColor}</color>
 			<fontPath>${mediumFont}</fontPath>
 			<zIndex>17</zIndex>
 		</text>
+
 		<image name="lineUpperLeft">
 			<path>${line}</path>
 			<color>${textldColor}</color>
 			<zIndex>11</zIndex>
 		</image>
+
 		<image name="lineBottomLeft">
 			<path>${line}</path>
 			<color>${textldColor}</color>
 			<zIndex>11</zIndex>
 		</image>
+
 		<helpsystem name="help">
 			<textColor>${textColor}</textColor>
 			<iconColor>${textldColor}</iconColor>
 			<fontPath>${boldFont}</fontPath>
 		</helpsystem>
 	</view>
+
 	<view name="gamelist">
 			<carousel name="gamelistCarousel">
 			<type>horizontal</type>
@@ -141,6 +154,7 @@
 			<color>${textldColor}</color>
 			<zIndex>11</zIndex>
 		</image>
+
 		<helpsystem name="help">
 			<textColor>${textColor}</textColor>
 			<iconColor>${textldColor}</iconColor>

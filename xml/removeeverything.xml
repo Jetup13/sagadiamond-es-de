@@ -1,0 +1,27 @@
+<theme>
+	<variant name="removeeverything">
+	<view name="system">
+		<text name="longdescription">
+			<visible>false</visible>
+		</text>
+		<text name="shortdescription">
+			<visible>false</visible>
+		</text>
+		<text name="sys_line1">
+			<visible>false</visible>
+		</text>
+		<text name="sys_line2">
+			<visible>false</visible>
+		</text>
+
+		<image name="blurbackground">
+			<visible>false</visible>
+		</image>
+	</view>
+	<view name="gamelist">
+		<image name="blurbackground">
+			<visible>false</visible>
+		</image>
+	</view>
+	</variant>
+</theme>

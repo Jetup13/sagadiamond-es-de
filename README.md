@@ -6,8 +6,10 @@ Features|Note
 :-------|:----
 4:3 Support|
 16:9 Support|
+5x Variations|
 6x Color Schemes|White, Baby Blue, Mint, Cardinal Red, Fuchsia Pink, Orange
 System Description|
+
 
 System View|Gamelist View
 :---------:|:-----------:
