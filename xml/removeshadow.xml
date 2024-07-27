@@ -1,0 +1,14 @@
+<theme>
+	<variant name="removeshadow">
+	<view name="system">
+		<image name="blurbackground">
+			<visible>false</visible>
+		</image>
+	</view>
+	<view name="gamelist">
+		<image name="blurbackground">
+			<visible>false</visible>
+		</image>
+	</view>
+	</variant>
+</theme>

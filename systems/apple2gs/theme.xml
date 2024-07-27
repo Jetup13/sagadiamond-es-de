@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>Apple IIGS</text>
+</text>
+<text name="shortdescription">
+<text>1986  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The Apple IIGS is a 16-bit personal computer produced by Apple Computer. It is the fifth and most powerful of the Apple II family</text>
+</text>
+</view>
+</theme>
