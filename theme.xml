@@ -1,11 +1,13 @@
 <theme>
 	<include>./systems/${system.theme}/theme.xml</include>
+	<include>./navigationsounds.xml</include>
 	<include>./xml/variables.xml</include>
 	<include>./xml/colors.xml</include>
 	<include>./xml/default.xml</include>
 	<include>./xml/nosystemmeta.xml</include>
 	<include>./xml/removesystemname.xml</include>
 	<include>./xml/removesystemnameandmeta.xml</include>
+	<include>./xml/removeshadow.xml</include>
 	<include>./xml/removeeverything.xml</include>
 	
 	<aspectRatio name="16:9">
@@ -161,5 +163,4 @@
 			<fontPath>${boldFont}</fontPath>
 		</helpsystem>
 	</view>
-		
 </theme>
