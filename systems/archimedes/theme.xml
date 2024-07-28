@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Acorn</text>
+</text>
+<text name="sys_line2">
+<text>Archimedes</text>
+</text>
+<text name="shortdescription">
+<text>1987  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>Acorn Archimedes is a family of personal computers designed by Acorn Computers of Cambridge, England</text>
+</text>
+</view>
+</theme>

@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Sony</text>
+</text>
+<text name="sys_line2">
+<text>PlayStation Vita</text>
+</text>
+<text name="shortdescription">
+<text>2011  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>The PlayStation Vita is a handheld game console developed and marketed by Sony Computer Entertainment</text>
+</text>
+</view>
+</theme>

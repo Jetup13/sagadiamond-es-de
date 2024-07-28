@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>VTech</text>
+</text>
+<text name="sys_line2">
+<text>V.Smile</text>
+</text>
+<text name="shortdescription">
+<text>2004  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The V.Smile is a sixth-generation educational home video game console manufactured and released by VTec</text>
+</text>
+</view>
+</theme>

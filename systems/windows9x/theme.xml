@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Microsoft</text>
+</text>
+<text name="sys_line2">
+<text>Windows 9.x</text>
+</text>
+<text name="shortdescription">
+<text>1995  ·  Desktop Computers</text>
+</text>
+<text name="longdescription">
+<text>Windows 9x is a generic term referring to a series of Microsoft Windows computer operating systems produced from 1995 to 2000</text>
+</text>
+</view>
+</theme>

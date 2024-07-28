@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Atari</text>
+</text>
+<text name="sys_line2">
+<text>XEGS</text>
+</text>
+<text name="shortdescription">
+<text>1987  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The Atari XE Video Game System is a third generation video game console developed and distributed by Atari Corporation</text>
+</text>
+</view>
+</theme>

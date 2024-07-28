@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Amstrad</text>
+</text>
+<text name="sys_line2">
+<text>GX4000</text>
+</text>
+<text name="shortdescription">
+<text>1990  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The Amstrad GX4000, commonly known as the GX4000, is a third generation video game console developed and distributed by Amstrad</text>
+</text>
+</view>
+</theme>

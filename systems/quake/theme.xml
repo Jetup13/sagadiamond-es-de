@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>Quake</text>
+</text>
+<text name="shortdescription">
+<text>1996  ·  Quake Engine</text>
+</text>
+<text name="longdescription">
+<text>Quake is a first-person shooter game developed by id Software and published by GT Interactive</text>
+</text>
+</view>
+</theme>

@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Nokia</text>
+</text>
+<text name="sys_line2">
+<text>N-Gage</text>
+</text>
+<text name="shortdescription">
+<text>2003  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>The N-Gage is a smartphone combining features of a mobile phone and a handheld game system developed by Nokia and released on 7 October 2003</text>
+</text>
+</view>
+</theme>

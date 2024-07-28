@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Microsoft</text>
+</text>
+<text name="sys_line2">
+<text>Windows</text>
+</text>
+<text name="shortdescription">
+<text>1985  ·  Desktop Computers</text>
+</text>
+<text name="longdescription">
+<text>Microsoft Windows is a product line of proprietary graphical operating systems developed and marketed by Microsoft</text>
+</text>
+</view>
+</theme>

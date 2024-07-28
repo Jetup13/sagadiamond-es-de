@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line">
+<text>SEGA</text>
+</text>
+<text name="sys_line2">
+<text>Model 2</text>
+</text>
+<text name="shortdescription">
+<text>1993  ·  Arcade Board</text>
+</text>
+<text name="longdescription">
+<text>The Sega Model 2 is an arcade system board originally debuted by Sega in 1993 as a successor to the Sega Model 1 board</text>
+</text>
+</view>
+</theme>

@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Atari</text>
+</text>
+<text name="sys_line2">
+<text>Jaguar CD</text>
+</text>
+<text name="shortdescription">
+<text>1995  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The Atari Jaguar CD is a fifth generation CD-ROM peripheral for the Atari Jaguar video game console developed and distributed by Atari Corporation</text>
+</text>
+</view>
+</theme>

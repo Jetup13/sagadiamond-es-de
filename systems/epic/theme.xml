@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Epic</text>
+</text>
+<text name="sys_line2">
+<text>Game Store</text>
+</text>
+<text name="shortdescription">
+<text>2018  ·  Digital Platform</text>
+</text>
+<text name="longdescription">
+<text>The Epic Games Store is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games</text>
+</text>
+</view>
+</theme>

@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Commodore</text>
+</text>
+<text name="sys_line2">
+<text>Amiga 600</text>
+</text>
+<text name="shortdescription">
+<text>1992  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The Amiga 600, also known as the A600, is a home computer introduced in March 1992</text>
+</text>
+</view>
+</theme>

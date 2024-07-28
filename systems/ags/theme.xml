@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Adventure Game</text>
+</text>
+<text name="sys_line2">
+<text>Studio Game Engine</text>
+</text>
+<text name="shortdescription">
+<text>1997  ·  Game Engine</text>
+</text>
+<text name="longdescription">
+<text>AGS is an Adventure Engine to create graphical point-and-click adventure games</text>
+</text>
+</view>
+</theme>

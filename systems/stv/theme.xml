@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>SEGA</text>
+</text>
+<text name="sys_line2">
+<text>Titan Video</text>
+</text>
+<text name="shortdescription">
+<text>1994  ·  Arcade Board</text>
+</text>
+<text name="longdescription">
+<text>Departing from their usual process of building custom arcade hardware, Sega's ST-V is essentially identical to the Sega Saturn home console system</text>
+</text>
+</view>
+</theme>

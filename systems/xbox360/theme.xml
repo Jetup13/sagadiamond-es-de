@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Microsoft</text>
+</text>
+<text name="sys_line2">
+<text>Xbox 360</text>
+</text>
+<text name="shortdescription">
+<text>2005  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The Xbox 360 is a home video game console developed by Microsoft. As the successor to the original Xbox, it is the second console in the Xbox series</text>
+</text>
+</view>
+</theme>

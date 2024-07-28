@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Microsoft</text>
+</text>
+<text name="sys_line2">
+<text>Windows 3.x</text>
+</text>
+<text name="shortdescription">
+<text>1990  ·  Desktop Computers</text>
+</text>
+<text name="longdescription">
+<text>Windows 3.0 is the third major release of Microsoft Windows, launched in 1990</text>
+</text>
+</view>
+</theme>

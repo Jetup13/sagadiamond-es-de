@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>Visual Pinball</text>
+</text>
+<text name="shortdescription">
+<text>2000  ·  Game Engine</text>
+</text>
+<text name="longdescription">
+<text>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines</text>
+</text>
+</view>
+</theme>

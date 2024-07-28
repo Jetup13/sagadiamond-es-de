@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>Emulators</text>
+</text>
+<text name="shortdescription">
+<text>Shortcuts</text>
+</text>
+<text name="longdescription">
+<text>Modify your Emulator settings and configurations</text>
+</text>
+</view>
+</theme>

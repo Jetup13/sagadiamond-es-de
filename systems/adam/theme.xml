@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Coleco</text>
+</text>
+<text name="sys_line2">
+<text>Adam</text>
+</text>
+<text name="shortdescription">
+<text>1983  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The Coleco Adam is a home computer and expansion device for the ColecoVision by American toy and video game manufacturer Coleco</text>
+</text>
+</view>
+</theme>

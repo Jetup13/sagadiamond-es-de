@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Advance</text>
+</text>
+<text name="sys_line2">
+<text>MAME</text>
+</text>
+<text name="shortdescription">
+<text>1998  ·  Emulator</text>
+</text>
+<text name="longdescription">
+<text>AdvanceMAME, is a port of the MAME 0.106 and MESS 0.106 emulators for Arcade Monitors and TVs but also for LCDs and PC monitors</text>
+</text>
+</view>
+</theme>

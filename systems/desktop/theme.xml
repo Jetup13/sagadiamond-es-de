@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>Desktop</text>
+</text>
+<text name="shortdescription">
+<text>Shortcuts</text>
+</text>
+<text name="longdescription">
+<text>View and run your Desktop shortcuts</text>
+</text>
+</view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>MSX Turbo R</text>
+</text>
+<text name="shortdescription">
+<text>1991  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The MSX Turbo R is the last generation of MSX computers that was put to market by a household electronic brand</text>
+</text>
+</view>
+</theme>
