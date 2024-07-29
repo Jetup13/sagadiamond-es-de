@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Color COMPUTER</text>
+</text>
+<text name="sys_line2">
+<text>COCO TRS-80</text>
+</text>
+<text name="shortdescription">
+<text>1977  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>Sold by Tandy through their RadioShack stores. It is one of the earliest mass-produced home computer</text>
+</text>
+</view>
+</theme>

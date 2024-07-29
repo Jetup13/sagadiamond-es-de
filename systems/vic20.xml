@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>VIC-20</text>
+</text>
+<text name="shortdescription">
+<text>1980  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The VIC-20 was the first computer of any description to sell one million units</text>
+</text>
+</view>
+</theme>

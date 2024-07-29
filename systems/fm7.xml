@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Fujitsu</text>
+</text>
+<text name="sys_line2">
+<text>Micro 7</text>
+</text>
+<text name="shortdescription">
+<text>1982  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The FM-7 is a home computer created by Fujitsu. It was first released in 1982 and was sold in Japan and Spain</text>
+</text>
+</view>
+</theme>

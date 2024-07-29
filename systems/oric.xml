@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Tangerine</text>
+</text>
+<text name="sys_line2">
+<text>Oric</text>
+</text>
+<text name="shortdescription">
+<text>1982  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>Oric was the name used by UK-based Tangerine Computer Systems for a series of 6502-based home computers sold in the 1980s, primarily in Europe</text>
+</text>
+</view>
+</theme>

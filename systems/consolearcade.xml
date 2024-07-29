@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Console</text>
+</text>
+<text name="sys_line2">
+<text>Arcade Games</text>
+</text>
+<text name="shortdescription">
+<text>Various</text>
+</text>
+<text name="longdescription">
+<text>While arcade boards have traditionally been custom designs, there have been a number of systems that were instead based on home console platforms</text>
+</text>
+</view>
+</theme>

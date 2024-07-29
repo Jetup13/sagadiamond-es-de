@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>SEGA</text>
+</text>
+<text name="sys_line2">
+<text>Mega Drive 32X</text>
+</text>
+<text name="shortdescription">
+<text>1994  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>Designed to expand the power of the Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn</text>
+</text>
+</view>
+</theme>

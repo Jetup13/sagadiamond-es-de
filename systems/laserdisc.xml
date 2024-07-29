@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>LaserDisc Games</text>
+</text>
+<text name="shortdescription">
+<text>Various</text>
+</text>
+<text name="longdescription">
+<text>LaserDisc arcade games use pre-recorded video, either in combination with overlaid sprites or simply as sections of video controllable by the player</text>
+</text>
+</view>
+</theme>

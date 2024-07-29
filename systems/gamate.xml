@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Bit Corporation</text>
+</text>
+<text name="sys_line2">
+<text>Gamate</text>
+</text>
+<text name="shortdescription">
+<text>1990  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>The Gamate is a handheld game console manufactured by Bit Corporation in the early 1990s, and released in Australia, some parts of Europe, Asia (Taiwan and China), Argentina, and the United States</text>
+</text>
+</view>
+</theme>

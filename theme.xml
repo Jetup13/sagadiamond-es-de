@@ -1,5 +1,5 @@
 <theme>
-	<include>./systems/${system.theme}/theme.xml</include>
+	<include>./systems/${system.theme}.xml</include>
 	<include>./navigationsounds.xml</include>
 	<include>./xml/variables.xml</include>
 	<include>./xml/colors.xml</include>

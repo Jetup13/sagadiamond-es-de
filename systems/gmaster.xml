@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Hartung</text>
+</text>
+<text name="sys_line2">
+<text>Game Master</text>
+</text>
+<text name="shortdescription">
+<text>1990  ·  Handheld Console</text>
+</text>
+<text name="longdescription">
+<text>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy</text>
+</text>
+</view>
+</theme>

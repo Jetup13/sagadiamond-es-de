@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Othello</text>
+</text>
+<text name="sys_line2">
+<text>Multivision</text>
+</text>
+<text name="shortdescription">
+<text>1983  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The Othello Multivisio is a licensed SG-1000 clone manufactured by Tsukuda Original</text>
+</text>
+</view>
+</theme>

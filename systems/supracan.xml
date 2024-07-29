@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Funtech</text>
+</text>
+<text name="sys_line2">
+<text>Super A'can</text>
+</text>
+<text name="shortdescription">
+<text>1995  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>The Super A'can is a home video game console released exclusively in Taiwan in 1995 by Funtech/Dunhuang Technology</text>
+</text>
+</view>
+</theme>

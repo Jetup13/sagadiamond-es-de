@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>Symbian</text>
+</text>
+<text name="shortdescription">
+<text>1997  ·  Operating System</text>
+</text>
+<text name="longdescription">
+<text>Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones</text>
+</text>
+</view>
+</theme>

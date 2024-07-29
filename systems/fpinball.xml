@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Future Pinball</text>
+</text>
+<text name="sys_line2">
+<text>Pinball</text>
+</text>
+<text name="shortdescription">
+<text>2005  ·  Game Engine</text>
+</text>
+<text name="longdescription">
+<text>Future Pinball is a freeware 3D pinball editing and gaming application for Microsoft Windows</text>
+</text>
+</view>
+</theme>

@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Acorn</text>
+</text>
+<text name="sys_line2">
+<text>Electron</text>
+</text>
+<text name="shortdescription">
+<text>1983  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The Acorn Electron was a lower-cost alternative to the BBC Micro educational/home computer, also developed by Acorn Computers Ltd</text>
+</text>
+</view>
+</theme>

@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Taito</text>
+</text>
+<text name="sys_line2">
+<text>Type X</text>
+</text>
+<text name="shortdescription">
+<text>2004  ·  Arcade Board</text>
+</text>
+<text name="longdescription">
+<text>The Taito Type X is an arcade system board released in 2004 by game developer and publisher Taito</text>
+</text>
+</view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>Lutris</text>
+</text>
+<text name="shortdescription">
+<text>2010  ·  Game Engine</text>
+</text>
+<text name="longdescription">
+<text>Lutris is a free and open source game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community</text>
+</text>
+</view>
+</theme>

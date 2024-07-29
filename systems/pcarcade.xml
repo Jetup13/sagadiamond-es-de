@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>PC</text>
+</text>
+<text name="sys_line2">
+<text>Arcade Games</text>
+</text>
+<text name="shortdescription">
+<text>Various</text>
+</text>
+<text name="longdescription">
+<text>n the beginning of the 2000s arcade system manufacturers started to move away from custom board designs, and as part of this change many instead adapted the standard PC architecture</text>
+</text>
+</view>
+</theme>

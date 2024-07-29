@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>SAM</text>
+</text>
+<text name="sys_line2">
+<text>Coupé</text>
+</text>
+<text name="shortdescription">
+<text>1989  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The SAM Coupé is an 8-bit British home computer that was first released in late 1989</text>
+</text>
+</view>
+</theme>

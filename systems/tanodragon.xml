@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Dragon Data</text>
+</text>
+<text name="sys_line2">
+<text>Tano Dragon</text>
+</text>
+<text name="shortdescription">
+<text>1984  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The Dragon 32 and Dragon 64 are home computers that were built in the 1980s</text>
+</text>
+</view>
+</theme>

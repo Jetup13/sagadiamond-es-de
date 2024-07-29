@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Adobe</text>
+</text>
+<text name="sys_line2">
+<text>Flash</text>
+</text>
+<text name="shortdescription">
+<text>1996  ·  Engine</text>
+</text>
+<text name="longdescription">
+<text>Adobe Flash (formerly Macromedia Flash and FutureSplash) was a multimedia software platform used for production of various applications and media</text>
+</text>
+</view>
+</theme>

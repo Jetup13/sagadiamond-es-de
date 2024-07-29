@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>Elecbyte</text>
+</text>
+<text name="sys_line2">
+<text>M.U.G.E.N</text>
+</text>
+<text name="shortdescription">
+<text>1999  ·  Game Engine</text>
+</text>
+<text name="longdescription">
+<text>Mugen is a freeware 2D fighting game engine designed by Elecbyte</text>
+</text>
+</view>
+</theme>

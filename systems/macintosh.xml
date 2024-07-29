@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Apple</text>
+</text>
+<text name="sys_line2">
+<text>Macintosh</text>
+</text>
+<text name="shortdescription">
+<text>1984  ·  Home Computer</text>
+</text>
+<text name="longdescription">
+<text>The Macintosh (mainly Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc</text>
+</text>
+</view>
+</theme>

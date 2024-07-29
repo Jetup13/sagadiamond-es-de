@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Triforce</text>
+</text>
+<text name="sys_line2">
+<text>Arcade System</text>
+</text>
+<text name="shortdescription">
+<text>2002  ·  Arcade Board</text>
+</text>
+<text name="longdescription">
+<text>The Triforce is an arcade board developed in a joint venture between Sega, Nintendo, and Namco</text>
+</text>
+</view>
+</theme>

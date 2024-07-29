@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>SEGA</text>
+</text>
+<text name="sys_line2">
+<text>Model 3</text>
+</text>
+<text name="shortdescription">
+<text>1996  ·  Arcade Board</text>
+</text>
+<text name="longdescription">
+<text>The Sega Model 3 is an arcade platform produced by Sega in partnership with Lockheed Martin</text>
+</text>
+</view>
+</theme>
