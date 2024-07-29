@@ -5,7 +5,7 @@
 			<size>1.5 1</size>
 			<origin>0.5 0.5</origin>
 			<maxItemCount>4.25</maxItemCount>
-			<itemSize>0.5 0.56</itemSize>
+			<itemSize>0.5 0.58</itemSize>
 			<itemScale>1</itemScale>
 			<itemsBeforeCenter>0</itemsBeforeCenter>
 			<selectedItemOffset>0 0</selectedItemOffset>
@@ -54,7 +54,7 @@
 			<size>1.5 1</size>
 			<origin>0.5 0.5</origin>
 			<maxItemCount>4.25</maxItemCount>
-			<itemSize>0.3 0.55</itemSize>
+			<itemSize>0.5 0.48</itemSize>
 			<itemScale>1</itemScale>
 			<selectedItemOffset>0 0</selectedItemOffset>
 			<selectedItemMargins>.25 0.1</selectedItemMargins >
@@ -77,7 +77,7 @@
 		<text name="name">
 			<pos>0.5 0.3</pos>
 			<size>0.5 0.3105</size>
-			<fontSize>0.05</fontSize>
+			<fontSize>0.055</fontSize>
 		</text>
 		
 		<text name="developer">

@@ -3,6 +3,7 @@
 	<themeName>Saga Diamond</themeName>
 	
 	<aspectRatio>16:9</aspectRatio>
+	<aspectRatio>21:9</aspectRatio>
 	<aspectRatio>4:3</aspectRatio>
 	
 	<variant name="default">

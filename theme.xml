@@ -13,6 +13,9 @@
 	<aspectRatio name="16:9">
         <include>./xml/aspect-ratio-16-9.xml</include>
     </aspectRatio>
+	<aspectRatio name="21:9">
+        <include>./xml/aspect-ratio-21-9.xml</include>
+    </aspectRatio>
 	<aspectRatio name="4:3">
         <include>./xml/aspect-ratio-4-3.xml</include>
     </aspectRatio>
@@ -34,14 +37,14 @@
 		<image name="background">
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>./artwork/files/background.png</path>
+			<path>${background}</path>
 			<zIndex>1</zIndex>
 		</image>
 		
 		<image name="blurbackground">
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>./artwork/files/blurbackground.png</path>
+			<path>${darkbackground}</path>
 			<zIndex>16</zIndex>
 		</image>
 		
@@ -134,14 +137,14 @@
 		<image name="background">
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>./artwork/files/background.png</path>
+			<path>${background}</path>
 			<zIndex>1</zIndex>
 		</image>
 
 		<image name="blurbackground">
 			<pos>0 0</pos>
 			<size>1 1</size>
-			<path>./artwork/files/blurbackground.png</path>
+			<path>${darkbackground}</path>
 			<zIndex>16</zIndex>
 		</image>
 
