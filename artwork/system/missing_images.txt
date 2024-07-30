@@ -1,12 +1,3 @@
-bbcmicro.png
-chailove.png
-channelf.png
-coco.png
-colecovision.png
-consolearcade.png
-desktop.png
-dragon32.png
-emulators.png
 fba.png
 flash.png
 fm7.png
@@ -56,7 +47,6 @@ ti99.png
 tic80.png
 to8.png
 triforce.png
-trs-80.png
 type-x.png
 uzebox.png
 vectrex.png
