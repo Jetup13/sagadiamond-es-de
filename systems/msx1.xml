@@ -1,5 +1,8 @@
 <theme>
 <view name="system">
+<text name="sys_line1">
+<text>Microsoft</text>
+</text>
 <text name="sys_line2">
 <text>MSX</text>
 </text>
@@ -7,7 +10,7 @@
 <text>1983  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The MSX is the name of a standardized home computer architecture, first announced by Microsoft on June 16, 1983</text>
+<text>The first MSX computer sold to the public was a Mitsubishi ML-8000, released on October 21, 1983, thus marking its official release date</text>
 </text>
 </view>
 </theme>
