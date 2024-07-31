@@ -49,13 +49,12 @@
 		</image>
 	</view>
 	<view name="gamelist">
-			<carousel name="gamelistCarousel">
+		<carousel name="gamelistCarousel">
 			<pos>.25 0.5</pos>
 			<size>1.5 1</size>
 			<origin>0.5 0.5</origin>
 			<maxItemCount>4.25</maxItemCount>
 			<itemSize>0.3 0.55</itemSize>
-			<itemScale>1</itemScale>
 			<selectedItemOffset>0 0</selectedItemOffset>
 			<selectedItemMargins>.25 0.1</selectedItemMargins >
 			<itemScale>1.48</itemScale>
@@ -75,21 +74,21 @@
 		</text>
 
 		<text name="name">
-			<pos>0.5 0.3</pos>
+			<pos>0.5 0.25</pos>
 			<size>0.5 0.3105</size>
-			<fontSize>0.05</fontSize>
+			<fontSize>0.06</fontSize>
 		</text>
 		
 		<text name="developer">
 			<pos>0.5 0.42</pos>
 			<size>0.5 0.3105</size>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.033</fontSize>
 		</text>
 		
 		<datetime name="releasedate">
 			<pos>0.5 0.388</pos>
 			<size>0.5 0.3105</size>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.033</fontSize>
 		</datetime>
 		<image name="lineUpperLeft">
 			<pos>0.0 0.07</pos>

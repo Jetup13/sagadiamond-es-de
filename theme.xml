@@ -23,7 +23,6 @@
 	<view name="system">
 		<carousel name="systemCarousel">
 			<type>horizontal</type>
-			<itemsBeforeCenter>0</itemsBeforeCenter>
 			<itemStacking>descending</itemStacking>
 			<unfocusedItemOpacity>1</unfocusedItemOpacity>
 			<unfocusedItemDimming>0.2</unfocusedItemDimming>
@@ -95,7 +94,7 @@
 	</view>
 
 	<view name="gamelist">
-			<carousel name="gamelistCarousel">
+		<carousel name="gamelistCarousel">
 			<type>horizontal</type>
 			<unfocusedItemOpacity>1</unfocusedItemOpacity>
 			<unfocusedItemDimming>0.2</unfocusedItemDimming>
