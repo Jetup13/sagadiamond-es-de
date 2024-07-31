@@ -1,5 +1,8 @@
 <theme>
 <view name="system">
+<text name="sys_line1">
+<text>NEC</text>
+</text>
 <text name="sys_line2">
 <text>TurboGrafx-16</text>
 </text>
@@ -7,7 +10,7 @@
 <text>1987  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Originally intended to compete with the NES, it ended up competing with the Sega Genesis, and later on the Super Nintendo</text>
+<text>The TurboGrafx-16 is a home video game console designed by Hudson Soft and sold by NEC Home Electronics</text>
 </text>
 </view>
 </theme>
