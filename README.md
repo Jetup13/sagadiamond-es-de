@@ -14,3 +14,7 @@ System Description|
 System View|Gamelist View
 :---------:|:-----------:
 ![System View](https://i.imgur.com/QioRHes.png)|![Gamelist View](https://imgur.com/8fdsjXk.png)
+
+Credits|Info
+:------|:---
+missing.png|[MOHAMMED SALIM](https://thenounproject.com/creator/salim.miah24)

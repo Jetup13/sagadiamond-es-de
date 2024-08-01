@@ -101,6 +101,7 @@
 			<unfocusedItemSaturation>0.1</unfocusedItemSaturation>
 			<fastScrolling>true</fastScrolling>
 			<imageType>cover</imageType>
+			<defaultImage>./artwork/files/missing.png</defaultImage>
 			<color>00000000</color>
 			<zIndex>15</zIndex>
 		</carousel>
