@@ -1,10 +1,10 @@
 <theme>
 <view name="system">
 <text name="sys_line1">
-<text>Triforce</text>
+<text>SEGA</text>
 </text>
 <text name="sys_line2">
-<text>Arcade System</text>
+<text>Triforce</text>
 </text>
 <text name="shortdescription">
 <text>2002  ·  Arcade Board</text>
