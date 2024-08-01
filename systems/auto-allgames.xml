@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>All</text>
+</text>
+<text name="sys_line2">
+<text>Games</text>
+</text>
+<text name="shortdescription">
+<text>Collection</text>
+</text>
+<text name="longdescription">
+<text>View and play every game across your entire library</text>
+</text>
+</view>
+</theme>

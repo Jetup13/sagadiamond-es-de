@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Last</text>
+</text>
+<text name="sys_line2">
+<text>Played</text>
+</text>
+<text name="shortdescription">
+<text>Collection</text>
+</text>
+<text name="longdescription">
+<text>View your recently played games across the entire library</text>
+</text>
+</view>
+</theme>

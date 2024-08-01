@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Custom</text>
+</text>
+<text name="sys_line2">
+<text>Collections</text>
+</text>
+<text name="shortdescription">
+<text>Collection</text>
+</text>
+<text name="longdescription">
+<text>Organize your games into custom collections</text>
+</text>
+</view>
+</theme>
