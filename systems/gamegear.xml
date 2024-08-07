@@ -1,7 +1,7 @@
 <theme>
 <view name="system">
 <text name="sys_line1">
-<text>SEGA</text>
+<text>Sega</text>
 </text>
 <text name="sys_line2">
 <text>GameGear</text>
