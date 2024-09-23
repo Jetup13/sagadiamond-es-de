@@ -1,10 +1,10 @@
 <theme>
 <view name="system">
 <text name="sys_line2">
-<text>SEGA CD</text>
+<text>Sega CD</text>
 </text>
 <text name="shortdescription">
-<text>1991  ·  Home Console</text>
+<text>1992  ·  Console Peripheral</text>
 </text>
 <text name="longdescription">
 <text>CD-ROM add-on to the Genesis, it launched many FMV games, including the infamous Night Trap, which led to the creation of the ESRB</text>
