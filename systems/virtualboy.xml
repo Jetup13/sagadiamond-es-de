@@ -1,7 +1,10 @@
 <theme>
-view name="system">
+<view name="system">
+<text name="sys_line1">
+<text>Nintendo</text>
+</text>
 <text name="sys_line2">
-<text>VirtualBoy</text>
+<text>Virtual Boy</text>
 </text>
 <text name="shortdescription">
 <text>1995  ·  Table-Top Console</text>

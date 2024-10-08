@@ -1,5 +1,8 @@
 <theme>
 <view name="system">
+<text name="sys_line1">
+<text>Nintendo</text>
+</text>
 <text name="sys_line2">
 <text>Game & Watch</text>
 </text>
