@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Video</text>
+</text>
+<text name="sys_line2">
+<text>Players</text>
+</text>
+<text name="shortdescription">
+<text>Media Applications</text>
+</text>
+<text name="longdescription">
+<text>A video player is software that enables the playback of digital video files, supporting various formats and codecs for smooth viewing</text>
+</text>
+</view>
+</theme>

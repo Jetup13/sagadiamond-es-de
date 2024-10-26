@@ -1,0 +1,16 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Music</text>
+</text>
+<text name="sys_line2">
+<text>Players</text>
+</text>
+<text name="shortdescription">
+<text>Media Applications</text>
+</text>
+<text name="longdescription">
+<text>A music player is software that plays audio files, supporting various formats and codecs for seamless listening</text>
+</text>
+</view>
+</theme>
