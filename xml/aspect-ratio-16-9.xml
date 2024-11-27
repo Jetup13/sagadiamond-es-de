@@ -1,4 +1,22 @@
 <theme>
+	<fontSize name="medium">
+	<variables>
+		<descriptionSize>0.45 0.3105</descriptionSize>
+		<descriptionFontSize>0.03</descriptionFontSize>
+		<gameNamePOS>0.5 0.22</gameNamePOS>
+		<gameNameSize>0.45 0.3105</gameNameSize>
+		<gameNameFontSize>0.06</gameNameFontSize>
+	</variables>
+	</fontSize>
+	<fontSize name="large">
+	<variables>
+		<descriptionSize>0.46 0.35</descriptionSize>
+		<descriptionFontSize>0.035</descriptionFontSize>
+		<gameNamePOS>0.5 0.2</gameNamePOS>
+		<gameNameSize>0.5 0.35</gameNameSize>
+		<gameNameFontSize>0.065</gameNameFontSize>
+	</variables>
+	</fontSize>
 	<view name="system">
 		<carousel name="systemCarousel">
 			<pos>.25 0.5</pos>
@@ -65,18 +83,18 @@
 		
 		<text name="description">
 			<pos>0.5 0.6</pos>
-			<size>0.45 0.3105</size>
+			<size>${descriptionSize}</size>
 			<container>true</container>
 			<containerScrollSpeed>1</containerScrollSpeed>
 			<containerStartDelay>3</containerStartDelay>
 			<containerResetDelay>6</containerResetDelay>
-			<fontSize>0.03</fontSize>
+			<fontSize>${descriptionFontSize}</fontSize>
 		</text>
 
 		<text name="name">
-			<pos>0.5 0.25</pos>
-			<size>0.5 0.3105</size>
-			<fontSize>0.06</fontSize>
+			<pos>${gameNamePOS}</pos>
+			<size>${gameNameSize}</size>
+			<fontSize>${gameNameFontSize}</fontSize>
 		</text>
 		
 		<text name="developer">
@@ -86,7 +104,7 @@
 		</text>
 		
 		<datetime name="releasedate">
-			<pos>0.5 0.388</pos>
+			<pos>0.5 0.38</pos>
 			<size>0.5 0.3105</size>
 			<fontSize>0.033</fontSize>
 		</datetime>

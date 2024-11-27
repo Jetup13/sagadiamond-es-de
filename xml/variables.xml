@@ -6,5 +6,5 @@
 		<line>./artwork/files/line2.png</line>
 		<background>./artwork/files/background.png</background>
 		<darkbackground>./artwork/files/blurbackground.png</darkbackground>
-	</variables>	
+	</variables>
 </theme>
