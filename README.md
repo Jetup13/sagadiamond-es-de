@@ -12,9 +12,9 @@ System View Descriptions|
 
 System View|Gamelist View
 :---------:|:-----------:
-![System View](https://i.imgur.com/QioRHes.png)|![Gamelist View](https://imgur.com/8fdsjXk.png)
-![Blue](https://i.imgur.com/eRRzq9K.png)|![Blue](https://i.imgur.com/wEDMoWJ.png)
-![Orange](https://i.imgur.com/9BpiR7y.png)|![Orange](https://i.imgur.com/0RW99qa.png)
+![System View](https://i.imgur.com/UwEwtg5.png)|![Gamelist View](https://i.imgur.com/f1a0bfR.png)
+![Blue](https://i.imgur.com/hAmqJPg.png)|![Blue](https://i.imgur.com/2QewWz4.png)
+![Orange](https://i.imgur.com/k11qrAo.png)|![Orange](https://i.imgur.com/5MlM8Ta.png)
 
 Planned
 :------|
