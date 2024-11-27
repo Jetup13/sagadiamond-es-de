@@ -1,8 +1,8 @@
 <theme>
 	<variables>
-		<boldFont>./files/font/Roboto-Bold.ttf</boldFont>
-		<regularFont>./files/font/Roboto-Regular.ttf</regularFont>
-		<mediumFont>./files/font/Roboto-Medium.ttf</mediumFont>
+		<boldFont>./artwork/files/font/Roboto-Bold.ttf</boldFont>
+		<regularFont>./artwork/files/font/Roboto-Regular.ttf</regularFont>
+		<mediumFont>./artwork/files/font/Roboto-Medium.ttf</mediumFont>
 		<line>./artwork/files/line2.png</line>
 		<background>./artwork/files/background.png</background>
 		<darkbackground>./artwork/files/blurbackground.png</darkbackground>

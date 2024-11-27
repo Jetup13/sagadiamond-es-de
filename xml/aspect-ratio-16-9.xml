@@ -25,7 +25,7 @@
 		</text>
 		<text name="longdescription">
 			<pos>0.5 0.6</pos>
-			<size>0.5 0.3105</size>
+			<size>0.45 0.3105</size>
 			<container>true</container>
 			<containerScrollSpeed>1</containerScrollSpeed>
 			<containerStartDelay>3</containerStartDelay>
@@ -65,7 +65,7 @@
 		
 		<text name="description">
 			<pos>0.5 0.6</pos>
-			<size>0.5 0.3105</size>
+			<size>0.45 0.3105</size>
 			<container>true</container>
 			<containerScrollSpeed>1</containerScrollSpeed>
 			<containerStartDelay>3</containerStartDelay>
