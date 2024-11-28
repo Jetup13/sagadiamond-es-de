@@ -12,11 +12,20 @@
 	<aspectRatio name="16:9">
         <include>./xml/aspect-ratio-16-9.xml</include>
     </aspectRatio>
+	<aspectRatio name="16:10">
+        <include>./xml/aspect-ratio-16-10.xml</include>
+    </aspectRatio>
+	<aspectRatio name="19.5:9">
+        <include>./xml/aspect-ratio-19-5-9.xml</include>
+    </aspectRatio>
 	<aspectRatio name="21:9">
         <include>./xml/aspect-ratio-21-9.xml</include>
     </aspectRatio>
 	<aspectRatio name="4:3">
         <include>./xml/aspect-ratio-4-3.xml</include>
+    </aspectRatio>
+	<aspectRatio name="1:1">
+        <include>./xml/aspect-ratio-1-1.xml</include>
     </aspectRatio>
 	
 	<view name="system">
