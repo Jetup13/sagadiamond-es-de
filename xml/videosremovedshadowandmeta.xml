@@ -1,0 +1,67 @@
+<theme>
+	<variant name="withVideosNoShadowsNoMeta">
+	
+	<view name="gamelist">	
+		<video name="gameVideo">
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<maxSize>2 1</maxSize>
+			<opacity>0.8</opacity>
+			<imageType>screenshot</imageType>
+			<delay>2</delay>
+			<scrollFadeIn>true</scrollFadeIn>
+			<gradientType>horizontal</gradientType>
+			<colorEnd>00000000</colorEnd>
+			<zIndex>14</zIndex>
+		</video>
+		
+	</view>
+	
+	<view name="system">
+	
+		<gameselector name="selector-random">
+			<selection>random</selection>
+		</gameselector>
+	
+		<video name="systemVideo">
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<maxSize>2 1</maxSize>
+			<opacity>0.8</opacity>
+			<gameselector>selector-random</gameselector>
+			<fadeInTime>8</fadeInTime>
+			<scrollFadeIn>true</scrollFadeIn>
+			<gradientType>horizontal</gradientType>
+			<colorEnd>00000000</colorEnd>
+			<zIndex>14</zIndex>
+		</video>
+		
+	</view>
+	
+	<view name="system">
+	
+		<image name="blurbackground">
+			<visible>false</visible>
+		</image>
+		
+	</view>
+	
+	<view name="gamelist">
+		<image name="blurbackground">
+			<visible>false</visible>
+		</image>
+		
+	</view>
+	
+	<view name="system">
+	
+		<text name="longdescription">
+			<visible>false</visible>
+		</text>
+		<text name="shortdescription">
+			<visible>false</visible>
+		</text>
+	</view>
+
+	</variant>
+</theme>

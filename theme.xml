@@ -4,10 +4,11 @@
 	<include>./xml/colors.xml</include>
 	<include>./xml/default.xml</include>
 	<include>./xml/nosystemmeta.xml</include>
-	<include>./xml/removesystemname.xml</include>
-	<include>./xml/removesystemnameandmeta.xml</include>
 	<include>./xml/removeshadow.xml</include>
 	<include>./xml/removeeverything.xml</include>
+	<include>./xml/videos.xml</include>
+	<include>./xml/videosremovedshadow.xml</include>
+	<include>./xml/videosremovedshadowandmeta.xml</include>
 	
 	<aspectRatio name="16:9">
         <include>./xml/aspect-ratio-16-9.xml</include>

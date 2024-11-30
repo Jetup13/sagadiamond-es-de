@@ -17,28 +17,33 @@
 		<selectable>true</selectable>
 	</variant>
 
+	<variant name="withVideos">
+		<label>w/ Videos</label>
+		<selectable>true</selectable>
+	</variant>
+	
+	<variant name="withVideosNoShadows">
+		<label>w/ Videos & w/o Shadow</label>
+		<selectable>true</selectable>
+	</variant>
+
+	<variant name="withVideosNoShadowsNoMeta">
+		<label>w/ Videos & w/o Shadow/Metadata</label>
+		<selectable>true</selectable>
+	</variant>
+
 	<variant name="nosystemmeta">
-		<label>Remove System Metadata</label>
-		<selectable>true</selectable>
-	</variant>
-
-	<variant name="removesystemname">
-		<label>Remove System Name</label>
-		<selectable>true</selectable>
-	</variant>
-
-	<variant name="removesystemnameandmeta">
-		<label>Remove System Name & Metadata</label>
+		<label>w/o System Metadata</label>
 		<selectable>true</selectable>
 	</variant>
 
 	<variant name="removeshadow">
-		<label>Remove Shadow</label>
+		<label>w/o Shadow</label>
 		<selectable>true</selectable>
 	</variant>
-
+	
 	<variant name="removeeverything">
-		<label>Remove System Name, Metadata, & Shadow</label>
+		<label>w/o System Metadata & Shadow</label>
 		<selectable>true</selectable>
 	</variant>
 
