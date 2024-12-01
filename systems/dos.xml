@@ -1,7 +1,10 @@
 <theme>
 <view name="system">
+<text name="sys_line1">
+<text>Microsoft</text>
+</text>
 <text name="sys_line2">
-<text>MS-DOS</text>
+<text>DOS</text>
 </text>
 <text name="shortdescription">
 <text>1981  ·  Desktop Computers</text>

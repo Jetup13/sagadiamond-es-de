@@ -39,7 +39,7 @@
 		<text name="sys_line2">
 			<pos>0.5 0.30</pos>
 			<size>0.5 0.3105</size>
-			<fontSize>0.08</fontSize>
+			<fontSize>0.075</fontSize>
 		</text>
 		<text name="longdescription">
 			<pos>0.5 0.6</pos>

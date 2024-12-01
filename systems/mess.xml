@@ -1,8 +1,5 @@
 <theme>
 <view name="system">
-<text name="sys_line1">
-<text>Multi Emulator Super System</text>
-</text>
 <text name="sys_line2">
 <text>M.E.S.S</text>
 </text>

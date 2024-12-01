@@ -1,8 +1,5 @@
 <theme>
 <view name="system">
-<text name="sys_line1">
-<text>Multiple Arcade Machine Emulator</text>
-</text>
 <text name="sys_line2">
 <text>M.A.M.E.</text>
 </text>
