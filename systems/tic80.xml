@@ -7,7 +7,81 @@
 <text>2017  ·  Fantasy Computer</text>
 </text>
 <text name="longdescription">
-<text>TIC-80 is a fantasy computer for making, playing and sharing tiny games</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>TIC-80 is a fantasy computer for making, playing and sharing tiny games</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>TIC-80 es un ordenador de fantasía gratuito y de código abierto para crear, jugar y compartir minijuegos</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>TIC-80 est un ordinateur fantaisiste, libre et open source, qui permet de créer, de jouer et de partager de petits jeux</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>TIC-80 è un computer fantasy gratuito e open source per creare, giocare e condividere piccoli giochi</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>TIC-80 to darmowy i otwarty komputer fantasy do tworzenia, grania i udostępniania małych gier</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O TIC-80 é um computador de fantasia gratuito e de código aberto para criar, jogar e compartilhar pequenos jogos</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>TIC-80 este un computer fantezie gratuit și cu sursă deschisă pentru crearea, redarea și partajarea jocurilor mici</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>TIC-80 - это свободный фантастический компьютер с открытым исходным кодом для создания, воспроизведения и обмена крошечными играми</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>TIC-80 är en fantasidator med fri och öppen källkod för att skapa, spela och dela små spel</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>TIC-80は、小さなゲームを作り、遊び、共有するためのフリーでオープンソースのファンタジーコンピュータです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>TIC-80 是一款免费开源的幻想电脑，用于制作、玩耍和分享小游戏</longdescription>
+</variables>
+</language>
+
 </theme>

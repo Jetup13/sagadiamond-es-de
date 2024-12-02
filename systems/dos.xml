@@ -10,7 +10,81 @@
 <text>1981  ·  Desktop Computers</text>
 </text>
 <text name="longdescription">
-<text>MS-DOS is an operating system for x86-based personal computers mostly developed by Microsoft</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>MS-DOS is an operating system for x86-based personal computers mostly developed by Microsoft</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>MS-DOS, abreviatura de Microsoft Disk Operating System, era un sistema operativo para ordenadores personales basados en x86 desarrollado principalmente por Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>MS-DOS, abréviation de Microsoft Disk Operating System, était un système d'exploitation pour ordinateurs personnels à base de x86, principalement développé par Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>MS-DOS, abbreviazione di Microsoft Disk Operating System, era un sistema operativo per personal computer basati su x86, sviluppato principalmente da Microsoft</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>MS-DOS, skrót od Microsoft Disk Operating System, był systemem operacyjnym dla komputerów osobistych opartych na architekturze x86, opracowanym głównie przez firmę Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O MS-DOS, abreviação de Microsoft Disk Operating System, foi um sistema operacional para computadores pessoais baseados em x86, desenvolvido principalmente pela Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>MS-DOS, prescurtarea de la Microsoft Disk Operating System, a fost un sistem de operare pentru calculatoare personale bazate pe x86, dezvoltat în principal de Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>MS-DOS, сокращение от Microsoft Disk Operating System, - операционная система для персональных компьютеров на базе архитектуры x86, в основном разработанная компанией Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>MS-DOS, en förkortning för Microsoft Disk Operating System, var ett operativsystem för x86-baserade persondatorer som huvudsakligen utvecklades av Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>MS-DOS（エムエスドス）は、Microsoft Disk Operating System（マイクロソフト・ディスク・オペレーティング・システム）の略で、主にマイクロソフトが開発したx86ベースのパーソナルコンピュータ用のオペレーティングシステムである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>MS-DOS 是 Microsoft Disk Operating System（微软磁盘操作系统）的简称，是主要由微软公司开发的基于 x86 的个人计算机操作系统</longdescription>
+</variables>
+</language>
+
 </theme>

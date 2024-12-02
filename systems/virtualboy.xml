@@ -10,7 +10,81 @@
 <text>1995  ·  Table-Top Console</text>
 </text>
 <text name="longdescription">
-<text>It was marketed as the first console capable of displaying stereoscopic 3D graphics using a parallax effect to create the illusion of depth</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>It was marketed as the first console capable of displaying stereoscopic 3D graphics using a parallax effect to create the illusion of depth</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Virtual Boy es una videoconsola portátil de sobremesa de 32 bits desarrollada y fabricada por Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Virtual Boy est une console de jeu vidéo portable 32 bits développée et fabriquée par Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Virtual Boy è una console portatile per videogiochi da tavolo a 32 bit sviluppata e prodotta da Nintendo</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Virtual Boy to 32-bitowa przenośna konsola do gier wideo opracowana i wyprodukowana przez Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Virtual Boy é um console de videogame portátil de mesa de 32 bits desenvolvido e fabricado pela Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Virtual Boy este o consolă de jocuri video portabilă de 32 de biți, dezvoltată și fabricată de Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Virtual Boy - 32-битная настольная портативная игровая консоль, разработанная и выпущенная компанией Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Virtual Boy är en 32-bitars bärbar konsol för videospel som utvecklats och tillverkats av Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>バーチャルボーイは、任天堂が開発・製造した32ビットの卓上型携帯ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>虚拟男孩（Virtual Boy）是任天堂开发和制造的一款 32 位桌面便携式视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

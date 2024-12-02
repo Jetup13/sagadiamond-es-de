@@ -10,7 +10,81 @@
 <text>1986  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Thomson TO8 es un ordenador doméstico presentado por la empresa francesa Thomson SA en 1986, con un coste de 2</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Thomson TO8 est un ordinateur domestique lancé par la société française Thomson SA en 1986, au prix de 2 990 FF</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Thomson TO8 è un home computer introdotto dalla società francese Thomson SA nel 1986, con un costo di 2</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Thomson TO8 to komputer domowy wprowadzony przez francuską firmę Thomson SA w 1986 roku, kosztujący 2,990 FF</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Thomson TO8 é um computador doméstico lançado pela empresa francesa Thomson SA em 1986, com um custo de 2</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Thomson TO8 este un computer de casă introdus de compania franceză Thomson SA în 1986, cu un cost de 2</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Thomson TO8 - домашний компьютер, представленный французской компанией Thomson SA в 1986 году по цене 2 990 франков</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Thomson TO8 är en hemdator som introducerades av det franska företaget Thomson SA 1986 och kostade 2</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>トムソンTO8は、フランスのトムソンSAが1986年に発表した家庭用コンピュータで、価格は2,990FF</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>汤姆逊 TO8 是法国汤姆逊公司于 1986 年推出的一款家用电脑，售价 2,990 法郎</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -10,7 +10,81 @@
 <text>1983  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Coleco Adam is a home computer and expansion device for the ColecoVision by American toy and video game manufacturer Coleco</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Coleco Adam is a home computer and expansion device for the ColecoVision by American toy and video game manufacturer Coleco</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Coleco Adam es un ordenador doméstico y un dispositivo de expansión para la ColecoVision del fabricante estadounidense de juguetes y videojuegos Coleco</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Coleco Adam est un ordinateur domestique et un dispositif d'extension pour la ColecoVision du fabricant américain de jouets et de jeux vidéo Coleco</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Coleco Adam è un home computer e un dispositivo di espansione per il ColecoVision del produttore americano di giocattoli e videogiochi Coleco</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Coleco Adam to komputer domowy i urządzenie rozszerzające dla ColecoVision amerykańskiego producenta zabawek i gier wideo Coleco</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Coleco Adam é um computador doméstico e dispositivo de expansão para o ColecoVision do fabricante americano de brinquedos e videogames Coleco</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Coleco Adam este un computer de casă și un dispozitiv de expansiune pentru ColecoVision al producătorului american de jucării și jocuri video Coleco</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Coleco Adam - это домашний компьютер и устройство расширения для консоли ColecoVision от американского производителя игрушек и видеоигр Coleco</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Coleco Adam är en hemdator och expansionsenhet för ColecoVision från den amerikanska leksaks- och videospeltillverkaren Coleco</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Coleco Adamは、アメリカの玩具・ビデオゲームメーカーColecoによるColecoVision用の家庭用コンピュータおよび拡張デバイスである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Coleco Adam 是美国玩具和视频游戏制造商 Coleco 推出的一款家用电脑和 ColecoVision 的扩展设备</longdescription>
+</variables>
+</language>
+
 </theme>

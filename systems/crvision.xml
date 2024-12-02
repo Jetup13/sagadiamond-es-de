@@ -10,7 +10,81 @@
 <text>1982  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Video Technology CreatiVision es una consola híbrida de ordenador y videojuego doméstico presentada por VTech en 1981 y lanzada al mercado en 1982, durante la Segunda generación de consolas de videojuegos</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Video Technology CreatiVision est une console hybride d'ordinateur et de jeu vidéo domestique introduite par VTech en 1981 et commercialisée en 1982 pendant la deuxième génération de consoles de jeu vidéo</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Video Technology CreatiVision è un computer ibrido e una console per videogiochi domestici introdotta da VTech nel 1981 e rilasciata nel 1982 durante la seconda generazione di console per videogiochi</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Video Technology CreatiVision to hybryda komputera i domowej konsoli do gier wideo wprowadzona przez firmę VTech w 1981 roku i wydana w 1982 roku podczas drugiej generacji konsol do gier wideo</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Video Technology CreatiVision é um console híbrido de computador e videogame doméstico apresentado pela VTech em 1981 e lançado em 1982 durante a segunda geração de consoles de videogame</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Video Technology CreatiVision este un computer hibrid și o consolă de jocuri video pentru acasă introdusă de VTech în 1981 și lansată în 1982 în timpul celei de-a doua generații de console de jocuri video</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Video Technology CreatiVision - это гибрид компьютера и домашней видеоигровой консоли, представленный компанией VTech в 1981 году и выпущенный в 1982 году в рамках второго поколения игровых приставок</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Video Technology CreatiVision är en hybrid av en dator och en hemkonsol för videospel som introducerades av VTech 1981 och släpptes 1982 under den andra generationen av konsoler för videospel</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Video Technology CreatiVisionは、1981年にVTech社によって発表され、第2世代のビデオゲーム機として1982年に発売された、コンピュータと家庭用ビデオゲームのハイブリッドゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Video Technology CreatiVision 是伟易达于 1981 年推出的一款混合电脑和家用视频游戏机，于 1982 年第二代视频游戏机时期发布</longdescription>
+</variables>
+</language>
+
 </theme>

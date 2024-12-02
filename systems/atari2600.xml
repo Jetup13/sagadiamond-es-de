@@ -7,7 +7,81 @@
 <text>1977  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Atari 2600 is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Atari 2600 is credited with popularizing the use of microprocessor-based hardware and ROM cartridges containing game code</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Atari Video Computer System (VCS), posteriormente denominado Atari 2600, es una videoconsola doméstica de segunda generación (1976-1992) desarrollada y distribuida por Atari, Inc</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Atari Video Computer System (VCS), plus tard appelé Atari 2600, est une console de jeux vidéo de salon de deuxième génération (1976-1992) développée et distribuée par Atari, Inc</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Atari Video Computer System (VCS), successivamente denominato Atari 2600, è una console per videogiochi domestica di seconda generazione (1976-1992) sviluppata e distribuita da Atari, Inc</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Atari Video Computer System (VCS), później nazwany Atari 2600, to domowa konsola do gier wideo drugiej generacji (1976-1992) opracowana i dystrybuowana przez Atari, Inc</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Atari Video Computer System (VCS), mais tarde chamado de Atari 2600, é um console de videogame doméstico de segunda geração (1976-1992) desenvolvido e distribuído pela Atari, Inc</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Atari Video Computer System (VCS), numit ulterior Atari 2600, este o a doua generație (1976-1992) de console de jocuri video pentru acasă dezvoltate și distribuite de Atari, Inc</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Atari Video Computer System (VCS), позже названная Atari 2600, - это домашняя игровая консоль второго поколения (1976-1992), разработанная и распространяемая компанией Atari, Inc</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Atari Video Computer System (VCS), senare kallad Atari 2600, är en andra generationens (1976-1992) videospelskonsol för hemmabruk som utvecklades och distribuerades av Atari, Inc</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アタリ・ビデオ・コンピュータ・システム（VCS）は、後にアタリ2600と名付けられ、アタリ社が開発・販売した第2世代（1976年～1992年）の家庭用ビデオゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>雅达利视频计算机系统（VCS），后被命名为雅达利 2600，是雅达利公司开发和销售的第二代（1976-1992 年）家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -10,7 +10,81 @@
 <text>1996  ·  Home Console Peripheral</text>
 </text>
 <text name="longdescription">
-<text>The SuFami Turbo is an accessory for the Super Famicom, by Bandai, released only in Japan in 1996</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The SuFami Turbo is an accessory for the Super Famicom, by Bandai, released only in Japan in 1996</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El SuFami Turbo (スーファミターボ), a menudo comparado con el Aladdin Deck Enhancer, es un accesorio lanzado por Bandai para la consola Super Famicom de Nintendo y fue lanzado en 1996</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le SuFami Turbo (スーファミターボ), souvent comparé à l'Aladdin Deck Enhancer, est un accessoire édité par Bandai pour la console Super Famicom de Nintendo et sorti en 1996</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il SuFami Turbo (スーファミターボ), spesso paragonato all'Aladdin Deck Enhancer, è un accessorio pubblicato da Bandai per la console Super Famicom di Nintendo e uscito nel 1996</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>SuFami Turbo (スーファミターボ), często porównywany do Aladdin Deck Enhancer, jest akcesorium wydanym przez Bandai dla systemu Super Famicom firmy Nintendo i został wydany w 1996 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O SuFami Turbo (スーファミターボ), frequentemente comparado ao Aladdin Deck Enhancer, é um acessório lançado pela Bandai para o sistema Super Famicom da Nintendo e foi lançado em 1996</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>SuFami Turbo (スーファミターボ), adesea comparat cu Aladdin Deck Enhancer, este un accesoriu lansat de Bandai pentru sistemul Nintendo Super Famicom și a fost lansat în 1996</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>SuFami Turbo (スーファミターボ), которую часто сравнивают с Aladdin Deck Enhancer, - это аксессуар, выпущенный компанией Bandai для системы Super Famicom от Nintendo и вышедший в 1996 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>SuFami Turbo (スーファミターボ), ofta jämförd med Aladdin Deck Enhancer, är ett tillbehör som Bandai släppte till Nintendos Super Famicom-system och som släpptes 1996</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>バンダイから1996年に発売されたスーパーファミコン用アクセサリー</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>SuFami Turbo（スーファミターボ）经常被拿来与阿拉丁 Deck Enhancer（甲板增强器）相比较，是 Bandai 于 1996 年为任天堂的 Super Famicom 系统推出的一款配件</longdescription>
+</variables>
+</language>
+
 </theme>

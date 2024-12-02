@@ -10,7 +10,81 @@
 <text>2003  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>The N-Gage is a smartphone combining features of a mobile phone and a handheld game system developed by Nokia and released on 7 October 2003</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The N-Gage is a smartphone combining features of a mobile phone and a handheld game system developed by Nokia and released on 7 October 2003</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El N-Gage es un teléfono inteligente que combina características de un teléfono móvil y un sistema de juegos portátil desarrollado por Nokia, anunciado el 4 de noviembre de 2002 y lanzado el 7 de octubre de 2003</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le N-Gage est un smartphone combinant les caractéristiques d'un téléphone mobile et d'une console de jeu portable, développé par Nokia, annoncé le 4 novembre 2002 et commercialisé le 7 octobre 2003</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'N-Gage è uno smartphone che combina le caratteristiche di un telefono cellulare e di un sistema di gioco portatile sviluppato da Nokia, annunciato il 4 novembre 2002 e rilasciato il 7 ottobre 2003</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>N-Gage to smartfon łączący cechy telefonu komórkowego i przenośnego systemu gier opracowany przez firmę Nokia, ogłoszony 4 listopada 2002 roku i wydany 7 października 2003 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O N-Gage é um smartphone que combina recursos de um telefone celular e um sistema de jogos portátil desenvolvido pela Nokia, anunciado em 4 de novembro de 2002 e lançado em 7 de outubro de 2003</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>N-Gage este un smartphone care combină caracteristicile unui telefon mobil și ale unui sistem de jocuri portabil dezvoltat de Nokia, anunțat pe 4 noiembrie 2002 și lansat pe 7 octombrie 2003</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>N-Gage - смартфон, сочетающий в себе функции мобильного телефона и портативной игровой системы, разработанный компанией Nokia, анонсированный 4 ноября 2002 года и выпущенный 7 октября 2003 года</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>N-Gage är en smartphone som kombinerar funktioner från en mobiltelefon och ett handhållet spelsystem, utvecklad av Nokia, presenterad den 4 november 2002 och lanserad den 7 oktober 2003</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>N-Gageは、ノキアが開発した携帯電話と携帯ゲーム機の機能を併せ持つスマートフォンで、2002年11月4日に発表され、2003年10月7日に発売された</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>N-Gage 是诺基亚开发的一款集手机和掌上游戏系统功能于一身的智能手机，于 2002 年 11 月 4 日发布，2003 年 10 月 7 日上市</longdescription>
+</variables>
+</language>
+
 </theme>

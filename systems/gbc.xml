@@ -10,7 +10,81 @@
 <text>1998  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>The Game Boy Color features a color screen. It is slightly thicker and taller and features a slightly smaller screen then the Game Boy Pocket</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Game Boy Color features a color screen. It is slightly thicker and taller and features a slightly smaller screen then the Game Boy Pocket</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Game Boy Color, (abreviada como GBC) es una videoconsola portátil fabricada por Nintendo, que salió a la venta el 21 de octubre de 1998 en Japón y en noviembre del mismo año en los mercados internacionales</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Game Boy Color (abrégé en GBC) est une console de jeu portable fabriquée par Nintendo, sortie le 21 octobre 1998 au Japon et en novembre de la même année sur les marchés internationaux</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Game Boy Color (abbreviato in GBC) è una console portatile prodotta da Nintendo, uscita il 21 ottobre 1998 in Giappone e nel novembre dello stesso anno nei mercati internazionali</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Game Boy Color (w skrócie GBC) to przenośna konsola do gier wyprodukowana przez Nintendo, która została wydana 21 października 1998 roku w Japonii i została wydana w listopadzie tego samego roku na rynkach międzynarodowych</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Game Boy Color, (abreviado como GBC) é um console de jogos portátil fabricado pela Nintendo, lançado em 21 de outubro de 1998 no Japão e em novembro do mesmo ano nos mercados internacionais</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Game Boy Color, (abreviat ca GBC) este o consolă portabilă de jocuri fabricată de Nintendo, care a fost lansată pe 21 octombrie 1998 în Japonia și a fost lansată în luna noiembrie a aceluiași an pe piețele internaționale</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Game Boy Color (сокращенно GBC) - портативная игровая приставка производства компании Nintendo, которая была выпущена 21 октября 1998 года в Японии и в ноябре того же года на международных рынках</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Game Boy Color, (förkortat GBC) är en handhållen spelkonsol tillverkad av Nintendo, som släpptes den 21 oktober 1998 i Japan och släpptes i november samma år på internationella marknader</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ゲームボーイカラー（略称GBC）は、任天堂製の携帯型ゲーム機で、日本では1998年10月21日に発売され、海外では同年11月に発売された</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Game Boy Color（简称 GBC）是任天堂公司生产的一款掌上游戏机，1998 年 10 月 21 日在日本发布，同年 11 月在国际市场发布</longdescription>
+</variables>
+</language>
+
 </theme>

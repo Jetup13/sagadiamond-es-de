@@ -10,7 +10,81 @@
 <text>1996  ·  Arcade Board</text>
 </text>
 <text name="longdescription">
-<text>The Sega Model 3 is an arcade platform produced by Sega in partnership with Lockheed Martin</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Sega Model 3 is an arcade platform produced by Sega in partnership with Lockheed Martin</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Sega Model 3 es una plataforma arcade producida por Sega en colaboración con Lockheed Martin</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Sega Model 3 est une plate-forme d'arcade produite par Sega en partenariat avec Lockheed Martin</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Sega Model 3 è una piattaforma arcade prodotta da Sega in collaborazione con Lockheed Martin</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Sega Model 3 to platforma zręcznościowa wyprodukowana przez firmę Sega we współpracy z Lockheed Martin</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Sega Model 3 é uma plataforma de fliperama produzida pela Sega em parceria com a Lockheed Martin</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Sega Model 3 este o platformă arcade produsă de Sega în parteneriat cu Lockheed Martin</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Sega Model 3 - это аркадная платформа, выпущенная компанией Sega совместно с Lockheed Martin</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Sega Model 3 är en arkadplattform som tillverkas av Sega i samarbete med Lockheed Martin</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>セガ・モデル3は、セガがロッキード・マーチンと提携して製作したアーケード・プラットフォームである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>世嘉 Model 3 是世嘉公司与洛克希德-马丁公司合作生产的一款街机平台</longdescription>
+</variables>
+</language>
+
 </theme>

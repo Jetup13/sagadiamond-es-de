@@ -7,7 +7,81 @@
 <text>2006  ·  Open Source Engine</text>
 </text>
 <text name="longdescription">
-<text>Solarus is a free and open-source game engine with the goal to allow people to create their own Action-RPG games</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Solarus is a free and open-source game engine with the goal to allow people to create their own Action-RPG games</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Solarus se diseñó específicamente pensando en los clásicos RPG de acción en 2D de culto, como The Legend of Zelda: A Link to the Past y Secret of Mana para Super Nintendo, o Soleil para Sega Megadrive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Solarus a été spécialement conçu en pensant aux classiques de l'action-RPG en 2D, tels que The Legend of Zelda : A Link to the Past et Secret of Mana sur la Super Nintendo, ou Soleil sur la Sega Megadrive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Solarus è stato progettato pensando ai classici action-RPG 2D di culto, come The Legend of Zelda: A Link to the Past e Secret of Mana per Super Nintendo, o Soleil per Sega Megadrive/Genesis</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Solarus został zaprojektowany specjalnie z myślą o kultowych klasykach RPG akcji 2D, takich jak The Legend of Zelda: A Link to the Past i Secret of Mana na Super Nintendo lub Soleil na Sega Megadrive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Solarus foi projetado especificamente tendo em mente os clássicos de RPG de ação em 2D, como The Legend of Zelda: A Link to the Past e Secret of Mana no Super Nintendo, ou Soleil no Sega Megadrive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Solarus a fost conceput special cu gândul la clasicele action-RPG 2D, precum The Legend of Zelda: A Link to the Past și Secret of Mana pe Super Nintendo sau Soleil pe Sega Megadrive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Solarus была специально разработана с учетом культовых классических 2D action-RPG, таких как The Legend of Zelda: A Link to the Past и Secret of Mana на Super Nintendo или Soleil на Sega Megadrive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Solarus har utformats med tanke på kultförklarade 2D action-RPG-klassiker som The Legend of Zelda: A Link to the Past och Secret of Mana på Super Nintendo, eller Soleil på Sega Megadrive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Solarusは、スーパーファミコンの『ゼルダの伝説 過去へのリンク』や『シークレット オブ マナ』、セガ・メガドライブ／ジェネシスの『ソレイユ』など、カルト的な2DアクションRPGの名作を念頭に置いて特別にデザインされた</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Solarus 在设计时特别考虑到了经典的 2D 动作 RPG 游戏，如超级任天堂上的《塞尔达传说：前世之旅》和《玛娜秘境》，或世嘉 Megadrive/Genesis 上的《Soleil》</longdescription>
+</variables>
+</language>
+
 </theme>

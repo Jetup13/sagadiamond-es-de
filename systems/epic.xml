@@ -10,7 +10,81 @@
 <text>2018  ·  Digital Platform</text>
 </text>
 <text name="longdescription">
-<text>The Epic Games Store is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Epic Games Store is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Epic Games Store es una tienda digital de videojuegos para Microsoft Windows y macOS, operada por Epic Games</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Epic Games Store est une vitrine numérique de jeux vidéo pour Microsoft Windows et macOS, exploitée par Epic Games</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Epic Games Store è un negozio digitale di videogiochi per Microsoft Windows e macOS, gestito da Epic Games</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Epic Games Store to cyfrowy sklep z grami wideo dla systemów Microsoft Windows i macOS, obsługiwany przez Epic Games</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>A Epic Games Store é uma loja digital de videogames para Microsoft Windows e macOS, operada pela Epic Games</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Epic Games Store este un magazin digital de jocuri video pentru Microsoft Windows și macOS, operat de Epic Games</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Epic Games Store - цифровая витрина видеоигр для Microsoft Windows и macOS, управляемая компанией Epic Games</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Epic Games Store är en digital butik för videospel för Microsoft Windows och macOS, som drivs av Epic Games</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Epic Games Storeは、Epic Gamesが運営するMicrosoft WindowsおよびmacOS向けのデジタルビデオゲームストアである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Epic Games Store 是由 Epic Games 运营的 Microsoft Windows 和 macOS 数字视频游戏店面</longdescription>
+</variables>
+</language>
+
 </theme>

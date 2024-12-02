@@ -7,7 +7,81 @@
 <text>1990  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Originally launched as the MVS coin-operated arcade machine. It was ranked 19th out of 25 best video game consoles of all time</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Originally launched as the MVS coin-operated arcade machine. It was ranked 19th out of 25 best video game consoles of all time</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Advanced Entertainment System (AES), originalmente conocida sólo como Neo Geo, es la primera videoconsola de la familia</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Advanced Entertainment System (AES), connu à l'origine sous le nom de Neo Geo, est la première console de jeux vidéo de la famille</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Advanced Entertainment System (AES), originariamente noto solo come Neo Geo, è la prima console per videogiochi della famiglia</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Advanced Entertainment System (AES), pierwotnie znany jako Neo Geo, to pierwsza konsola do gier wideo w rodzinie</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Advanced Entertainment System (AES), originalmente conhecido apenas como Neo Geo, é o primeiro console de videogame da família</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Advanced Entertainment System (AES), cunoscut inițial doar ca Neo Geo, este prima consolă de jocuri video din familie</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Advanced Entertainment System (AES), изначально известная как Neo Geo, - первая игровая консоль в семействе</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Advanced Entertainment System (AES), ursprungligen bara känd som Neo Geo, är den första videospelskonsolen i familjen</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アドバンスド・エンターテインメント・システム（AES）は、当初ネオジオの名で知られていた最初のビデオゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>高级娱乐系统（AES）最初仅称为 Neo Geo，是该家族的第一款视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

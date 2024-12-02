@@ -10,7 +10,81 @@
 <text>1993  ·  Arcade Board</text>
 </text>
 <text name="longdescription">
-<text>The Sega Model 2 is an arcade system board originally debuted by Sega in 1993 as a successor to the Sega Model 1 board</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Sega Model 2 is an arcade system board originally debuted by Sega in 1993 as a successor to the Sega Model 1 board</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Sega Model 2 es una placa de sistema arcade originalmente debutada por Sega en 1993 como sucesora de la Sega Model 1</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Sega Model 2 est une carte de système d'arcade lancée par Sega en 1993 pour succéder à la carte Sega Model 1</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Sega Model 2 è una scheda di sistema arcade originariamente presentata da Sega nel 1993 come successore della scheda Sega Model 1</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Sega Model 2 to zręcznościowa konsola systemowa zadebiutowana przez firmę Sega w 1993 roku jako następca konsoli Sega Model 1</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Sega Model 2 é uma placa de sistema de arcade originalmente lançada pela Sega em 1993 como sucessora da placa Sega Model 1</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Sega Model 2 este o placă de sistem arcade debutat inițial de Sega în 1993 ca succesor al plăcii Sega Model 1</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Sega Model 2 - это системная плата для аркадных игр, дебютировавшая в 1993 году в качестве преемника платы Sega Model 1</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Sega Model 2 är ett arkadsystemkort som ursprungligen lanserades av Sega 1993 som en efterföljare till Sega Model 1-kortet</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>セガ・モデル2は、セガ・モデル1の後継機として1993年にセガからデビューしたアーケードシステム基板である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>世嘉 Model 2 是世嘉公司于 1993 年首次推出的一款街机系统板卡，是世嘉 Model 1 板卡的后续产品</longdescription>
+</variables>
+</language>
+
 </theme>

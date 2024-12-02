@@ -7,7 +7,81 @@
 <text>Shortcuts</text>
 </text>
 <text name="longdescription">
-<text>Modify your Emulator settings and configurations</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Modify your Emulator settings and configurations</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Modificar los ajustes y configuraciones del emulador</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Modifier les paramètres et les configurations de l'émulateur</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Modificare le impostazioni e le configurazioni dell'emulatore</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Modyfikacja ustawień i konfiguracji emulatora</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Modificar as definições e configurações do emulador</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Modificați setările și configurațiile emulatorului dvs</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Изменение настроек и конфигураций эмулятора</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Ändra Emulator-inställningar och -konfigurationer</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>エミュレータの設定と構成を変更する</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>修改模拟器设置和配置</longdescription>
+</variables>
+</language>
+
 </theme>

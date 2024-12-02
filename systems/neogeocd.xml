@@ -10,7 +10,81 @@
 <text>1994  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Neo Geo CD is the second home video game console of SNK Corporation's Neo Geo family, released in September 9, 1994, four years after its cartridge-based equivalent</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Neo Geo CD is the second home video game console of SNK Corporation's Neo Geo family, released in September 9, 1994, four years after its cartridge-based equivalent</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Neo Geo CD (japonés: ネオジオCD, Hepburn: Neo Jio Shī Dī) es la segunda videoconsola doméstica de la familia Neo Geo de SNK Corporation, lanzada el 9 de septiembre de 1994, cuatro años después de su equivalente basada en cartuchos</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Neo Geo CD (japonais : ネオジオCD, Hepburn : Neo Jio Shī Dī) est la deuxième console de jeux vidéo de salon de la famille Neo Geo de SNK Corporation, sortie le 9 septembre 1994, quatre ans après son équivalent à cartouches</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Neo Geo CD (giapponese: ネオジオCD, Hepburn: Neo Jio Shī Dī) è la seconda console per videogiochi domestici della famiglia Neo Geo di SNK Corporation, uscita il 9 settembre 1994, quattro anni dopo l'equivalente a cartucce</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Neo Geo CD (jap</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Neo Geo CD (japonês: ネオジオCD, Hepburn: Neo Jio Shī Dī) é o segundo console de videogame doméstico da família Neo Geo da SNK Corporation, lançado em 9 de setembro de 1994, quatro anos após seu equivalente baseado em cartucho</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Neo Geo CD (japoneză: ネオジオCD, Hepburn: Neo Jio Shī Dī) este a doua consolă de jocuri video pentru acasă din familia Neo Geo a SNK Corporation, lansată în 9 septembrie 1994, la patru ani după echivalentul său bazat pe cartușe</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Neo Geo CD (японский: ネオジオCD, хепберн: Neo Jio Shī Dī) - вторая домашняя игровая консоль семейства Neo Geo от SNK Corporation, выпущенная 9 сентября 1994 года, через четыре года после своего картриджного аналога</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Neo Geo CD (japanska: ネオジオCD, Hepburn: Neo Jio Shī Dī) är den andra videospelskonsolen för hemmabruk i SNK Corporations Neo Geo-familj och släpptes den 9 september 1994, fyra år efter dess kassettbaserade motsvarighet</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ネオジオCD（日本語: ネオジオCD、ヘボン: Neo Jio Shī Dī）は、株式会社SNKのネオジオファミリーの2番目の家庭用ゲーム機で、カートリッジ式の同等機種から4年後の1994年9月9日に発売された</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Neo Geo CD（日语：ネオジオCD，合本：Neo Jio Shī Dī）是 SNK 公司的 Neo Geo 系列的第二款家用视频游戏机，于 1994 年 9 月 9 日发布，比同类卡带游戏机晚了四年</longdescription>
+</variables>
+</language>
+
 </theme>

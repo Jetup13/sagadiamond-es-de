@@ -10,8 +10,82 @@
 <text>1989  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The SuperGrafx is an upgraded version of the PC Engine. Only six retail games were produced which took advantage of the improved hardware
-</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The SuperGrafx is an upgraded version of the PC Engine. Only six retail games were produced which took advantage of the improved hardware
+</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), también conocida simplemente como SuperGrafx, es una videoconsola doméstica de cuarta generación fabricada por NEC Home Electronics y lanzada en Japón y Francia en 1989</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), également connue sous le nom de SuperGrafx, est une console de jeux vidéo de salon de quatrième génération fabriquée par NEC Home Electronics et commercialisée au Japon et en France en 1989</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), noto anche come semplicemente SuperGrafx, è una console per videogiochi domestici di quarta generazione prodotta da NEC Home Electronics e rilasciata in Giappone e Francia nel 1989</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), znany również jako po prostu SuperGrafx, to domowa konsola do gier wideo czwartej generacji wyprodukowana przez NEC Home Electronics i wydana w Japonii i Francji w 1989 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), também conhecido simplesmente como SuperGrafx, é um console de videogame doméstico de quarta geração fabricado pela NEC Home Electronics e lançado no Japão e na França em 1989</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), cunoscut și ca pur și simplu SuperGrafx, este o consolă de jocuri video de a patra generație fabricată de NEC Home Electronics și lansată în Japonia și Franța în 1989</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), также известная как просто SuperGrafx, - домашняя игровая приставка четвертого поколения, выпущенная компанией NEC Home Electronics и появившаяся в Японии и Франции в 1989 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), även känd som SuperGrafx, är en fjärde generationens hemkonsol för videospel som tillverkas av NEC Home Electronics och släpptes i Japan och Frankrike 1989</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>PCエンジンスーパーグラフィックス（PCエンジンスーパーグラフィックス、Pī Shī Enjin SūpāGurafikkusu）は、NECホームエレクトロニクス製の第4世代家庭用ゲーム機で、1989年に日本とフランスで発売された</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>PC Engine SuperGrafx（PC エンジンスーパーグラフィックス，Pī Shī Enjin SūpāGurafikkusu），又称 SuperGrafx，是 NEC 家庭电子公司制造的第四代家用视频游戏机，1989 年在日本和法国发布</longdescription>
+</variables>
+</language>
+
 </theme>

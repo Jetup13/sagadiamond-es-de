@@ -10,7 +10,81 @@
 <text>1992  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Amiga 600, also known as the A600, is a home computer introduced in March 1992</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Amiga 600, also known as the A600, is a home computer introduced in March 1992</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Amiga es una familia de ordenadores personales comercializados por Commodore en las décadas de 1980 y 1990</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Amiga est une famille d'ordinateurs personnels commercialisés par Commodore dans les années 1980 et 1990</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Amiga è una famiglia di personal computer commercializzata da Commodore negli anni '80 e '90</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Amiga to rodzina komputerów osobistych sprzedawanych przez firmę Commodore w latach 80</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Amiga é uma família de computadores pessoais comercializados pela Commodore nas décadas de 1980 e 1990</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Amiga este o familie de computere personale comercializate de Commodore în anii 1980 și 1990</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Amiga - семейство персональных компьютеров, выпускавшихся компанией Commodore в 1980-х и 1990-х годах</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Amiga är en familj av persondatorer som marknadsfördes av Commodore under 1980- och 1990-talen</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アミーガは、1980年代から1990年代にかけてコモドール社が販売したパーソナルコンピュータのファミリーである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Amiga 是 Commodore 在 20 世纪 80 年代和 90 年代推出的个人电脑系列</longdescription>
+</variables>
+</language>
+
 </theme>

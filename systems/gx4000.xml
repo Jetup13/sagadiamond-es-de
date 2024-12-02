@@ -10,7 +10,81 @@
 <text>1990  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Amstrad GX4000, commonly known as the GX4000, is a third generation video game console developed and distributed by Amstrad</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Amstrad GX4000, commonly known as the GX4000, is a third generation video game console developed and distributed by Amstrad</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Amstrad GX4000, comúnmente conocida como GX4000, es una videoconsola de tercera generación (1983-2003) desarrollada y distribuida por Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Amstrad GX4000, communément appelée GX4000, est une console de jeux vidéo de troisième génération (1983-2003) développée et distribuée par Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Amstrad GX4000, comunemente noto come GX4000, è una console per videogiochi di terza generazione (1983-2003) sviluppata e distribuita da Amstrad</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Amstrad GX4000, powszechnie znana jako GX4000, to konsola do gier wideo trzeciej generacji (1983-2003) opracowana i dystrybuowana przez firmę Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Amstrad GX4000, comumente conhecido como GX4000, é um console de videogame de terceira geração (1983-2003) desenvolvido e distribuído pela Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Amstrad GX4000, cunoscut în mod obișnuit ca GX4000, este o consolă de jocuri video din a treia generație (1983-2003) dezvoltată și distribuită de Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Amstrad GX4000, широко известная как GX4000, - это игровая консоль третьего поколения (1983-2003), разработанная и распространяемая компанией Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Amstrad GX4000, allmänt känd som GX4000, är en tredje generationens (1983-2003) videospelskonsol som utvecklats och distribueras av Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アムストラッドGX4000、通称GX4000は、アムストラッドが開発・販売した第3世代（1983年～2003年）のビデオゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Amstrad GX4000，俗称 GX4000，是 Amstrad 开发和销售的第三代（1983-2003 年）视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

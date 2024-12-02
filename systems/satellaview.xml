@@ -7,7 +7,81 @@
 <text>1995  ·  Console Peripheral</text>
 </text>
 <text name="longdescription">
-<text>Satellaview allowed players to download games, magazines and other forms of content through satellite broadcasts</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Satellaview allowed players to download games, magazines and other forms of content through satellite broadcasts</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Satellaview es un periférico de módem por satélite para la consola Super Famicom de Nintendo que salió a la venta en Japón en 1995</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Satellaview est un modem satellite périphérique pour la console Super Famicom de Nintendo, sorti au Japon en 1995</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Satellaview è una periferica per modem satellitare per la console Super Famicom di Nintendo, rilasciata in Giappone nel 1995</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Satellaview to modem satelitarny do systemu Super Famicom firmy Nintendo, który został wydany w Japonii w 1995 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Satellaview é um periférico de modem via satélite para o sistema Super Famicom da Nintendo, lançado no Japão em 1995</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Satellaview este un modem de satelit periferic pentru sistemul Super Famicom al Nintendo care a fost lansat în Japonia în 1995</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Satellaview - периферийное устройство со спутниковым модемом для системы Super Famicom от Nintendo, выпущенное в Японии в 1995 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Satellaview är en satellitmodemutrustning för Nintendos Super Famicom-system som släpptes i Japan 1995</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Satellaviewは、1995年に日本で発売された任天堂のスーパーファミコン用の衛星モデム周辺機器である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Satellaview 是任天堂超级 Famicom 系统的卫星调制解调器外设，于 1995 年在日本发售</longdescription>
+</variables>
+</language>
+
 </theme>

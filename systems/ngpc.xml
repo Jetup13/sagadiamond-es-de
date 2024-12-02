@@ -10,7 +10,81 @@
 <text>1999  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Neo Geo Pocket Color es una videoconsola portátil en color de 16 bits fabricada por SNK</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Neo Geo Pocket Color est une console de jeu vidéo portable couleur 16 bits fabriquée par SNK</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Neo Geo Pocket Color è una console per videogiochi portatile a colori a 16 bit prodotta da SNK</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Neo Geo Pocket Color to 16-bitowa kolorowa przenośna konsola do gier wideo wyprodukowana przez SNK</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Neo Geo Pocket Color é um console de videogame portátil colorido de 16 bits fabricado pela SNK</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Neo Geo Pocket Color este o consolă de jocuri video portabilă color pe 16 biți fabricată de SNK</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Neo Geo Pocket Color - это 16-битная цветная портативная игровая консоль производства компании SNK</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Neo Geo Pocket Color är en 16-bitars handhållen videospelskonsol i färg tillverkad av SNK</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ネオジオポケットカラーは、SNK製の16ビットカラー携帯ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Neo Geo Pocket Color 是 SNK 生产的一款 16 位彩色掌上视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

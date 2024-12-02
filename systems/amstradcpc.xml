@@ -7,7 +7,81 @@
 <text>1984  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Amstrad CPC is a series of 8-bit home computers. The CPC series was pitched against other home computers and enjoyed a strong supply of game software</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Amstrad CPC is a series of 8-bit home computers. The CPC series was pitched against other home computers and enjoyed a strong supply of game software</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Amstrad Colour Personal Computer, más conocido como Amstrad CPC, es una serie de ordenadores domésticos de 8 bits diseñados por Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Amstrad Colour Personal Computer, mieux connu sous le nom d'Amstrad CPC, est une série d'ordinateurs domestiques 8 bits conçus par Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Amstrad Colour Personal Computer, meglio noto come Amstrad CPC, è una serie di home computer a 8 bit progettati da Amstrad</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Amstrad Colour Personal Computer, lepiej znany jako Amstrad CPC, to seria 8-bitowych komputerów domowych zaprojektowanych przez firmę Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Amstrad Colour Personal Computer, mais conhecido como Amstrad CPC, é uma série de computadores domésticos de 8 bits projetados pela Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Amstrad Colour Personal Computer, mai bine cunoscut sub numele de Amstrad CPC, este o serie de computere de acasă pe 8 biți concepute de Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Amstrad Colour Personal Computer, более известный как Amstrad CPC, - серия 8-битных домашних компьютеров, разработанных компанией Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Amstrad Colour Personal Computer, mer känd som Amstrad CPC, är en serie 8-bitars hemdatorer som designats av Amstrad</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アムストラッドCPCとして知られるアムストラッド・カラー・パーソナル・コンピュータは、アムストラッドが設計した8ビット家庭用コンピュータのシリーズである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Amstrad 彩色个人电脑（又称 Amstrad CPC）是 Amstrad 设计的一系列 8 位家用电脑</longdescription>
+</variables>
+</language>
+
 </theme>

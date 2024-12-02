@@ -10,7 +10,81 @@
 <text>1998  ·  Arcade Board</text>
 </text>
 <text name="longdescription">
-<text>The Sega NAOMI is an arcade system board released in 1998 as a successor to Sega Model 3 hardware</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Sega NAOMI is an arcade system board released in 1998 as a successor to Sega Model 3 hardware</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El NAOMI (New Arcade Operation Machine Idea) es un sistema arcade lanzado por Sega en 1998</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le NAOMI (New Arcade Operation Machine Idea) est un système d'arcade commercialisé par Sega en 1998</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il NAOMI (New Arcade Operation Machine Idea) è un sistema arcade rilasciato da Sega nel 1998</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>NAOMI (New Arcade Operation Machine Idea) to system zręcznościowy wydany przez firmę Sega w 1998 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O NAOMI (New Arcade Operation Machine Idea) é um sistema de arcade lançado pela Sega em 1998</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>NAOMI (New Arcade Operation Machine Idea) este un sistem arcade lansat de Sega în 1998</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>NAOMI (New Arcade Operation Machine Idea) - аркадная система, выпущенная компанией Sega в 1998 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>NAOMI (New Arcade Operation Machine Idea) är ett arkadsystem som lanserades av Sega 1998</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>NAOMI（New Arcade Operation Machine Idea）は、1998年にセガから発売されたアーケードシステム</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>NAOMI（New Arcade Operation Machine Idea）是世嘉于 1998 年发布的一款街机系统</longdescription>
+</variables>
+</language>
+
 </theme>

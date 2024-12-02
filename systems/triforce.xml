@@ -10,7 +10,81 @@
 <text>2002  ·  Arcade Board</text>
 </text>
 <text name="longdescription">
-<text>The Triforce is an arcade board developed in a joint venture between Sega, Nintendo, and Namco</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Triforce is an arcade board developed in a joint venture between Sega, Nintendo, and Namco</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Triforce (トライフォース) es una placa arcade desarrollada en una empresa conjunta entre Sega, Nintendo y Namco</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Triforce (トライフォース) est une console d'arcade développée dans le cadre d'une coentreprise entre Sega, Nintendo et Namco</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>The Triforce (トライフォース) è una scheda arcade sviluppata in una joint venture tra Sega, Nintendo e Namco</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Triforce (トライフォース) to zręcznościówka opracowana w ramach wspólnego przedsięwzięcia firm Sega, Nintendo i Namco</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>A Triforce (トライフォース) é uma placa de fliperama desenvolvida em uma joint venture entre a Sega, a Nintendo e a Namco</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Triforce (トライフォース) este o placă arcade dezvoltată într-un joint venture între Sega, Nintendo și Namco</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>The Triforce (トライフォース) - аркадная настольная игра, разработанная совместным предприятием Sega, Nintendo и Namco</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>The Triforce (トライフォース) är ett arkadkort som utvecklats i ett joint venture mellan Sega, Nintendo och Namco</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>トライフォース（トライフォース）は、セガ、任天堂、ナムコの共同事業で開発されたアーケード基板</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Triforce（トライフォース）是世嘉（Sega）、任天堂（Nintendo）和南梦宫（Namco）合资开发的一款街机游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

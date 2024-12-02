@@ -10,7 +10,81 @@
 <text>Media Applications</text>
 </text>
 <text name="longdescription">
-<text>A video player is software that enables the playback of digital video files, supporting various formats and codecs for smooth viewing</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>A video player is software that enables the playback of digital video files, supporting various formats and codecs for smooth viewing</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Un reproductor de vídeo es un programa informático que permite reproducir archivos de vídeo digital y admite varios formatos y códecs para una visualización fluida</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Un lecteur vidéo est un logiciel qui permet la lecture de fichiers vidéo numériques, prenant en charge différents formats et codecs pour un visionnage fluide</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Un lettore video è un software che consente la riproduzione di file video digitali, supportando vari formati e codec per una visione fluida.</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Odtwarzacz wideo to oprogramowanie, które umożliwia odtwarzanie cyfrowych plików wideo, obsługując różne formaty i kodeki w celu płynnego oglądania</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Um reprodutor de vídeo é um software que permite a reprodução de arquivos de vídeo digital, com suporte a vários formatos e codecs para uma visualização sem problemas</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Un player video este un software care permite redarea fișierelor video digitale, suportând diferite formate și codecuri pentru o vizionare fără probleme</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Видеоплеер - это программное обеспечение, позволяющее воспроизводить цифровые видеофайлы, поддерживающее различные форматы и кодеки для плавного просмотра</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>En videospelare är en programvara som möjliggör uppspelning av digitala videofiler, med stöd för olika format och codecs för smidig visning</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ビデオプレーヤーは、デジタルビデオファイルの再生を可能にするソフトウェアであり、スムーズな視聴のために様々なフォーマットやコーデックをサポートしている</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>视频播放器是一种可播放数字视频文件的软件，支持各种格式和编解码器，可实现流畅观看</longdescription>
+</variables>
+</language>
+
 </theme>

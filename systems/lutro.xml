@@ -7,7 +7,81 @@
 <text>2016  ·  2D Game Engine</text>
 </text>
 <text name="longdescription">
-<text>Lutro is an in-development Love 2D reimplementation written in Lua and implemented as a libretro core</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Lutro is an in-development Love 2D reimplementation written in Lua and implemented as a libretro core</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Lutro es un framework de juegos 2D que busca la simplicidad y la portabilidad extrema</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Lutro est un framework de jeu 2D qui vise la simplicité et la portabilité extrême</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Lutro è un framework per giochi 2D che punta alla semplicità e all'estrema portabilità</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Lutro to framework dla gier 2D, którego celem jest prostota i ekstremalna przenośność</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Lutro é uma estrutura de jogos 2D que visa à simplicidade e à portabilidade extrema</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Lutro este un cadru de joc 2D care vizează simplitatea și portabilitatea extremă</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Lutro - это фреймворк для 2D-игр, который стремится к простоте и чрезвычайной портативности</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Lutro är ett ramverk för 2D-spel som strävar efter enkelhet och extrem portabilitet</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ルトロは、シンプルで移植性の高い2Dゲームフレームワークです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Lutro 是一个 2D 游戏框架，旨在实现简单性和极高的可移植性</longdescription>
+</variables>
+</language>
+
 </theme>

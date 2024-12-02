@@ -10,7 +10,81 @@
 <text>2000  ·  Emulator</text>
 </text>
 <text name="longdescription">
-<text>Final Burn Alpha is an arcade game emulator. It takes its name from the game "After Burner" which was the only game emulated at the very beginning of its creation</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Final Burn Alpha is an arcade game emulator. It takes its name from the game "After Burner" which was the only game emulated at the very beginning of its creation</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Este proyecto de código fuente disponible se basa en FinalBurn, creado por Dave en 2000</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Ce projet dont les sources sont disponibles est basé sur FinalBurn, créé par Dave en 2000</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Questo progetto disponibile in formato sorgente è basato su FinalBurn, creato da Dave nel 2000</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Ten dostępny w źródłach projekt bazuje na FinalBurn, stworzonym przez Dave'a w 2000 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Esse projeto com código-fonte disponível é baseado no FinalBurn, criado por Dave em 2000</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Acest proiect cu sursă disponibilă se bazează pe FinalBurn, creat de Dave în 2000</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Этот проект с доступными исходниками основан на FinalBurn, созданном Дейвом в 2000 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Detta källkodstillgängliga projekt är baserat på FinalBurn, skapat av Dave år 2000</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>このソース公開プロジェクトは、2000年にDaveによって作られたFinalBurnをベースにしています</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>这个可获得源代码的项目基于 Dave 于 2000 年创建的 FinalBurn</longdescription>
+</variables>
+</language>
+
 </theme>

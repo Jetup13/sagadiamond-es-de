@@ -7,7 +7,81 @@
 <text>1985  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Atari ST es una línea de ordenadores domésticos de Atari Corporation y el sucesor de la familia Atari 8-bit</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Atari ST est une gamme d'ordinateurs domestiques d'Atari Corporation et le successeur de la famille Atari 8-bit</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Atari ST è una linea di home computer di Atari Corporation e il successore della famiglia Atari 8-bit</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Atari ST to linia komputerów domowych firmy Atari Corporation i następca rodziny Atari 8-bit</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Atari ST é uma linha de computadores domésticos da Atari Corporation e o sucessor da família Atari de 8 bits</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Atari ST este o linie de computere de acasă de la Atari Corporation și succesorul familiei Atari pe 8 biți</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Atari ST - линейка домашних компьютеров корпорации Atari и преемник семейства Atari 8-bit</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Atari ST är en serie hemdatorer från Atari Corporation och efterföljaren till Atari 8-bitarsfamiljen</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アタリSTはアタリ社の家庭用コンピュータで、アタリ8ビットファミリーの後継機種である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>雅达利 ST 是雅达利公司推出的家用电脑系列，也是雅达利 8 位系列的后续产品</longdescription>
+</variables>
+</language>
+
 </theme>

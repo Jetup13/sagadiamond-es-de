@@ -7,7 +7,81 @@
 <text>2017  ·  2D Game Engine</text>
 </text>
 <text name="longdescription">
-<text>ChaiLove, an experiment in porting LOVE to ChaiScript</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>ChaiLove, an experiment in porting LOVE to ChaiScript</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>ChaiLove es un impresionante framework que puedes usar para hacer juegos 2D en ChaiScript</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>ChaiLove est un framework génial que vous pouvez utiliser pour créer des jeux 2D en ChaiScript</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>ChaiLove è un framework fantastico che si può usare per creare giochi 2D in ChaiScript</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>ChaiLove to niesamowity framework, którego można używać do tworzenia gier 2D w ChaiScript</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O ChaiLove é uma estrutura incrível que você pode usar para criar jogos 2D em ChaiScript</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>ChaiLove este un cadru minunat pe care îl puteți utiliza pentru a crea jocuri 2D în ChaiScript</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>ChaiLove - это потрясающий фреймворк, который можно использовать для создания 2D-игр на ChaiScript</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>ChaiLove är ett fantastiskt ramverk som du kan använda för att skapa 2D-spel i ChaiScript</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ChaiLoveはChaiScriptで2Dゲームを作るための素晴らしいフレームワークです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>ChaiLove 是一个超棒的框架，你可以用它在 ChaiScript 中制作 2D 游戏</longdescription>
+</variables>
+</language>
+
 </theme>

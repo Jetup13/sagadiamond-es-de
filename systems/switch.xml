@@ -10,7 +10,81 @@
 <text>2017  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Nintendo Switch is a video game console developed by Nintendo and released worldwide in most regions on March 3, 2017</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Nintendo Switch is a video game console developed by Nintendo and released worldwide in most regions on March 3, 2017</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Nintendo Switch es una videoconsola doméstica de octava generación (2012-presente) desarrollada y distribuida por Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Nintendo Switch est une console de jeux vidéo de salon de huitième génération (2012-présent) développée et distribuée par Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Nintendo Switch è una console per videogiochi domestici di ottava generazione (2012-presente) sviluppata e distribuita da Nintendo</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Nintendo Switch to domowa konsola do gier wideo ósmej generacji (2012-obecnie) opracowana i dystrybuowana przez Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Nintendo Switch é um console de videogame doméstico de oitava geração (2012-presente) desenvolvido e distribuído pela Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Nintendo Switch este o consolă de jocuri video de acasă din a opta generație (2012-prezent) dezvoltată și distribuită de Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Nintendo Switch - домашняя игровая консоль восьмого поколения (с 2012 года по настоящее время), разработанная и распространяемая компанией Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Nintendo Switch är en åttonde generationens (2012-nuvarande) hemkonsol för videospel som utvecklas och distribueras av Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Nintendo Switch（ニンテンドースイッチ）は、任天堂が開発・販売する第8世代（2012年～）の家庭用ゲーム機</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>任天堂 Switch 是任天堂开发和发行的第八代（2012 年至今）家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -10,7 +10,81 @@
 <text>1998  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>Monochrome handheld game console released by SNK. It was the company's first handheld system and is part of the Neo Geo family</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Monochrome handheld game console released by SNK. It was the company's first handheld system and is part of the Neo Geo family</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Neo Geo Pocket es una consola portátil monocroma lanzada por SNK</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Neo Geo Pocket est une console de jeu portable monochrome éditée par SNK</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Neo Geo Pocket è una console di gioco portatile monocromatica pubblicata da SNK</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Neo Geo Pocket to monochromatyczna przenośna konsola do gier wydana przez SNK</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Neo Geo Pocket é um console de jogos portátil monocromático lançado pela SNK</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Neo Geo Pocket este o consolă de jocuri portabilă monocromă lansată de SNK</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Neo Geo Pocket - монохромная портативная игровая консоль, выпущенная компанией SNK</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Neo Geo Pocket är en monokrom handhållen spelkonsol utgiven av SNK</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ネオジオポケットはSNKから発売されたモノクロの携帯ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Neo Geo Pocket 是 SNK 推出的一款单色掌上游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

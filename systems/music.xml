@@ -10,7 +10,81 @@
 <text>Media Applications</text>
 </text>
 <text name="longdescription">
-<text>A music player is software that plays audio files, supporting various formats and codecs for seamless listening</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>A music player is software that plays audio files, supporting various formats and codecs for seamless listening</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Un reproductor de música es un programa informático que reproduce archivos de audio y admite varios formatos y códecs para escucharlos sin problemas</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Un lecteur de musique est un logiciel qui lit des fichiers audio, prenant en charge différents formats et codecs pour une écoute fluide</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Un lettore musicale è un software che riproduce file audio, supportando vari formati e codec per un ascolto senza interruzioni</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Odtwarzacz muzyczny to oprogramowanie, które odtwarza pliki audio, obsługując różne formaty i kodeki w celu płynnego słuchania</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Um reprodutor de música é um software que reproduz arquivos de áudio, com suporte a vários formatos e codecs para uma audição perfeita</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Un player muzical este un software care redă fișiere audio, suportând diferite formate și codecuri pentru o ascultare fără întreruperi</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Музыкальный плеер - это программное обеспечение для воспроизведения аудиофайлов, поддерживающее различные форматы и кодеки для бесперебойного прослушивания</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>En musikspelare är en programvara som spelar upp ljudfiler och stöder olika format och codecs för sömlös lyssning</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>音楽プレーヤーは、オーディオファイルを再生するソフトウェアで、シームレスに聴くための様々なフォーマットやコーデックをサポートしています</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>音乐播放器是播放音频文件的软件，支持各种格式和编解码器，可实现无缝聆听</longdescription>
+</variables>
+</language>
+
 </theme>

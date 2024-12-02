@@ -7,7 +7,81 @@
 <text>Software</text>
 </text>
 <text name="longdescription">
-<text>Multi-platform ports of software and game engines from PC to DOS </text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Multi-platform ports of software and game engines from PC to DOS </longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Vea y juegue a todos sus puertos de juegos favoritos</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Visualisez et jouez à tous vos jeux préférés</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Visualizzate e giocate a tutte le vostre porte di gioco preferite</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Przeglądaj i graj we wszystkie swoje ulubione porty gier</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Visualize e jogue todas as portas de seus jogos favoritos</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Vizualizați și jucați toate porturile jocurilor dvs</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Просматривайте и играйте во все свои любимые игровые порты</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Visa och spela alla dina favoritspelportar</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>お気に入りのゲームポートをすべて表示してプレイできます</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>查看并玩转您喜爱的所有游戏端口</longdescription>
+</variables>
+</language>
+
 </theme>

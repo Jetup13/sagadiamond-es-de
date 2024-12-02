@@ -10,7 +10,81 @@
 <text>1983  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Nintendo Entertainment System is an 8-bit home video game console produced by Nintendo</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Nintendo Entertainment System is an 8-bit home video game console produced by Nintendo</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Nintendo Entertainment System es una videoconsola de 8 bits lanzada por Nintendo en Norteamérica en 1985, en Europa en 1986 y en Australia en 1987</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Nintendo Entertainment System est une console de jeux vidéo 8 bits commercialisée par Nintendo en Amérique du Nord en 1985, en Europe en 1986 et en Australie en 1987</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Nintendo Entertainment System è una console per videogiochi a 8 bit pubblicata da Nintendo in Nord America nel 1985, in Europa nel 1986 e in Australia nel 1987</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Nintendo Entertainment System to 8-bitowa konsola do gier wideo, która została wydana przez Nintendo w Ameryce Północnej w 1985 roku, w Europie w 1986 roku i Australii w 1987 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Nintendo Entertainment System é um console de videogame de 8 bits lançado pela Nintendo na América do Norte em 1985, na Europa em 1986 e na Austrália em 1987</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Nintendo Entertainment System este o consolă de jocuri video pe 8 biți care a fost lansată de Nintendo în America de Nord în 1985, în Europa în 1986 și în Australia în 1987</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Nintendo Entertainment System - это 8-битная игровая приставка, выпущенная компанией Nintendo в Северной Америке в 1985 году, в Европе в 1986 году и в Австралии в 1987 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Nintendo Entertainment System är en 8-bitars videospelskonsol som släpptes av Nintendo i Nordamerika under 1985, i Europa under 1986 och i Australien under 1987</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ニンテンドー・エンターテインメント・システムは、任天堂が1985年に北米で、1986年に欧州で、1987年にオーストラリアで発売した8ビットのビデオゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>任天堂娱乐系统是任天堂于 1985 年在北美、1986 年在欧洲、1987 年在澳大利亚推出的 8 位视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

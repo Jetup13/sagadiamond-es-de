@@ -7,7 +7,81 @@
 <text>2002  ·  Media Player</text>
 </text>
 <text name="longdescription">
-<text>Kodi is an award-winning free and open source cross-platform software media player and entertainment hub</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Kodi is an award-winning free and open source cross-platform software media player and entertainment hub</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Kodi es una aplicación de software de reproducción multimedia gratuita y de código abierto desarrollada por la Fundación XBMC, un consorcio tecnológico sin ánimo de lucro</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Kodi est un logiciel de lecture multimédia libre et gratuit développé par la Fondation XBMC, un consortium technologique à but non lucratif</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Kodi è un'applicazione software per lettori multimediali gratuita e open-source sviluppata dalla XBMC Foundation, un consorzio tecnologico senza scopo di lucro</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Kodi to darmowy odtwarzacz multimedialny o otwartym kodzie źródłowym, opracowany przez XBMC Foundation, konsorcjum technologiczne non-profit</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Kodi é um aplicativo de software reprodutor de mídia gratuito e de código aberto desenvolvido pela XBMC Foundation, um consórcio de tecnologia sem fins lucrativos</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Kodi este o aplicație software media player gratuită și open-source dezvoltată de Fundația XBMC, un consorțiu tehnologic non-profit</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Kodi - это бесплатный медиаплеер с открытым исходным кодом, разработанный некоммерческим технологическим консорциумом XBMC Foundation</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Kodi är en mediaspelare med fri och öppen källkod som utvecklats av XBMC Foundation, ett icke vinstdrivande teknikkonsortium</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Kodiは、非営利の技術コンソーシアムであるXBMC財団によって開発されたフリーでオープンソースのメディアプレーヤーソフトウェアアプリケーションです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Kodi 是由非营利技术联盟 XBMC 基金会开发的一款免费开源媒体播放器软件应用程序</longdescription>
+</variables>
+</language>
+
 </theme>

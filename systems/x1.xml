@@ -10,7 +10,81 @@
 <text>1982  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The X1 is a series of home computers released by Sharp Corporation from 1982 to 1988</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The X1 is a series of home computers released by Sharp Corporation from 1982 to 1988</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El X1 (エックスワン, Ekkusuwan), a veces llamado Sharp X1, es una serie de ordenadores domésticos lanzados por Sharp Corporation entre 1982 y 1988</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le X1 (エックスワン, Ekkusuwan), parfois appelé Sharp X1, est une série d'ordinateurs domestiques commercialisés par Sharp Corporation de 1982 à 1988</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'X1 (エックスワン, Ekkusuwan), talvolta chiamato Sharp X1, è una serie di home computer rilasciati da Sharp Corporation dal 1982 al 1988</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>X1 (エックスワン, Ekkusuwan), czasami nazywany Sharp X1, to seria komputerów domowych wydanych przez Sharp Corporation w latach 1982-1988</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O X1 (エックスワン, Ekkusuwan), às vezes chamado de Sharp X1, é uma série de computadores domésticos lançados pela Sharp Corporation de 1982 a 1988</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>X1 (エックスワン, Ekkusuwan), uneori numit Sharp X1, este o serie de computere de acasă lansate de Sharp Corporation din 1982 până în 1988</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>X1 (エックスワン, Ekkusuwan), иногда называемый Sharp X1, - серия домашних компьютеров, выпущенных корпорацией Sharp с 1982 по 1988 год</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>X1 (エックスワン, Ekkusuwan), ibland kallad Sharp X1, är en serie hemdatorer som släpptes av Sharp Corporation mellan 1982 och 1988</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>X1（エックスワン、えくすわん）は、シャープX1と呼ばれることもある、シャープ株式会社が1982年から1988年にかけて発売した家庭用コンピュータのシリーズである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>X1（エックスワン，Ekkusuwan），有时也称为夏普 X1，是夏普公司于 1982 年至 1988 年间推出的一系列家用电脑</longdescription>
+</variables>
+</language>
+
 </theme>

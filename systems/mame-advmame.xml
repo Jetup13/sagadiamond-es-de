@@ -10,7 +10,81 @@
 <text>1998  ·  Emulator</text>
 </text>
 <text name="longdescription">
-<text>AdvanceMAME, is a port of the MAME 0.106 and MESS 0.106 emulators for Arcade Monitors and TVs but also for LCDs and PC monitors</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>AdvanceMAME, is a port of the MAME 0.106 and MESS 0.106 emulators for Arcade Monitors and TVs but also for LCDs and PC monitors</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>AdvanceMAME, es un port de los emuladores MAME 0</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>AdvanceMAME est un portage des émulateurs MAME 0</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>AdvanceMAME è un porting degli emulatori MAME 0</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>AdvanceMAME, to port emulatorów MAME 0</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O AdvanceMAME é uma porta dos emuladores MAME 0</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>AdvanceMAME, este un port al emulatoarelor MAME 0</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>AdvanceMAME - это порт эмуляторов MAME 0</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>AdvanceMAME, är en portning av emulatorerna MAME 0</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>AdvanceMAMEは、MAME 0</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>AdvanceMAME是MAME 0</longdescription>
+</variables>
+</language>
+
 </theme>

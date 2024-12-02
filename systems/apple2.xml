@@ -7,7 +7,81 @@
 <text>1977  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>One of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>One of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>En 1976, los pioneros de la informática Steve Wozniak y Steve Jobs empezaron a vender su ordenador Apple I en forma de kit a las tiendas de informática</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>En 1976, les pionniers de l'informatique Steve Wozniak et Steve Jobs ont commencé à vendre leur ordinateur Apple I en kit dans les magasins d'informatique</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Nel 1976, i pionieri del computer Steve Wozniak e Steve Jobs iniziarono a vendere il loro computer Apple I in kit nei negozi di informatica</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>W 1976 roku pionierzy komputerowi Steve Wozniak i Steve Jobs zaczęli sprzedawać swój komputer Apple I w formie zestawu do sklepów komputerowych</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Em 1976, os pioneiros da computação Steve Wozniak e Steve Jobs começaram a vender seu computador Apple I em forma de kit para lojas de informática</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>În 1976, pionierii calculatoarelor Steve Wozniak și Steve Jobs au început să vândă computerul lor Apple I sub formă de kit în magazinele de calculatoare</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>В 1976 году компьютерные пионеры Стив Возняк и Стив Джобс начали продавать свой компьютер Apple I в виде набора в компьютерных магазинах</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>1976 började datorpionjärerna Steve Wozniak och Steve Jobs sälja sin Apple I-dator i byggsatsform till datorbutiker</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>1976年、コンピューターのパイオニアであるスティーブ・ウォズニアックとスティーブ・ジョブズは、アップルIをキットにしてコンピューターショップに売り始めた</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>1976 年，电脑先驱史蒂夫-沃兹尼亚克和史蒂夫-乔布斯开始向电脑商店出售他们的套装版 Apple I 电脑</longdescription>
+</variables>
+</language>
+
 </theme>

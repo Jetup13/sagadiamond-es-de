@@ -10,7 +10,81 @@
 <text>1987  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Originally intended to compete with the NES, it ended up competing with the Sega Genesis, and later on the Super Nintendo</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Originally intended to compete with the NES, it ended up competing with the Sega Genesis, and later on the Super Nintendo</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La PC Engine es una videoconsola doméstica de 16 bits de cuarta generación diseñada por Hudson Soft y comercializada por NEC Home Electronics</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La PC Engine est une console de jeu vidéo 16 bits de quatrième génération conçue par Hudson Soft et vendue par NEC Home Electronics</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il PC Engine è una console per videogiochi domestici di quarta generazione a 16 bit progettata da Hudson Soft e venduta da NEC Home Electronics</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>PC Engine to 16-bitowa domowa konsola do gier wideo czwartej generacji zaprojektowana przez Hudson Soft i sprzedawana przez NEC Home Electronics</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O PC Engine é um console de videogame doméstico de quarta geração de 16 bits projetado pela Hudson Soft e vendido pela NEC Home Electronics</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>PC Engine este o consolă de jocuri video pe 16 biți de a patra generație proiectată de Hudson Soft și vândută de NEC Home Electronics</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>PC Engine - это 16-битная домашняя игровая консоль четвертого поколения, разработанная компанией Hudson Soft и продаваемая NEC Home Electronics</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>PC Engine är en 16-bitars fjärde generationens hemkonsol för videospel som designades av Hudson Soft och såldes av NEC Home Electronics</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>PCエンジンは、ハドソンソフトが設計し、NECホームエレクトロニクスが販売した16ビットの第4世代家庭用ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>PC Engine 是由 Hudson Soft 设计、NEC Home Electronics 销售的 16 位第四代家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

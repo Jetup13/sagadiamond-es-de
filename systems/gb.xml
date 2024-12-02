@@ -10,7 +10,81 @@
 <text>1989  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>Nintendo's second handheld system following the Game & Watch series. It mainly competed with Game Gear and Lynx</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Nintendo's second handheld system following the Game &amp; Watch series. It mainly competed with Game Gear and Lynx</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Game Boy es una videoconsola portátil de 8 bits desarrollada y fabricada por Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Game Boy est une console de jeux vidéo portable 8 bits développée et fabriquée par Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Game Boy è una console portatile per videogiochi a 8 bit sviluppata e prodotta da Nintendo</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Game Boy to 8-bitowa przenośna konsola do gier wideo opracowana i wyprodukowana przez Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Game Boy é um console de videogame portátil de 8 bits desenvolvido e fabricado pela Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Game Boy este o consolă portabilă de jocuri video pe 8 biți dezvoltată și fabricată de Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Game Boy - это 8-битная портативная игровая приставка, разработанная и выпущенная компанией Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Game Boy är en 8-bitars handhållen videospelskonsol som utvecklats och tillverkats av Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ゲームボーイは任天堂が開発・製造した8ビット携帯ゲーム機</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Game Boy 是任天堂开发和制造的一款 8 位掌上视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

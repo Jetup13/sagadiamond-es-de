@@ -10,7 +10,81 @@
 <text>1993  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Sixth and last programmable console to be developed under the Atari brand, Atari marketed the Jaguar as being the first 64-bit video game console</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Sixth and last programmable console to be developed under the Atari brand, Atari marketed the Jaguar as being the first 64-bit video game console</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Atari Jaguar es una videoconsola de quinta generación (1993-2005) desarrollada y distribuida por Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Atari Jaguar est une console de jeux vidéo de cinquième génération (1993-2005) développée et distribuée par Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Atari Jaguar è una console per videogiochi di quinta generazione (1993-2005) sviluppata e distribuita da Atari Corporation</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Atari Jaguar to konsola do gier wideo piątej generacji (1993-2005) opracowana i dystrybuowana przez Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Atari Jaguar é um console de videogame de quinta geração (1993-2005) desenvolvido e distribuído pela Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Atari Jaguar este o a cincea generație (1993-2005) de console de jocuri video dezvoltate și distribuite de Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Atari Jaguar - игровая консоль пятого поколения (1993-2005), разработанная и распространяемая корпорацией Atari</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Atari Jaguar är en femte generationens (1993-2005) videospelskonsol som utvecklades och distribuerades av Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アタリ・ジャガー（Atari Jaguar）は、アタリ社が開発・販売した第5世代（1993年〜2005年）のビデオゲーム機</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>雅达利美洲虎是由雅达利公司开发和销售的第五代（1993-2005 年）视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

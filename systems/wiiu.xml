@@ -10,7 +10,81 @@
 <text>2012  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>Successor to the Wii and the first eighth-gen video game console, as it competed with Microsoft's Xbox One and Sony's PS4</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Successor to the Wii and the first eighth-gen video game console, as it competed with Microsoft's Xbox One and Sony's PS4</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Wii U (WEE YOO) es una videoconsola doméstica desarrollada por Nintendo como sucesora de la Wii</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Wii U (WEE YOO) est une console de jeu vidéo de salon développée par Nintendo pour succéder à la Wii</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La Wii U (WEE YOO) è una console per videogiochi domestica sviluppata da Nintendo come successore della Wii</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Wii U (WEE YOO) to domowa konsola do gier wideo opracowana przez Nintendo jako następca Wii</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Wii U (WEE YOO) é um console de videogame doméstico desenvolvido pela Nintendo como sucessor do Wii</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Wii U (WEE YOO) este o consolă de jocuri video pentru acasă dezvoltată de Nintendo ca succesor al Wii</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Wii U (WEE YOO) - домашняя игровая приставка, разработанная компанией Nintendo в качестве преемника Wii</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Wii U (WEE YOO) är en hemkonsol för videospel som utvecklats av Nintendo som efterföljare till Wii</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Wii U（WEE YOO）は、任天堂がWiiの後継機として開発した家庭用ゲーム機</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Wii U（WEE YOO）是任天堂开发的家用视频游戏机，是 Wii 的后继机</longdescription>
+</variables>
+</language>
+
 </theme>

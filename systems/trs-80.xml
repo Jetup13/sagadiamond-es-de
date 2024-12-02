@@ -10,7 +10,81 @@
 <text>1977  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The TRS-80 Micro Computer System is a desktop microcomputer launched in 1977 and sold by Tandy Corporation through their Radio Shack stores</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The TRS-80 Micro Computer System is a desktop microcomputer launched in 1977 and sold by Tandy Corporation through their Radio Shack stores</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El TRS-80 Micro Computer System (TRS-80, rebautizado posteriormente como Modelo I para distinguirlo de sus sucesores) es un microordenador de sobremesa lanzado en 1977 y vendido por Tandy Corporation a través de sus tiendas Radio Shack</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le TRS-80 Micro Computer System (TRS-80, renommé plus tard Model I pour le distinguer de ses successeurs) est un micro-ordinateur de bureau lancé en 1977 et vendu par Tandy Corporation dans ses magasins Radio Shack</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il TRS-80 Micro Computer System (TRS-80, poi rinominato Model I per distinguerlo dai suoi successori) è un microcomputer da tavolo lanciato nel 1977 e venduto da Tandy Corporation attraverso i suoi negozi Radio Shack</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>TRS-80 Micro Computer System (TRS-80, później przemianowany na Model I, aby odróżnić go od następców) to mikrokomputer stacjonarny wprowadzony na rynek w 1977 roku i sprzedawany przez Tandy Corporation za pośrednictwem sklepów Radio Shack</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O TRS-80 Micro Computer System (TRS-80, posteriormente renomeado como Modelo I para diferenciá-lo dos sucessores) é um microcomputador de mesa lançado em 1977 e vendido pela Tandy Corporation em suas lojas Radio Shack</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>TRS-80 Micro Computer System (TRS-80, redenumit ulterior Model I pentru a-l distinge de succesorii săi) este un microcomputer de birou lansat în 1977 și vândut de Tandy Corporation prin magazinele sale Radio Shack</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Микрокомпьютер TRS-80 (TRS-80, позже переименованный в Model I, чтобы отличить его от преемников) - настольный микрокомпьютер, выпущенный в 1977 году и продававшийся корпорацией Tandy через свои магазины Radio Shack</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>TRS-80 Micro Computer System (TRS-80, senare omdöpt till Model I för att skilja den från efterföljare) är en stationär mikrodator som lanserades 1977 och såldes av Tandy Corporation genom deras Radio Shack-butiker</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>TRS-80マイクロコンピューター・システム（TRS-80、後に後継機と区別するためにモデルIと改名）は、1977年に発売されたデスクトップ型マイクロコンピューターで、タンディ・コーポレーションがラジオシャック店を通じて販売した</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>TRS-80 微型计算机系统（TRS-80，后更名为 I 型，以区别于后续产品）是一款台式微型计算机，于 1977 年推出，由 Tandy 公司通过其 Radio Shack 商店销售</longdescription>
+</variables>
+</language>
+
 </theme>

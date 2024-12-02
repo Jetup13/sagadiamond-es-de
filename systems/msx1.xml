@@ -10,7 +10,81 @@
 <text>1983  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The first MSX computer sold to the public was a Mitsubishi ML-8000, released on October 21, 1983, thus marking its official release date</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The first MSX computer sold to the public was a Mitsubishi ML-8000, released on October 21, 1983, thus marking its official release date</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>MSX es una arquitectura estandarizada de ordenadores domésticos, anunciada por Microsoft y ASCII Corporation el 16 de junio de 1983</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le MSX est une architecture d'ordinateur domestique standardisée, annoncée par Microsoft et ASCII Corporation le 16 juin 1983</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>MSX è un'architettura standardizzata per home computer, annunciata da Microsoft e ASCII Corporation il 16 giugno 1983</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>MSX to ustandaryzowana architektura komputera domowego, ogłoszona przez Microsoft i ASCII Corporation 16 czerwca 1983 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O MSX é uma arquitetura padronizada de computador doméstico, anunciada pela Microsoft e pela ASCII Corporation em 16 de junho de 1983</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>MSX este o arhitectură standardizată de computer de casă, anunțată de Microsoft și ASCII Corporation la 16 iunie 1983</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>MSX - это стандартизированная архитектура домашнего компьютера, анонсированная Microsoft и ASCII Corporation 16 июня 1983 года</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>MSX är en standardiserad arkitektur för hemdatorer som presenterades av Microsoft och ASCII Corporation den 16 juni 1983</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>MSXは、1983年6月16日にマイクロソフトと株式会社アスキーによって発表された、標準化された家庭用コンピュータのアーキテクチャである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>MSX 是微软和 ASCII 公司于 1983 年 6 月 16 日发布的一种标准化家用电脑架构</longdescription>
+</variables>
+</language>
+
 </theme>

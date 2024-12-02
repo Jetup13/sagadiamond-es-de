@@ -7,7 +7,81 @@
 <text>2021  ·  Fantasy Computer</text>
 </text>
 <text name="longdescription">
-<text>WASM-4 is a low-level fantasy game console for building small games with WebAssembly</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>WASM-4 is a low-level fantasy game console for building small games with WebAssembly</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>WASM-4 es una consola de juegos de fantasía de bajo nivel para construir pequeños juegos con WebAssembly</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>WASM-4 est une console de jeu fantastique de bas niveau permettant de créer de petits jeux avec WebAssembly</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>WASM-4 è una console di gioco fantasy di basso livello per la creazione di piccoli giochi con WebAssembly</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>WASM-4 to niskopoziomowa konsola do gier fantasy do tworzenia małych gier za pomocą WebAssembly</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O WASM-4 é um console de jogos de fantasia de baixo nível para a criação de pequenos jogos com o WebAssembly</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>WASM-4 este o consolă de jocuri fantastice de nivel scăzut pentru construirea de jocuri mici cu WebAssembly</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>WASM-4 - это низкоуровневая игровая консоль для создания небольших игр на WebAssembly</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>WASM-4 är en lågnivåkonsol för fantasyspel där man kan bygga små spel med WebAssembly</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>WASM-4は、WebAssemblyで小さなゲームを作るための低レベルのファンタジーゲーム機です</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>WASM-4 是一个低级幻想游戏控制台，用于使用 WebAssembly 构建小型游戏</longdescription>
+</variables>
+</language>
+
 </theme>

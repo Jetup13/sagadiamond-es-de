@@ -7,7 +7,81 @@
 <text>1983  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Spectravideo International Limited (SVI) was an American computer manufacturer and software hous</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Spectravideo International Limited (SVI) was an American computer manufacturer and software hous</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Spectravideo International Limited (SVI) era un fabricante estadounidense de ordenadores y software</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Spectravideo International Limited (SVI) était un fabricant d'ordinateurs et un éditeur de logiciels américain</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Spectravideo International Limited (SVI) era un produttore di computer e software house americano</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Spectravideo International Limited (SVI) był amerykańskim producentem komputerów i oprogramowania</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>A Spectravideo International Limited (SVI) era uma empresa americana fabricante de computadores e software</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Spectravideo International Limited (SVI) a fost un producător american de calculatoare și software house</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Spectravideo International Limited (SVI) - американский производитель компьютеров и программного обеспечения</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Spectravideo International Limited (SVI) var en amerikansk datortillverkare och programvaruhus</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>スペクトラビデオ・インターナショナル・リミテッド（SVI）はアメリカのコンピューターメーカーであり、ソフトウェアハウスである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Spectravideo 国际有限公司（SVI）是一家美国计算机制造商和软件公司</longdescription>
+</variables>
+</language>
+
 </theme>

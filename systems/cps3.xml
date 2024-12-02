@@ -10,7 +10,81 @@
 <text>1996  ·  Arcade Board</text>
 </text>
 <text name="longdescription">
-<text>The last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El CP System III (CPシステムIII, shīpī shisutemu surī) o CPS-3 es una placa de sistema arcade que fue utilizada por primera vez por Capcom en 1996 con el juego arcade Red Earth</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le CP System III (CPシステムIII, shīpī shisutemu surī) ou CPS-3 est une carte de système d'arcade qui a été utilisée pour la première fois par Capcom en 1996 avec le jeu d'arcade Red Earth</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il CP System III (CPシステムIII, shīpī shisutemu surī) o CPS-3 è una scheda di sistema arcade utilizzata per la prima volta da Capcom nel 1996 con il gioco arcade Red Earth</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>CP System III (CPシステムIII, shīpī shisutemu surī) lub CPS-3 to zręcznościowa płyta systemowa, która została po raz pierwszy użyta przez Capcom w 1996 roku w grze zręcznościowej Red Earth</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O CP System III (CPシステムIII, shīpī shisutemu surī) ou CPS-3 é uma placa de sistema de arcade que foi usada pela primeira vez pela Capcom em 1996 com o jogo de arcade Red Earth</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>CP System III (CPシステムIII, shīpī shisutemu surī) sau CPS-3 este o placă de sistem arcade care a fost folosită pentru prima dată de Capcom în 1996 cu jocul arcade Red Earth</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>CP System III (CPシステムIII, shīpī shisutemu surī) или CPS-3 - это плата для аркадной системы, которая впервые была использована компанией Capcom в 1996 году в аркадной игре Red Earth</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>CP System III (CPシステムIII, shīpī shisutemu surī) eller CPS-3 är ett arkadsystemkort som först användes av Capcom 1996 med arkadspelet Red Earth</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>CPシステムIII（シーピーシステムアイアイ、shīpī shisutemu surī）またはCPS-3は、1996年にカプコンがアーケードゲーム『レッドアース』で初めて採用したアーケードシステム基板である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>CP System III（CPシステムIII，shīpī shisutemu surī）或 CPS-3 是一种街机系统板卡，卡普空公司于 1996 年首次将其用于街机游戏《红土地》</longdescription>
+</variables>
+</language>
+
 </theme>

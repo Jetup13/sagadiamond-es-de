@@ -7,7 +7,81 @@
 <text>1986  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Almost fully backward-compatible with the Atari 2600, the 7800 was the first console to have backward compatibility without the use of additional modules</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Almost fully backward-compatible with the Atari 2600, the 7800 was the first console to have backward compatibility without the use of additional modules</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Atari 7800 Pro System, comúnmente conocida como Atari 7800, es una videoconsola de tercera generación (1983-2003) desarrollada y distribuida por Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Atari 7800 Pro System, communément appelé Atari 7800, est une console de jeux vidéo de troisième génération (1983-2003) développée et distribuée par Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Atari 7800 Pro System, comunemente noto come Atari 7800, è una console per videogiochi di terza generazione (1983-2003) sviluppata e distribuita da Atari Corporation</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Atari 7800 Pro System, powszechnie znany jako Atari 7800, to konsola do gier wideo trzeciej generacji (1983-2003) opracowana i dystrybuowana przez Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Atari 7800 Pro System, comumente conhecido como Atari 7800, é um console de videogame de terceira geração (1983-2003) desenvolvido e distribuído pela Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Atari 7800 Pro System, cunoscut în mod obișnuit ca Atari 7800, este o consolă de jocuri video din a treia generație (1983-2003) dezvoltată și distribuită de Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Atari 7800 Pro System, широко известная как Atari 7800, - игровая консоль третьего поколения (1983-2003), разработанная и распространяемая корпорацией Atari</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Atari 7800 Pro System, allmänt känt som Atari 7800, är en tredje generationens (1983-2003) videospelskonsol som utvecklades och distribuerades av Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アタリ7800プロシステム、通称アタリ7800は、アタリ社が開発・販売した第3世代（1983年～2003年）のビデオゲーム機です</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>雅达利 7800 Pro 系统，俗称雅达利 7800，是雅达利公司开发和销售的第三代（1983-2003 年）视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

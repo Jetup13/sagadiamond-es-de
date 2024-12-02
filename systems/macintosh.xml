@@ -10,7 +10,81 @@
 <text>1984  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Macintosh (mainly Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Macintosh (mainly Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Macintosh (principalmente Mac desde 1998) es una familia de ordenadores personales diseñados, fabricados y vendidos por Apple Inc</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Macintosh (principalement Mac depuis 1998) est une famille d'ordinateurs personnels conçus, fabriqués et vendus par Apple Inc</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Macintosh (principalmente Mac dal 1998) è una famiglia di personal computer progettati, prodotti e venduti da Apple Inc</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Macintosh (głównie Mac od 1998 roku) to rodzina komputerów osobistych zaprojektowanych, wyprodukowanych i sprzedawanych przez Apple Inc</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Macintosh (principalmente Mac desde 1998) é uma família de computadores pessoais projetados, fabricados e vendidos pela Apple Inc</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Macintosh (în principal Mac din 1998) este o familie de computere personale proiectate, fabricate și vândute de Apple Inc</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Macintosh (с 1998 года - Mac) - семейство персональных компьютеров, разработанных, производимых и продаваемых компанией Apple Inc</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Macintosh (huvudsakligen Mac sedan 1998) är en familj av persondatorer som designats, tillverkats och sålts av Apple Inc (ursprungligen Apple Computer, Inc) sedan januari 1984</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>マッキントッシュ（1998年以降は主にMac）は、アップル社（当初はアップルコンピュータ社）が1984年1月から設計・製造・販売しているパーソナルコンピュータのファミリー</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Macintosh （自 1998 年起主要称为 Mac）是苹果公司（原名为苹果电脑公司）自 1984 年 1 月起设计、制造和销售的个人电脑系列</longdescription>
+</variables>
+</language>
+
 </theme>

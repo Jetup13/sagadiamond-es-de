@@ -7,7 +7,81 @@
 <text>2004  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>The Nintendo DS is a dual-screen handheld game console developed and released by Nintendo that featured two LCD screens working in tandem</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Nintendo DS is a dual-screen handheld game console developed and released by Nintendo that featured two LCD screens working in tandem</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>The Nintendo DS or simply, DS, is a 32-bit dual-screen handheld game console developed and released by Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Nintendo DS, ou plus simplement DS, est une console de jeu portable 32 bits à double écran développée et commercialisée par Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Nintendo DS, o semplicemente DS, è una console portatile a doppio schermo a 32 bit sviluppata e pubblicata da Nintendo</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Nintendo DS lub po prostu DS to 32-bitowa przenośna konsola do gier z dwoma ekranami, opracowana i wydana przez Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Nintendo DS, ou simplesmente DS, é um console de jogos portátil com tela dupla de 32 bits desenvolvido e lançado pela Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Nintendo DS sau pur și simplu, DS, este o consolă portabilă de jocuri cu ecran dublu pe 32 de biți dezvoltată și lansată de Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Nintendo DS или просто DS - 32-битная портативная игровая консоль с двумя экранами, разработанная и выпущенная компанией Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Nintendo DS, eller helt enkelt DS, är en 32-bitars handhållen spelkonsol med dubbla skärmar som utvecklats och släppts av Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ニンテンドーDS（Nintendo DS）は、任天堂が開発・発売した32ビット2画面携帯ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>任天堂 DS 或简称 DS，是任天堂开发并发布的 32 位双屏幕掌上游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

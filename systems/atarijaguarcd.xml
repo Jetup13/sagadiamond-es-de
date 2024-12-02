@@ -10,7 +10,81 @@
 <text>1995  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Atari Jaguar CD is a fifth generation CD-ROM peripheral for the Atari Jaguar video game console developed and distributed by Atari Corporation</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Atari Jaguar CD is a fifth generation CD-ROM peripheral for the Atari Jaguar video game console developed and distributed by Atari Corporation</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Atari Jaguar CD es un periférico CD-ROM de quinta generación (1993-2005) para la videoconsola Atari Jaguar desarrollado y distribuido por Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Atari Jaguar CD est un périphérique CD-ROM de cinquième génération (1993-2005) pour la console de jeux vidéo Atari Jaguar, développé et distribué par Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Atari Jaguar CD è una periferica CD-ROM di quinta generazione (1993-2005) per la console per videogiochi Atari Jaguar, sviluppata e distribuita da Atari Corporation</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Atari Jaguar CD to urządzenie peryferyjne CD-ROM piątej generacji (1993-2005) dla konsoli do gier wideo Atari Jaguar, opracowane i dystrybuowane przez Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Atari Jaguar CD é um periférico de CD-ROM de quinta geração (1993-2005) para o console de videogame Atari Jaguar, desenvolvido e distribuído pela Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Atari Jaguar CD este un periferic CD-ROM din a cincea generație (1993-2005) pentru consola de jocuri video Atari Jaguar dezvoltat și distribuit de Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Atari Jaguar CD - периферийное устройство CD-ROM пятого поколения (1993-2005) для игровой консоли Atari Jaguar, разработанное и распространяемое корпорацией Atari</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Atari Jaguar CD är en femte generationens (1993-2005) CD-ROM-kringutrustning för videospelskonsolen Atari Jaguar, utvecklad och distribuerad av Atari Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Atari Jaguar CDは、Atari Corporationが開発・販売する第5世代（1993年～2005年）のAtari Jaguarビデオゲーム機用CD-ROM周辺機器です</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Atari Jaguar CD 是 Atari Corporation 为 Atari Jaguar 视频游戏机开发和销售的第五代（1993-2005 年）CD-ROM 外围设备</longdescription>
+</variables>
+</language>
+
 </theme>

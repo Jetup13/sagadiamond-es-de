@@ -7,7 +7,81 @@
 <text>1996  ·  Handheld OS</text>
 </text>
 <text name="longdescription">
-<text>FreeJ2ME is a J2ME emulator</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>FreeJ2ME is a J2ME emulator</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Java Platform, Micro Edition o Java ME es una plataforma informática para el desarrollo y despliegue de código portátil para dispositivos embebidos y móviles (microcontroladores, sensores, pasarelas, teléfonos móviles, asistentes digitales personales, descodificadores de TV, impresoras)</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Java Platform, Micro Edition ou Java ME est une plateforme informatique pour le développement et le déploiement de codes portables pour les appareils embarqués et mobiles (microcontrôleurs, capteurs, passerelles, téléphones mobiles, assistants numériques personnels, décodeurs TV, imprimantes)</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Java Platform, Micro Edition o Java ME è una piattaforma informatica per lo sviluppo e la distribuzione di codice portatile per dispositivi embedded e mobili (microcontrollori, sensori, gateway, telefoni cellulari, assistenti digitali personali, decoder TV, stampanti)</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Java Platform, Micro Edition lub Java ME to platforma obliczeniowa do opracowywania i wdrażania przenośnego kodu dla urządzeń wbudowanych i mobilnych (mikrokontrolery, czujniki, bramki, telefony komórkowe, osobiste asystenty cyfrowe, dekodery telewizyjne, drukarki)</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Java Platform, Micro Edition ou Java ME é uma plataforma de computação para desenvolvimento e implantação de código portátil para dispositivos móveis e incorporados (microcontroladores, sensores, gateways, telefones celulares, assistentes pessoais digitais, decodificadores de TV, impressoras)</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Java Platform, Micro Edition sau Java ME este o platformă de calcul pentru dezvoltarea și implementarea de cod portabil pentru dispozitive mobile și încorporate (microcontrolere, senzori, gateway-uri, telefoane mobile, asistenți personali digitali, set-top box-uri TV, imprimante)</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Java Platform, Micro Edition или Java ME - это вычислительная платформа для разработки и развертывания переносимого кода для встраиваемых и мобильных устройств (микроконтроллеров, датчиков, шлюзов, мобильных телефонов, персональных цифровых помощников, ТВ-приставок, принтеров)</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Java Platform, Micro Edition eller Java ME är en datorplattform för utveckling och driftsättning av portabel kod för inbyggda och mobila enheter (mikrokontroller, sensorer, gateways, mobiltelefoner, personliga digitala assistenter, TV set-top boxar, skrivare)</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Java Platform, Micro EditionまたはJava MEは、組み込み機器やモバイル機器（マイクロコントローラー、センサー、ゲートウェイ、携帯電話、パーソナルデジタルアシスタント、TVセットトップボックス、プリンター）向けのポータブルコードを開発・展開するためのコンピューティングプラットフォームである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Java Platform, Micro Edition 或 Java ME 是一个计算平台，用于为嵌入式和移动设备（微控制器、传感器、网关、手机、个人数字助理、电视机顶盒、打印机）开发和部署可移植代码</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -10,7 +10,81 @@
 <text>1990  ·  Desktop Computers</text>
 </text>
 <text name="longdescription">
-<text>Windows 3.0 is the third major release of Microsoft Windows, launched in 1990</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Windows 3.0 is the third major release of Microsoft Windows, launched in 1990</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Windows es un grupo de varias familias de sistemas operativos gráficos patentados desarrollados y comercializados por Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Windows est un groupe de plusieurs familles de systèmes d'exploitation graphiques propriétaires développés et commercialisés par Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Windows è un gruppo di diverse famiglie di sistemi operativi grafici proprietari sviluppati e commercializzati da Microsoft</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Windows to grupa kilku zastrzeżonych rodzin graficznych systemów operacyjnych opracowanych i sprzedawanych przez firmę Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Windows é um grupo de várias famílias de sistemas operacionais gráficos proprietários desenvolvidos e comercializados pela Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Windows este un grup de mai multe familii de sisteme de operare grafice proprietare dezvoltate și comercializate de Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Windows - это несколько семейств графических операционных систем, разработанных и продаваемых компанией Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Windows är en grupp av flera proprietära grafiska operativsystemfamiljer som utvecklas och marknadsförs av Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ウィンドウズは、マイクロソフト社が開発・販売する、いくつかの独自のグラフィカル・オペレーティング・システム・ファミリーのグループである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>视窗是微软公司开发和销售的几个专有图形操作系统系列的组合</longdescription>
+</variables>
+</language>
+
 </theme>

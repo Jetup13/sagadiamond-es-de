@@ -10,7 +10,81 @@
 <text>2005  ·  Game Engine</text>
 </text>
 <text name="longdescription">
-<text>Future Pinball is a freeware 3D pinball editing and gaming application for Microsoft Windows</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Future Pinball is a freeware 3D pinball editing and gaming application for Microsoft Windows</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Future Pinball ("FP") es una aplicación gratuita de edición y juego de pinball en 3D para Microsoft Windows</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Future Pinball ("FP") est une application gratuite d'édition et de jeu de flipper en 3D pour Microsoft Windows</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Future Pinball ("FP") è un'applicazione freeware di editing e gioco di flipper 3D per Microsoft Windows</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Future Pinball ("FP") to darmowa aplikacja do edycji i gry w pinball 3D dla systemu Microsoft Windows</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Future Pinball ("FP") é um aplicativo freeware de edição e jogo de pinball 3D para o Microsoft Windows</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Future Pinball ("FP") este o aplicație freeware de editare și joc de pinball 3D pentru Microsoft Windows</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Future Pinball ("FP") - это бесплатное приложение для редактирования и игры в 3D пинбол для Microsoft Windows</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Future Pinball ("FP") är en freeware-applikation för redigering och spelande av 3D-flipperspel för Microsoft Windows</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Future Pinball ("FP") は、Microsoft Windows用のフリーウェアの3Dピンボール編集・ゲームアプリケーションです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Future Pinball（"FP"）是一款适用于 Microsoft Windows 的免费 3D 弹球编辑和游戏应用程序</longdescription>
+</variables>
+</language>
+
 </theme>

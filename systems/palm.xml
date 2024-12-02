@@ -7,7 +7,81 @@
 <text>1996  ·  Handheld OS</text>
 </text>
 <text name="longdescription">
-<text>Palm OS is a discontinued mobile operating system initially developed by Palm, Inc., for personal digital assistants in 1996</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Palm OS is a discontinued mobile operating system initially developed by Palm, Inc., for personal digital assistants in 1996</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>PalmPilot Personal y PalmPilot Professional son la segunda generación de dispositivos PDA Palm producidos por Palm Inc (entonces filial de U</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le PalmPilot Personal et le PalmPilot Professional sont la deuxième génération d'appareils Palm PDA produits par Palm Inc (alors filiale de U</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il PalmPilot Personal e il PalmPilot Professional sono la seconda generazione di dispositivi Palm PDA prodotti da Palm Inc (allora filiale di U</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>PalmPilot Personal i PalmPilot Professional to druga generacja urządzeń Palm PDA produkowanych przez Palm Inc (wówczas spółkę zależną U</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O PalmPilot Personal e o PalmPilot Professional são a segunda geração de dispositivos Palm PDA produzidos pela Palm Inc (na época uma subsidiária da U</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>PalmPilot Personal și PalmPilot Professional sunt a doua generație de dispozitive Palm PDA produse de Palm Inc (atunci o filială a U</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>PalmPilot Personal и PalmPilot Professional - это второе поколение КПК Palm, выпущенных компанией Palm Inc (в то время дочерней компанией U</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>PalmPilot Personal och PalmPilot Professional är den andra generationen Palm PDA-enheter som tillverkas av Palm Inc (då ett dotterbolag till U</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>PalmPilot PersonalとPalmPilot Professionalは、Palm Inc（当時はU</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>PalmPilot Personal 和 PalmPilot Professional 是 Palm 公司（当时是 U</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -7,7 +7,81 @@
 <text>1996  ·  Quake Engine</text>
 </text>
 <text name="longdescription">
-<text>Quake is a first-person shooter game developed by id Software and published by GT Interactive</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Quake is a first-person shooter game developed by id Software and published by GT Interactive</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Quake es un juego de disparos en primera persona desarrollado por id Software y publicado por GT Interactive</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Quake est un jeu de tir à la première personne développé par id Software et publié par GT Interactive</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Quake è uno sparatutto in prima persona sviluppato da id Software e pubblicato da GT Interactive</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Quake to strzelanka pierwszoosobowa stworzona przez id Software i wydana przez GT Interactive</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Quake é um jogo de tiro em primeira pessoa desenvolvido pela id Software e publicado pela GT Interactive</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Quake este un joc de tip first-person shooter dezvoltat de id Software și publicat de GT Interactive</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Quake - шутер от первого лица, разработанный id Software и изданный GT Interactive</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Quake är ett förstapersonsskjutspel som utvecklats av id Software och publicerats av GT Interactive</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Quakeはid Softwareが開発し、GT Interactiveが発売したファーストパーソンシューティングゲームである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Quake 是一款第一人称射击游戏，由 id Software 开发，GT Interactive 发行</longdescription>
+</variables>
+</language>
+
 </theme>

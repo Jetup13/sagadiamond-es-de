@@ -10,7 +10,81 @@
 <text>1977  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Bally Astrocade is a second generation home video game console developed by Midway and distributed by Bally Manufacturing</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Bally Astrocade is a second generation home video game console developed by Midway and distributed by Bally Manufacturing</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Bally Astrocade (también conocida como Bally Arcade o inicialmente como Bally ABA-1000) es una videoconsola doméstica de segunda generación y un sencillo sistema informático diseñado por un equipo de Midway, en aquel momento la división de videojuegos de Bally</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Astrocade de Bally (également connu sous le nom de Bally Arcade ou initialement sous le nom de Bally ABA-1000) est une console de jeux vidéo domestique de deuxième génération et un système informatique simple conçu par une équipe de Midway, à l'époque la division jeux vidéo de Bally</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Bally Astrocade (noto anche come Bally Arcade o inizialmente come Bally ABA-1000) è una console per videogiochi domestici di seconda generazione e un semplice sistema informatico progettato da un team di Midway, all'epoca la divisione videogiochi di Bally</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Bally Astrocade (znany również jako Bally Arcade lub początkowo jako Bally ABA-1000) to domowa konsola do gier wideo drugiej generacji i prosty system komputerowy zaprojektowany przez zespół Midway, ówczesnego działu gier wideo firmy Bally</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Bally Astrocade (também conhecido como Bally Arcade ou inicialmente como Bally ABA-1000) é um console de videogame doméstico de segunda geração e um sistema de computador simples projetado por uma equipe da Midway, na época a divisão de videogames da Bally</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Bally Astrocade (cunoscut și ca Bally Arcade sau inițial ca Bally ABA-1000) este o consolă de jocuri video pentru acasă de a doua generație și un sistem simplu de calculator proiectat de o echipă de la Midway, la acea vreme divizia de jocuri video a Bally</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Bally Astrocade (также известная как Bally Arcade или первоначально как Bally ABA-1000) - это домашняя игровая консоль второго поколения и простая компьютерная система, разработанная командой Midway, в то время видеоигрового подразделения Bally</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Bally Astrocade (även känd som Bally Arcade eller ursprungligen som Bally ABA-1000) är en andra generationens hemkonsol för videospel och ett enkelt datorsystem som designades av ett team på Midway, vid den tiden Ballys division för videospel</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Bally Astrocade（バリー・アストロケード、または当初はBally ABA-1000とも呼ばれた）は、当時Ballyのビデオゲーム部門であったMidwayのチームによって設計された第2世代の家庭用ビデオゲーム機および簡易コンピュータシステムである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Bally Astrocade（又称 Bally Arcade 或最初的 Bally ABA-1000）是第二代家用视频游戏机和简单的计算机系统，由 Midway（当时的 Bally 电子游戏部门）的一个团队设计</longdescription>
+</variables>
+</language>
+
 </theme>

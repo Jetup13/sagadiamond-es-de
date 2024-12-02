@@ -10,7 +10,81 @@
 <text>1989  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The FM Towns is a Japanese personal computer built by Fujitsu from February 1989 to the summer of 1997</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The FM Towns is a Japanese personal computer built by Fujitsu from February 1989 to the summer of 1997</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El FM Towns (japonés: エフエムタウンズ, Hepburn: Efu Emu Taunzu) es un ordenador personal japonés fabricado por Fujitsu desde febrero de 1989 hasta el verano de 1997</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le FM Towns (japonais : エフエムタウンズ, Hepburn : Efu Emu Taunzu) est un ordinateur personnel japonais construit par Fujitsu de février 1989 à l'été 1997</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'FM Towns (giapponese: エフエムタウンズ, Hepburn: Efu Emu Taunzu) è un personal computer giapponese costruito da Fujitsu dal febbraio 1989 all'estate 1997</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>FM Towns (jap</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O FM Towns (em japonês: エフエムタウンズ, Hepburn: Efu Emu Taunzu) é um computador pessoal japonês desenvolvido pela Fujitsu de fevereiro de 1989 até o verão de 1997</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>FM Towns (japoneză: エフエムタウンズ, Hepburn: Efu Emu Taunzu) este un computer personal japonez construit de Fujitsu din februarie 1989 până în vara anului 1997</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>FM Towns (японский: エフエムタウンズ, хепберн: Efu Emu Taunzu) - японский персональный компьютер, созданный компанией Fujitsu с февраля 1989 по лето 1997 года</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>FM Towns (japanska: エフエムタウンズ, Hepburn: Efu Emu Taunzu) är en japansk persondator som byggdes av Fujitsu från februari 1989 till sommaren 1997</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>FMタウンズ（日本語：エフエムタウンズ、ヘボン：えふえむたうんず）は、1989年2月から1997年夏にかけて富士通が製造した日本のパーソナルコンピューターである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>FM Towns（日语：エフエムタウンズ，合本：Efu Emu Taunzu）是富士通公司在 1989 年 2 月至 1997 年夏季期间制造的一款日本个人电脑</longdescription>
+</variables>
+</language>
+
 </theme>

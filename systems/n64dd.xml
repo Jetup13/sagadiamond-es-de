@@ -7,7 +7,81 @@
 <text>1996  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The N64 was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The N64 was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El 64DD, coloquialmente conocido como Nintendo 64DD, es un periférico de unidad de disco magnético para la videoconsola Nintendo 64 desarrollado por Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le 64DD, familièrement appelé Nintendo 64DD, est un périphérique de disque magnétique pour la console de jeu Nintendo 64 développé par Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il 64DD, colloquialmente chiamato Nintendo 64DD, è una periferica a disco magnetico per la console Nintendo 64 sviluppata da Nintendo</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>64DD, potocznie określany jako Nintendo 64DD, to urządzenie peryferyjne z dyskiem magnetycznym dla konsoli do gier Nintendo 64 opracowane przez Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O 64DD, coloquialmente chamado de Nintendo 64DD, é um periférico de unidade de disco magnético para o console de jogos Nintendo 64 desenvolvido pela Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>64DD, denumit în mod colocvial Nintendo 64DD, este o unitate de disc magnetic periferică pentru consola de jocuri Nintendo 64 dezvoltată de Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>64DD, в просторечии называемый Nintendo 64DD, - периферийное устройство на магнитном диске для игровой консоли Nintendo 64, разработанное компанией Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>64DD, i dagligt tal kallad Nintendo 64DD, är en magnetisk hårddisk för spelkonsolen Nintendo 64 som utvecklats av Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>64DD、俗称ニンテンドー64DDは、任天堂が開発したNINTENDO64ゲーム機用の磁気ディスクドライブ周辺機器である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>64DD，俗称任天堂 64DD，是任天堂为任天堂 64 游戏机开发的磁盘驱动器外设</longdescription>
+</variables>
+</language>
+
 </theme>

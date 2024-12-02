@@ -10,7 +10,81 @@
 <text>1992  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>The Watara Supervision is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo's Game Boy</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Watara Supervision is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo's Game Boy</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Watara Supervision, también conocida como QuickShot Supervision en el Reino Unido, es una videoconsola portátil monocroma originaria de Asia que se presentó en 1992 como competidora a bajo precio de la Game Boy de Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Watara Supervision, également connue sous le nom de QuickShot Supervision au Royaume-Uni, est une console de jeu portable monochrome originaire d'Asie, lancée en 1992 pour concurrencer le Game Boy de Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Watara Supervision, noto anche come QuickShot Supervision nel Regno Unito, è una console portatile monocromatica di origine asiatica, introdotta nel 1992 come concorrente a prezzo ridotto del Game Boy di Nintendo</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Watara Supervision, znana również jako QuickShot Supervision w Wielkiej Brytanii, to monochromatyczna przenośna konsola do gier, pochodząca z Azji i wprowadzona w 1992 roku jako tani konkurent dla Nintendo Game Boy</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Watara Supervision, também conhecido como QuickShot Supervision no Reino Unido, é um console de jogos portátil monocromático, originário da Ásia e lançado em 1992 como um concorrente de baixo custo para o Game Boy da Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Watara Supervision, cunoscută și ca QuickShot Supervision în Marea Britanie, este o consolă de jocuri portabilă monocromă, originară din Asia și introdusă în 1992 ca un concurent la preț redus pentru Game Boy de la Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Watara Supervision, также известная как QuickShot Supervision в Великобритании, - монохромная портативная игровая приставка родом из Азии, представленная в 1992 году в качестве дешевого конкурента Game Boy от Nintendo</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Watara Supervision, även känd som QuickShot Supervision i Storbritannien, är en monokrom handhållen spelkonsol med ursprung i Asien som introducerades 1992 som en lågpriskonkurrent till Nintendos Game Boy</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ワタラ・スーパービジョンは、イギリスではクイックショット・スーパービジョンとも呼ばれる、アジア発祥のモノクロ携帯ゲーム機で、任天堂のゲームボーイの廉価版対抗馬として1992年に登場した</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Watara Supervision，在英国又称 QuickShot Supervision，是一种单色掌上游戏机，源自亚洲，于 1992 年推出，是任天堂 Game Boy 的廉价竞争对手</longdescription>
+</variables>
+</language>
+
 </theme>

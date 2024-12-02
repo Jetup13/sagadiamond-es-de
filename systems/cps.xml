@@ -10,7 +10,81 @@
 <text>1988  ·  Arcade Board</text>
 </text>
 <text name="longdescription">
-<text>The CPS is an arcade system board developed by Capcom that ran game software stored on removable ROM cartridges</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The CPS is an arcade system board developed by Capcom that ran game software stored on removable ROM cartridges</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El CP System (CPシステム, shīpī shisutemu, CPS para abreviar) es una placa de sistema arcade desarrollada por Capcom que ejecutaba software de juego almacenado en placas hijas extraíbles</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le CP System (CPシステム, shīpī shisutemu, CPS en abrégé) est un système d'arcade développé par Capcom qui exécutait des logiciels de jeu stockés sur des cartes filles amovibles</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il CP System (CPシステム, shīpī shisutemu, CPS in breve) è una scheda di sistema arcade sviluppata da Capcom che eseguiva software di gioco memorizzato su schede secondarie rimovibili</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>CP System (CPシステム, shīpī shisutemu, w skrócie CPS) to system zręcznościowy opracowany przez Capcom, który obsługiwał oprogramowanie do gier przechowywane na wymiennych płytach głównych</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O CP System (CPシステム, shīpī shisutemu, CPS para abreviar) é uma placa de sistema de fliperama desenvolvida pela Capcom que executava softwares de jogos armazenados em placas filhas removíveis</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Sistemul CP (CPシステム, shīpī shisutemu, CPS pe scurt) este o placă de sistem arcade dezvoltată de Capcom care a rulat software-ul jocului stocat pe plăci fiice detașabile</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>CP System (CPシステム, shīpī shisutemu, сокращенно CPS) - аркадная системная плата, разработанная компанией Capcom, которая управляла игровым программным обеспечением, хранящимся на съемных дочерних платах</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>CP System (CPシステム, shīpī shisutemu, förkortat CPS) är ett arkadsystemkort utvecklat av Capcom som körde spelprogramvara lagrad på löstagbara dotterkort</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>CPシステム（シーピーシステム、shīpī shisutemu、略してCPS）は、カプコンが開発した、着脱可能なドーターボードに格納されたゲームソフトを動作させるアーケードシステムボードである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>CP System（CPシステム，shīpī shisutemu，简称 CPS）是卡普空公司开发的一种街机系统板卡，可运行存储在可移动子板上的游戏软件</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -10,7 +10,81 @@
 <text>1983  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Othello Multivisio is a licensed SG-1000 clone manufactured by Tsukuda Original</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Othello Multivisio is a licensed SG-1000 clone manufactured by Tsukuda Original</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Othello Multivision (オセロマルチビジョン) es un clon licenciado del SG-1000 fabricado por Tsukuda Original</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Othello Multivision (オセロマルチビジョン) est un clone sous licence du SG-1000 fabriqué par Tsukuda Original</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Othello Multivision (オセロマルチビジョン) è un clone dell'SG-1000 prodotto su licenza da Tsukuda Original</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Othello Multivision (オセロマルチビジョン) to licencjonowany klon SG-1000 wyprodukowany przez Tsukuda Original</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Othello Multivision (オセロマルチビジョン) é um clone licenciado do SG-1000 fabricado pela Tsukuda Original</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Othello Multivision (オセロマルチビジョン) este o clonă SG-1000 cu licență fabricată de Tsukuda Original</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Othello Multivision (オセロマルチビジョン) - лицензионный клон SG-1000, произведенный компанией Tsukuda Original</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Othello Multivision (オセロマルチビジョン) är en licensierad SG-1000-klon som tillverkas av Tsukuda Original</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>オセロマルチビジョン（Othello Multivision）は、ツクダオリジナルが製造したSG-1000クローンのライセンス製品である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Othello Multivision（オセロマルチビジョン）是由 Tsukuda Original 生产的 SG-1000 授权克隆机</longdescription>
+</variables>
+</language>
+
 </theme>

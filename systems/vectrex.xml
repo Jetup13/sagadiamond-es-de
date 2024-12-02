@@ -7,7 +7,81 @@
 <text>1982  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Vector display based home video game console that was developed by Western Technologies Smith Engineering</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Vector display based home video game console that was developed by Western Technologies Smith Engineering</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Vectrex es una videoconsola doméstica con pantalla vectorial, la única diseñada y lanzada al mercado doméstico, desarrollada por Smith Engineering</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Vectrex est une console de jeu vidéo de salon à écran vectoriel, la seule jamais conçue et commercialisée pour le marché domestique, développée par Smith Engineering</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Vectrex è una console per videogiochi domestica basata su display vettoriali, l'unica mai progettata e rilasciata per il mercato domestico, sviluppata da Smith Engineering</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Vectrex to oparta na wyświetlaczu wektorowym domowa konsola do gier wideo - jedyna kiedykolwiek zaprojektowana i wydana na rynek domowy, opracowana przez Smith Engineering</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Vectrex é um console de videogame doméstico baseado em tela vetorial - o único já projetado e lançado para o mercado doméstico, desenvolvido pela Smith Engineering</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Vectrex este o consolă de jocuri video pentru acasă bazată pe afișaj vectorial - singura concepută și lansată vreodată pentru piața locală, dezvoltată de Smith Engineering</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Vectrex - это домашняя игровая консоль на основе векторного дисплея, единственная из когда-либо разработанных и выпущенных для домашнего рынка, разработанная компанией Smith Engineering</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Vectrex är en vektorbildskärmsbaserad hemkonsol för videospel - den enda som någonsin designats och släppts för hemmamarknaden, utvecklad av Smith Engineering</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ベクトレックスは、スミス・エンジニアリング社によって開発された、ベクターディスプレイベースの家庭用ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Vectrex 是一款基于矢量显示器的家用视频游戏机，是史密斯工程公司开发的唯一一款为家用市场设计和发布的游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

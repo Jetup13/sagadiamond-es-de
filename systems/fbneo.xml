@@ -10,7 +10,81 @@
 <text>2019  ·  Emulator</text>
 </text>
 <text name="longdescription">
-<text>Final Burn Neo is an active fork of the FinalBurn Alpha emulator, created by many of the former FBA developers</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Final Burn Neo is an active fork of the FinalBurn Alpha emulator, created by many of the former FBA developers</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>FinalBurn Neo es un Emulador Arcade Múltiple más popular para emular juegos de Neo-Geo, Capcom, Konami y Cave</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>FinalBurn Neo est un émulateur d'arcade multiple très populaire pour émuler les jeux Neo-Geo, Capcom, Konami et Cave</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>FinalBurn Neo è un emulatore arcade multiplo molto popolare per l'emulazione di giochi Neo-Geo, Capcom, Konami e Cave</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>FinalBurn Neo to emulator wielu gier zręcznościowych, najbardziej popularny do emulacji gier Neo-Geo, Capcom, Konami i Cave</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O FinalBurn Neo é um emulador de arcade múltiplo mais popular para emular jogos Neo-Geo, Capcom, Konami e Cave</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>FinalBurn Neo este un emulator Arcade Multiplu cel mai popular pentru emularea jocurilor Neo-Geo, Capcom, Konami și Cave</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>FinalBurn Neo - множественный эмулятор аркад, наиболее популярный для эмуляции игр Neo-Geo, Capcom, Konami и Cave</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>FinalBurn Neo är en Multiple Arcade Emulator som är mest populär för emulering av Neo-Geo-, Capcom-, Konami- och Cave-spel</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>FinalBurn Neoは、ネオジオ、カプコン、コナミ、ケイブのゲームをエミュレートするために最も人気のあるマルチアーケードエミュレータです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>FinalBurn Neo 是一款多街机模拟器，最常用于模拟 Neo-Geo、Capcom、Konami 和 Cave 游戏</longdescription>
+</variables>
+</language>
+
 </theme>

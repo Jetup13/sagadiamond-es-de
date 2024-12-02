@@ -7,7 +7,81 @@
 <text>1980  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The VIC-20 was the first computer of any description to sell one million units</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The VIC-20 was the first computer of any description to sell one million units</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Commodore VIC-20 (conocido como VC-20 en Alemania y VIC-1001 en Japón) es un ordenador doméstico de 8 bits comercializado por Commodore Business Machines</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Commodore VIC-20 (connu sous le nom de VC-20 en Allemagne et de VIC-1001 au Japon) est un ordinateur domestique 8 bits vendu par Commodore Business Machines</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Commodore VIC-20 (noto come VC-20 in Germania e VIC-1001 in Giappone) è un home computer a 8 bit venduto da Commodore Business Machines</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Commodore VIC-20 (znany jako VC-20 w Niemczech i VIC-1001 w Japonii) to 8-bitowy komputer domowy sprzedawany przez Commodore Business Machines</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Commodore VIC-20 (conhecido como VC-20 na Alemanha e VIC-1001 no Japão) é um computador doméstico de 8 bits vendido pela Commodore Business Machines</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Commodore VIC-20 (cunoscut sub numele de VC-20 în Germania și VIC-1001 în Japonia) este un computer personal pe 8 biți care a fost vândut de Commodore Business Machines</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Commodore VIC-20 (известный как VC-20 в Германии и VIC-1001 в Японии) - это 8-битный домашний компьютер, который продавался компанией Commodore Business Machines</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Commodore VIC-20 (känd som VC-20 i Tyskland och VIC-1001 i Japan) är en 8-bitars hemdator som såldes av Commodore Business Machines</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>コモドールVIC-20（ドイツではVC-20、日本ではVIC-1001として知られる）は、コモドール・ビジネス・マシーンズが販売していた8ビットの家庭用コンピュータである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Commodore VIC-20（在德国称为 VC-20，在日本称为 VIC-1001）是 Commodore Business Machines 销售的一款 8 位家用电脑</longdescription>
+</variables>
+</language>
+
 </theme>

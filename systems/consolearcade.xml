@@ -10,7 +10,81 @@
 <text>Various</text>
 </text>
 <text name="longdescription">
-<text>While arcade boards have traditionally been custom designs, there have been a number of systems that were instead based on home console platforms</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>While arcade boards have traditionally been custom designs, there have been a number of systems that were instead based on home console platforms</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Aunque los tableros arcade han sido tradicionalmente diseños personalizados, ha habido una serie de sistemas basados en plataformas de consolas domésticas</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Alors que les bornes d'arcade sont traditionnellement conçues sur mesure, un certain nombre de systèmes ont été basés sur des plates-formes de consoles de salon</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Sebbene i tabelloni arcade siano stati tradizionalmente progettati su misura, sono stati realizzati diversi sistemi basati sulle piattaforme delle console domestiche</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Podczas gdy deski arcade tradycyjnie były niestandardowymi projektami, istniało wiele systemów, które zamiast tego były oparte na platformach konsol domowych</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Embora as placas de fliperama tenham sido tradicionalmente projetadas de forma personalizada, houve uma série de sistemas que foram baseados em plataformas de console doméstico</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>În timp ce plăcile arcade au fost în mod tradițional modele personalizate, au existat o serie de sisteme care s-au bazat în schimb pe platformele consolelor de acasă</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Хотя аркадные платы традиционно создавались по индивидуальному заказу, было создано несколько систем, основанных на платформах домашних консолей</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Även om arkadbrädor traditionellt har varit specialdesignade har det funnits ett antal system som istället baserats på hemkonsolplattformar</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アーケードボードは伝統的にカスタムデザインであったが、代わりに家庭用ゲーム機のプラットフォームをベースにしたシステムが数多く存在した</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>虽然街机板传统上都是定制设计，但也有一些系统是基于家用游戏机平台的</longdescription>
+</variables>
+</language>
+
 </theme>

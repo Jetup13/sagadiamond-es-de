@@ -10,7 +10,81 @@
 <text>1994  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The PC-FX is a home video game console developed by NEC and Hudson Soft. It was released in Japan in 1994 and discontinued in February 1998, as NEC's final home video game console</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The PC-FX is a home video game console developed by NEC and Hudson Soft. It was released in Japan in 1994 and discontinued in February 1998, as NEC's final home video game console</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La PC-FX es una videoconsola doméstica de 32 bits desarrollada por NEC y Hudson Soft y lanzada en Japón en 1994</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le PC-FX est une console de jeu vidéo domestique 32 bits développée par NEC et Hudson Soft et commercialisée au Japon en 1994</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il PC-FX è una console per videogiochi domestici a 32 bit sviluppata da NEC e Hudson Soft e rilasciata in Giappone nel 1994</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>PC-FX to 32-bitowa domowa konsola do gier wideo opracowana przez firmy NEC i Hudson Soft i wydana w Japonii w 1994 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O PC-FX é um console de videogame doméstico de 32 bits desenvolvido pela NEC e pela Hudson Soft e lançado no Japão em 1994</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>PC-FX este o consolă de jocuri video pe 32 de biți dezvoltată de NEC și Hudson Soft și lansată în Japonia în 1994</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>PC-FX - это 32-битная домашняя игровая консоль, разработанная компаниями NEC и Hudson Soft и выпущенная в Японии в 1994 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>PC-FX är en 32-bitars hemkonsol för videospel som utvecklades av både NEC och Hudson Soft och släpptes i Japan 1994</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>PC-FXは、NECとハドソンソフトの両社によって開発され、1994年に日本で発売された32ビットの家庭用ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>PC-FX 是由 NEC 和 Hudson Soft 共同开发的 32 位家用视频游戏机，于 1994 年在日本发布</longdescription>
+</variables>
+</language>
+
 </theme>

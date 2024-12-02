@@ -10,7 +10,81 @@
 <text>1987  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>Acorn Archimedes is a family of personal computers designed by Acorn Computers of Cambridge, England</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Acorn Archimedes is a family of personal computers designed by Acorn Computers of Cambridge, England</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Acorn Archimedes es una familia de ordenadores personales diseñados por Acorn Computers de Cambridge, Inglaterra</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Acorn Archimedes est une famille d'ordinateurs personnels conçus par Acorn Computers de Cambridge, en Angleterre</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Acorn Archimedes è una famiglia di personal computer progettati da Acorn Computers di Cambridge, Inghilterra</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Acorn Archimedes to rodzina komputerów osobistych zaprojektowanych przez firmę Acorn Computers z Cambridge w Anglii</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Acorn Archimedes é uma família de computadores pessoais projetados pela Acorn Computers de Cambridge, Inglaterra</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Acorn Archimedes este o familie de calculatoare personale concepute de Acorn Computers din Cambridge, Anglia</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Acorn Archimedes - семейство персональных компьютеров, разработанных компанией Acorn Computers из Кембриджа, Англия</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Acorn Archimedes är en familj av persondatorer som designats av Acorn Computers i Cambridge, England</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Acorn Archimedesは、イギリスのケンブリッジにあるAcorn Computersが設計したパーソナルコンピュータのファミリーである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Acorn Archimedes 是英国剑桥 Acorn Computers 公司设计的个人电脑系列</longdescription>
+</variables>
+</language>
+
 </theme>

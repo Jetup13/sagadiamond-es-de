@@ -10,7 +10,81 @@
 <text>2005  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Xbox 360 is a home video game console developed by Microsoft. As the successor to the original Xbox, it is the second console in the Xbox series</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Xbox 360 is a home video game console developed by Microsoft. As the successor to the original Xbox, it is the second console in the Xbox series</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Xbox 360 es una videoconsola doméstica desarrollada por Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Xbox 360 est une console de jeux vidéo de salon développée par Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La Xbox 360 è una console per videogiochi domestica sviluppata da Microsoft</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Xbox 360 to domowa konsola do gier wideo opracowana przez firmę Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Xbox 360 é um console de videogame doméstico desenvolvido pela Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Xbox 360 este o consolă de jocuri video pentru acasă dezvoltată de Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Xbox 360 - это домашняя игровая консоль, разработанная компанией Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Xbox 360 är en hemkonsol för videospel som utvecklats av Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Xbox 360は、マイクロソフトが開発した家庭用ゲーム機</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Xbox 360 是微软公司开发的家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

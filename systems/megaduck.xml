@@ -7,7 +7,81 @@
 <text>1993  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>The Mega Duck is a handheld game console that was developed and manufactured by Hong Kong-based Welback Holdings released in 1993</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Mega Duck is a handheld game console that was developed and manufactured by Hong Kong-based Welback Holdings released in 1993</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Mega Duck de Welback Holdings, normalmente conocida como Mega Duck, es una videoconsola portátil de cuarta generación (1987-2004) desarrollada y distribuida por Welback Holdings, pero comercializada bajo diferentes nombres como Creatronic, Videojet, Cougar USA y Hartung</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Mega Duck de Welback Holdings, généralement appelée Mega Duck, est une console de jeu vidéo portable de quatrième génération (1987-2004) développée et distribuée par Welback Holdings, mais commercialisée sous différents noms tels que Creatronic, Videojet, Cougar USA et Hartung</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Welback Holdings Mega Duck, solitamente indicato solo come Mega Duck, è una console per videogiochi portatile di quarta generazione (1987-2004) sviluppata e distribuita da Welback Holdings, ma commercializzata con nomi diversi come Creatronic, Videojet, Cougar USA e Hartung</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Welback Holdings Mega Duck, zwykle określana po prostu jako Mega Duck, to przenośna konsola do gier wideo czwartej generacji (1987-2004) opracowana i dystrybuowana przez Welback Holdings, ale sprzedawana pod różnymi nazwami, takimi jak Creatronic, Videojet, Cougar USA i Hartung</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Welback Holdings Mega Duck, geralmente chamado apenas de Mega Duck, é um console de videogame portátil de quarta geração (1987-2004) desenvolvido e distribuído pela Welback Holdings, mas comercializado sob diferentes nomes, como Creatronic, Videojet, Cougar USA e Hartung</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Welback Holdings Mega Duck, denumită de obicei Mega Duck, este o consolă de jocuri video portabilă din a patra generație (1987-2004) dezvoltată și distribuită de Welback Holdings, dar comercializată sub diferite denumiri precum Creatronic, Videojet, Cougar USA și Hartung</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Welback Holdings Mega Duck, обычно называемая просто Mega Duck, - это портативная игровая консоль четвертого поколения (1987-2004), разработанная и распространяемая компанией Welback Holdings, но продававшаяся под разными названиями, такими как Creatronic, Videojet, Cougar USA и Hartung</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Welback Holdings Mega Duck, vanligtvis bara kallad Mega Duck, är en fjärde generationens (1987-2004) handhållen videospelskonsol som utvecklades och distribuerades av Welback Holdings, men marknadsfördes under olika namn som Creatronic, Videojet, Cougar USA och Hartung</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Welback Holdings Mega Duck（ウェルバック・ホールディングス・メガ・ダック）は、Welback Holdingsが開発・販売した第4世代（1987年～2004年）の携帯ゲーム機であるが、Creatronic、Videojet、Cougar USA、Hartungといった異なる名称で販売された</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Welback Holdings Mega Duck，通常简称为 Mega Duck，是由 Welback Holdings 开发和发行的第四代（1987-2004 年）掌上视频游戏机，但在市场上以不同的名称销售，如 Creatronic、Videojet、Cougar USA 和 Hartung</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -10,7 +10,81 @@
 <text>1985  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Succeeding the SG-1000, the Master System was released as a direct competitor to the Nintendo Entertainment System (NES)</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Succeeding the SG-1000, the Master System was released as a direct competitor to the Nintendo Entertainment System (NES)</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Sega Master System es una videoconsola doméstica de 8 bits de tercera generación fabricada por Sega</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Sega Master System est une console de jeux vidéo de salon 8 bits de troisième génération fabriquée par Sega</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Sega Master System è una console per videogiochi domestici a 8 bit di terza generazione prodotta da Sega</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Sega Master System to 8-bitowa domowa konsola do gier wideo trzeciej generacji wyprodukowana przez firmę Sega</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Sega Master System é um console de videogame doméstico de 8 bits de terceira geração fabricado pela Sega</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Sega Master System este o consolă de jocuri video pe 8 biți de a treia generație fabricată de Sega</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Sega Master System - это домашняя 8-битная игровая приставка третьего поколения, выпущенная компанией Sega</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Sega Master System är en tredje generationens 8-bitars hemkonsol för videospel, tillverkad av Sega</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>セガ・マスターシステムは、セガが製造した第3世代の8ビット家庭用ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>世嘉 Master System 是世嘉公司生产的第三代 8 位家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

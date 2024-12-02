@@ -7,7 +7,81 @@
 <text>2003  ·  Arcade Board</text>
 </text>
 <text name="longdescription">
-<text>Custom arcade system board and cabinet from Sammy Corporation. It is based on Sega's Dreamcast system board</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Custom arcade system board and cabinet from Sammy Corporation. It is based on Sega's Dreamcast system board</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Atomiswave es un sistema arcade personalizado de Sammy Corporation</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Atomiswave est un système d'arcade personnalisé de Sammy Corporation</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Atomiswave è una scheda e un cabinet per sistemi arcade personalizzati di Sammy Corporation</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Atomiswave to niestandardowa płyta i obudowa systemu arcade od Sammy Corporation</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Atomiswave é uma placa e um gabinete de sistema de arcade personalizados da Sammy Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Atomiswave este o placă de sistem arcade și un cabinet personalizat de la Sammy Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Atomiswave - это пользовательская плата и корпус для аркадной системы от Sammy Corporation</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Atomiswave är ett specialtillverkat arkadsystemkort och skåp från Sammy Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アトミスウェーブは、サミー株式会社のカスタムアーケードシステムボードとキャビネットである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Atomiswave 是 Sammy 公司定制的街机系统板和机箱</longdescription>
+</variables>
+</language>
+
 </theme>

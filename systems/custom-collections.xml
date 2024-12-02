@@ -10,7 +10,81 @@
 <text>Collection</text>
 </text>
 <text name="longdescription">
-<text>Organize your games into custom collections</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Organize your games into custom collections</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Organiza tus juegos en colecciones personalizadas</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Organisez vos jeux dans des collections personnalisées</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Organizzate i vostri giochi in collezioni personalizzate</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Organizuj swoje gry w niestandardowe kolekcje</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Organize seus jogos em coleções personalizadas</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Organizați-vă jocurile în colecții personalizate</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Организуйте игры в пользовательские коллекции</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Organisera dina spel i anpassade samlingar</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ゲームをカスタムコレクションに整理</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>将游戏整理成自定义收藏</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -7,7 +7,81 @@
 <text>1989  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>The Lynx was the world's first handheld electronic game with a color LCD and was also notable for its advanced graphics and ambidextrous layout</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Lynx was the world's first handheld electronic game with a color LCD and was also notable for its advanced graphics and ambidextrous layout</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Atari Lynx, normalmente conocida como Lynx, es una videoconsola portátil de cuarta generación (1987-2004) desarrollada en colaboración con Epyx, Inc</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Atari Lynx, généralement appelée Lynx, est une console de jeux vidéo portable de quatrième génération (1987-2004) développée en partenariat avec Epyx, Inc</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Atari Lynx, solitamente indicato come Lynx, è una console portatile per videogiochi di quarta generazione (1987-2004) sviluppata in collaborazione con Epyx, Inc</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Atari Lynx, zwykle określany po prostu jako Lynx, to przenośna konsola do gier wideo czwartej generacji (1987-2004) opracowana we współpracy z Epyx, Inc</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Atari Lynx, geralmente chamado apenas de Lynx, é um console de videogame portátil de quarta geração (1987-2004) desenvolvido em parceria com a Epyx, Inc</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Atari Lynx, denumit de obicei doar Lynx, este o consolă de jocuri video portabilă din a patra generație (1987-2004) dezvoltată în parteneriat cu Epyx, Inc</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Atari Lynx, обычно называемая просто Lynx, - портативная игровая консоль четвертого поколения (1987-2004), разработанная в сотрудничестве с Epyx, Inc</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Atari Lynx, vanligtvis bara kallad Lynx, är en fjärde generationens (1987-2004) handhållen videospelskonsol som utvecklades i samarbete med Epyx, Inc</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アタリ・リンクス（Atari Lynx）は通常リンクスと呼ばれ、第4世代（1987年～2004年）の携帯ゲーム機で、エピックス社（Epyx, Inc）と共同で開発され、アタリ社（Atari Corporation）によって販売されました</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>雅达利 Lynx（通常简称 Lynx）是与 Epyx 公司合作开发的第四代（1987-2004 年）掌上视频游戏机，由雅达利公司发行</longdescription>
+</variables>
+</language>
+
 </theme>

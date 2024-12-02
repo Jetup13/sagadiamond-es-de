@@ -7,7 +7,81 @@
 <text>1998  ·  Emulator</text>
 </text>
 <text name="longdescription">
-<text>Multi Emulator Super System (MESS) was an emulator for various consoles and computer systems, based on the MAME core</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Multi Emulator Super System (MESS) was an emulator for various consoles and computer systems, based on the MAME core</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Multi Emulator Super System (MESS) es un emulador para varias consolas y sistemas informáticos, basado en el núcleo de MAME</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Multi Emulator Super System (MESS) est un émulateur pour diverses consoles et systèmes informatiques, basé sur le noyau MAME</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Multi Emulator Super System (MESS) è un emulatore per varie console e sistemi informatici, basato sul nucleo del MAME</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Multi Emulator Super System (MESS) to emulator dla różnych konsol i systemów komputerowych, oparty na rdzeniu MAME</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Multi Emulator Super System (MESS) é um emulador para vários consoles e sistemas de computador, baseado no núcleo do MAME</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Multi Emulator Super System (MESS) este un emulator pentru diferite console și sisteme informatice, bazat pe nucleul MAME</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Multi Emulator Super System (MESS) - это эмулятор для различных консолей и компьютерных систем, основанный на ядре MAME</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Multi Emulator Super System (MESS) är en emulator för olika konsoler och datorsystem, baserad på MAME-kärnan</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>マルチエミュレータスーパーシステム(MESS)はMAMEコアをベースにした、様々なゲーム機やコンピュータシステム用のエミュレータです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>多模拟器超级系统（MESS）是一款基于 MAME 核心的模拟器，适用于各种游戏机和计算机系统</longdescription>
+</variables>
+</language>
+
 </theme>

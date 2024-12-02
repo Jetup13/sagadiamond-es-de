@@ -10,7 +10,81 @@
 <text>1989  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The SAM Coupé is an 8-bit British home computer that was first released in late 1989</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The SAM Coupé is an 8-bit British home computer that was first released in late 1989</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El SAM Coupé (pronunciado /sæm ku:peɪ/ por su marca original en inglés británico) es un ordenador doméstico británico de 8 bits que salió a la venta a finales de 1989</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le SAM Coupé (prononcé /sæm ku:peɪ/ à partir de son nom anglais original) est un ordinateur domestique britannique 8 bits qui a été commercialisé pour la première fois à la fin de l'année 1989</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il SAM Coupé (pronunciato /sæm ku:peɪ/ dal suo marchio originale in inglese britannico) è un home computer britannico a 8 bit rilasciato per la prima volta alla fine del 1989</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>SAM Coupé (wymawiane jako /sæm ku:peɪ/ od oryginalnego brytyjskiego angielskiego brandingu) to 8-bitowy brytyjski komputer domowy, który został po raz pierwszy wydany pod koniec 1989 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O SAM Coupé (pronuncia-se /sæm ku:peɪ/ de sua marca original em inglês britânico) é um computador doméstico britânico de 8 bits que foi lançado pela primeira vez no final de 1989</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>SAM Coupé (pronunțat /sæm ku:peɪ/ de la brandingul său original din engleza britanică) este un computer de casă britanic pe 8 biți care a fost lansat pentru prima dată la sfârșitul anului 1989</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>SAM Coupé (произносится /sæm ku:peɪ/ от оригинального британского английского названия) - это 8-битный британский домашний компьютер, впервые выпущенный в конце 1989 года</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>SAM Coupé (uttalas /sæm ku:peɪ/ från dess ursprungliga brittisk-engelska varumärke) är en brittisk 8-bitars hemdator som först släpptes i slutet av 1989</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>SAMクーペ（発音：/sæm ku:pe↪Ll_26A/元のイギリス英語のブランド名から）は、1989年後半に発売されたイギリスの8ビット家庭用コンピュータである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>SAM Coupé（发音为/sæm ku:peɪ/，源自其最初的英式英语品牌）是一款 8 位英国家用电脑，于 1989 年底首次发布</longdescription>
+</variables>
+</language>
+
 </theme>

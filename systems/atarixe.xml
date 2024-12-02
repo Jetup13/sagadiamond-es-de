@@ -10,7 +10,81 @@
 <text>1987  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Atari XE Video Game System is a third generation video game console developed and distributed by Atari Corporation</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Atari XE Video Game System is a third generation video game console developed and distributed by Atari Corporation</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Atari XE Video Game System (Atari XEGS) es un rediseño industrial del ordenador doméstico Atari 65XE y el último modelo de la familia Atari de 8 bits</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le système de jeu vidéo Atari XE (Atari XEGS) est une refonte industrielle de l'ordinateur domestique Atari 65XE et le dernier modèle de la famille Atari 8-bit</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Atari XE Video Game System (Atari XEGS) è una riprogettazione industriale dell'home computer Atari 65XE e il modello finale della famiglia Atari 8-bit</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Atari XE Video Game System (Atari XEGS) to przemysłowe przeprojektowanie komputera domowego Atari 65XE i ostatni model z rodziny Atari 8-bit</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Atari XE Video Game System (Atari XEGS) é um redesenho industrial do computador doméstico Atari 65XE e o modelo final da família Atari de 8 bits</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Atari XE Video Game System (Atari XEGS) este o reproiectare industrială a computerului de casă Atari 65XE și ultimul model din familia Atari pe 8 biți</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Atari XE Video Game System (Atari XEGS) - промышленная модификация домашнего компьютера Atari 65XE и последняя модель семейства 8-битных компьютеров Atari</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Atari XE Video Game System (Atari XEGS) är en industriell omdesign av hemdatorn Atari 65XE och den sista modellen i Atari 8-bitarsfamiljen</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アタリXEビデオゲームシステム（Atari XEGS）は、アタリ65XEホームコンピュータの工業的再設計であり、アタリ8ビットファミリーの最終モデルである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>雅达利 XE 视频游戏系统（Atari XEGS）是对雅达利 65XE 家用电脑的工业重新设计，也是雅达利 8 位系列的最后一个型号</longdescription>
+</variables>
+</language>
+
 </theme>

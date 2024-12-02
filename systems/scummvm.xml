@@ -7,7 +7,81 @@
 <text>2001  ·  Cross Platform Computer</text>
 </text>
 <text name="longdescription">
-<text>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) es un conjunto de recreaciones de motores de juego</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) est un ensemble de recréations de moteurs de jeux</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) è un insieme di ricreazioni di motori di gioco</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) to zestaw programów do odtwarzania silnika gry</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) é um conjunto de recriações de mecanismos de jogos</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) este un set de recreări de motoare de jocuri</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) - это набор воссозданий игровых движков</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) är en uppsättning spelmotoråterskapningar</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) は、ゲームエンジンの再現セットです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>狂人虚拟机脚本创建实用程序（ScummVM）是一套游戏引擎重现程序</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -10,7 +10,81 @@
 <text>1988  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Sega's third console and the successor to the Master System. First released as the Mega Drive in Japan</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Sega's third console and the successor to the Master System. First released as the Mega Drive in Japan</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Mega Drive es una videoconsola doméstica de 16 bits de cuarta generación desarrollada y comercializada por Sega</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Mega Drive est une console de jeux vidéo de salon 16 bits de quatrième génération développée et vendue par Sega</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Mega Drive è una console per videogiochi domestici di quarta generazione a 16 bit sviluppata e venduta da Sega</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Mega Drive to 16-bitowa domowa konsola do gier wideo czwartej generacji opracowana i sprzedawana przez firmę Sega</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Mega Drive é um console de videogame doméstico de quarta geração de 16 bits desenvolvido e vendido pela Sega</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Mega Drive este o consolă de jocuri video pe 16 biți din a patra generație dezvoltată și vândută de Sega</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Mega Drive - 16-битная игровая приставка четвертого поколения, разработанная и продаваемая компанией Sega</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Mega Drive är en 16-bitars fjärde generationens hemkonsol för videospel som utvecklats och säljs av Sega</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>メガドライブは、セガが開発・販売した16ビットの第4世代家庭用ゲーム機</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Mega Drive 是世嘉开发和销售的 16 位第四代家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

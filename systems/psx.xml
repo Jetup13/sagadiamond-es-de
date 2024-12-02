@@ -10,7 +10,81 @@
 <text>1994  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Sony PlayStation primarily competed with the Nintendo 64 and the Sega Saturn as part of the fifth generation of video game consoles</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Sony PlayStation primarily competed with the Nintendo 64 and the Sega Saturn as part of the fifth generation of video game consoles</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Sony PlayStation, o PS para abreviar, es una videoconsola doméstica de quinta generación (1993-2005) desarrollada y distribuida por Sony Interactive Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Sony PlayStation, ou PS en abrégé, est une console de jeux vidéo de salon de cinquième génération (1993-2005) développée et distribuée par Sony Interactive Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La Sony PlayStation, o PS in breve, è una console per videogiochi domestica di quinta generazione (1993-2005) sviluppata e distribuita da Sony Interactive Entertainment</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Sony PlayStation, w skrócie PS, to domowa konsola do gier wideo piątej generacji (1993-2005), opracowana i dystrybuowana przez Sony Interactive Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Sony PlayStation, ou PS, é um console de videogame doméstico de quinta geração (1993-2005) desenvolvido e distribuído pela Sony Interactive Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Sony PlayStation, sau pe scurt PS, este o consolă de jocuri video pentru acasă din a cincea generație (1993-2005) dezvoltată și distribuită de Sony Interactive Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Sony PlayStation (сокращенно PS) - домашняя игровая консоль пятого поколения (1993-2005), разработанная и распространяемая компанией Sony Interactive Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Sony PlayStation, eller PS som den förkortas, är en femte generationens (1993-2005) hemkonsol för videospel som utvecklats och distribueras av Sony Interactive Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ソニーのプレイステーション、略してPSは、ソニー・インタラクティブエンタテインメントが開発・販売する第5世代（1993年～2005年）の家庭用ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>索尼 PlayStation，简称 PS，是索尼互动娱乐公司开发和发行的第五代（1993-2005 年）家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -7,7 +7,81 @@
 <text>2000  ·  Game Engine</text>
 </text>
 <text name="longdescription">
-<text>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Visual Pinball es un motor de videojuegos gratuito y de código fuente disponible para mesas de pinball y juegos similares, como las máquinas pachinko</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Visual Pinball est un moteur de jeu vidéo gratuit et disponible à l'origine pour les tables de flipper et les jeux similaires tels que les machines de pachinko</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Visual Pinball è un motore di videogiochi freeware e disponibile alla fonte per tavoli da flipper e giochi simili, come le macchine da pachinko</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Visual Pinball to darmowy i dostępny na licencji source silnik gier wideo dla stołów do pinballa i podobnych gier, takich jak automaty pachinko</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Visual Pinball é um mecanismo de videogame gratuito e de código-fonte disponível para mesas de pinball e jogos semelhantes, como máquinas de pachinko</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Visual Pinball este un motor de joc video freeware și sursă disponibilă pentru mese de pinball și jocuri similare, cum ar fi mașinile pachinko</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Visual Pinball - это свободно распространяемый видеоигровой движок для пинбольных столов и подобных игр, таких как автоматы пачинко</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Visual Pinball är en freeware och källkodstillgänglig videospelmotor för flipperspel och liknande spel som t</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Visual Pinballは、ピンボール台やパチンコ台のような類似ゲーム用の、フリーウェアでソースが利用可能なビデオゲームエンジンです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Visual Pinball 是一款免费软件，可用于弹球台和弹珠机等类似游戏的视频游戏引擎</longdescription>
+</variables>
+</language>
+
 </theme>

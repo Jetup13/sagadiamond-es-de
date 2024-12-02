@@ -7,7 +7,81 @@
 <text>1981  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Texas Instruments TI-99/4A is a home computer, it is a redesign of the TI-99/4 system, which was discontinued</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Texas Instruments TI-99/4A is a home computer, it is a redesign of the TI-99/4 system, which was discontinued</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El TI-99/4 es un ordenador doméstico lanzado a finales de 1979 por Texas Instruments</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le TI-99/4 est un ordinateur domestique commercialisé à la fin de l'année 1979 par Texas Instruments</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il TI-99/4 è un home computer rilasciato alla fine del 1979 da Texas Instruments</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>TI-99/4 to komputer domowy wydany pod koniec 1979 roku przez Texas Instruments</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O TI-99/4 é um computador doméstico lançado no final de 1979 pela Texas Instruments</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>TI-99/4 este un computer de casă lansat la sfârșitul anului 1979 de Texas Instruments</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>TI-99/4 - это домашний компьютер, выпущенный в конце 1979 года компанией Texas Instruments</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>TI-99/4 är en hemdator som lanserades i slutet av 1979 av Texas Instruments</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>TI-99/4は、テキサス・インスツルメンツ社が1979年末に発売した家庭用コンピュータである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>TI-99/4 是德州仪器公司于 1979 年底发布的一款家用电脑</longdescription>
+</variables>
+</language>
+
 </theme>

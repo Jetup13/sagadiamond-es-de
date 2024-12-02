@@ -10,7 +10,81 @@
 <text>1999  ·  Game Engine</text>
 </text>
 <text name="longdescription">
-<text>Mugen is a freeware 2D fighting game engine designed by Elecbyte</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Mugen is a freeware 2D fighting game engine designed by Elecbyte</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Mugen (estilizado como M</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Mugen (stylisé en M</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Mugen (stilizzato come M</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Mugen (stylizowany na M</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Mugen (estilizado como M</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Mugen (stilizat ca M</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Mugen (стилизованный под M</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Mugen (stiliserat som M</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Mugen（M</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Mugen（文体为 M</longdescription>
+</variables>
+</language>
+
 </theme>

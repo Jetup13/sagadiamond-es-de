@@ -10,7 +10,81 @@
 <text>1996  ·  Engine</text>
 </text>
 <text name="longdescription">
-<text>Adobe Flash (formerly Macromedia Flash and FutureSplash) was a multimedia software platform used for production of various applications and media</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Adobe Flash (formerly Macromedia Flash and FutureSplash) was a multimedia software platform used for production of various applications and media</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Adobe Flash (anteriormente Macromedia Flash y FutureSplash) era una plataforma de software multimedia utilizada para la producción de animaciones, aplicaciones web sofisticadas, aplicaciones de escritorio, aplicaciones para móviles, juegos para móviles y reproductores de vídeo integrados en navegadores web</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Adobe Flash (anciennement Macromedia Flash et FutureSplash) était une plateforme logicielle multimédia utilisée pour la production d'animations, d'applications web riches, d'applications de bureau, d'applications mobiles, de jeux mobiles et de lecteurs vidéo intégrés dans les navigateurs web</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Adobe Flash (precedentemente Macromedia Flash e FutureSplash) è una piattaforma software multimediale utilizzata per la produzione di animazioni, applicazioni web ricche, applicazioni desktop, applicazioni mobili, giochi mobili e lettori video incorporati nei browser web</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Adobe Flash (wcześniej Macromedia Flash i FutureSplash) to platforma oprogramowania multimedialnego wykorzystywana do produkcji animacji, rozbudowanych aplikacji internetowych, aplikacji desktopowych, aplikacji mobilnych, gier mobilnych i wbudowanych odtwarzaczy wideo w przeglądarkach internetowych</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Adobe Flash (anteriormente Macromedia Flash e FutureSplash) foi uma plataforma de software multimídia usada para a produção de animações, aplicativos avançados da Web, aplicativos de desktop, aplicativos móveis, jogos móveis e players de vídeo incorporados ao navegador da Web</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Adobe Flash (anterior Macromedia Flash și FutureSplash) a fost o platformă software multimedia utilizată pentru producția de animații, aplicații web bogate, aplicații desktop, aplicații mobile, jocuri mobile și playere video încorporate în browserul web</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Adobe Flash (ранее Macromedia Flash и FutureSplash) - мультимедийная программная платформа, используемая для создания анимации, насыщенных веб-приложений, настольных приложений, мобильных приложений, мобильных игр и встроенных в веб-браузер видеоплееров</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Adobe Flash (tidigare Macromedia Flash och FutureSplash) var en programvaruplattform för multimedia som användes för att skapa animationer, rika webbapplikationer, skrivbordsapplikationer, mobilappar, mobilspel och inbäddade videospelare för webbläsare</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Adobe Flash（旧Macromedia FlashおよびFutureSplash）は、アニメーション、リッチWebアプリケーション、デスクトップアプリケーション、モバイルアプリケーション、モバイルゲーム、組み込みWebブラウザビデオプレーヤーの制作に使用されるマルチメディアソフトウェアプラットフォームである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Adobe Flash（前身为 Macromedia Flash 和 FutureSplash）是一个多媒体软件平台，用于制作动画、丰富的网络应用程序、桌面应用程序、移动应用程序、移动游戏和嵌入式网络浏览器视频播放器</longdescription>
+</variables>
+</language>
+
 </theme>

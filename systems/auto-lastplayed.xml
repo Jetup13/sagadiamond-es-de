@@ -10,7 +10,81 @@
 <text>Collection</text>
 </text>
 <text name="longdescription">
-<text>View your recently played games across the entire library</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>View your recently played games across the entire library</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Consulta los juegos que has jugado recientemente en toda la biblioteca</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Affichez vos jeux récents dans l'ensemble de la bibliothèque</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Visualizzare i giochi giocati di recente nell'intera libreria</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Wyświetlanie ostatnio granych gier w całej bibliotece</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Veja seus jogos jogados recentemente em toda a biblioteca</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Vizualizați jocurile jucate recent în întreaga bibliotecă</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Просматривайте недавно сыгранные игры во всей библиотеке</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Visa dina senast spelade spel i hela biblioteket</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>最近プレイしたゲームをライブラリ全体で表示</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>在整个游戏库中查看最近玩过的游戏</longdescription>
+</variables>
+</language>
+
 </theme>

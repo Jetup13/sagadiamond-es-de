@@ -7,7 +7,81 @@
 <text>1970's  ·  Arcade Machines</text>
 </text>
 <text name="longdescription">
-<text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Un juego arcade o coin-op es una máquina de entretenimiento que funciona con monedas y que suele instalarse en negocios públicos como restaurantes, bares y salones recreativos</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Un jeu d'arcade ou coin-op est une machine de divertissement fonctionnant avec des pièces de monnaie, généralement installée dans des établissements publics tels que des restaurants, des bars et des salles de jeux</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Una sala giochi o coin-op è una macchina per l'intrattenimento a gettoni tipicamente installata in esercizi pubblici come ristoranti, bar e sale giochi</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Gra zręcznościowa lub automat na monety to urządzenie rozrywkowe na monety, zwykle instalowane w miejscach publicznych, takich jak restauracje, bary i salony gier</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Um jogo de fliperama ou coin-op é uma máquina de entretenimento operada por moedas, normalmente instalada em estabelecimentos públicos, como restaurantes, bares e fliperamas</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Un joc arcade sau coin-op este un aparat de divertisment care funcționează cu monede, instalat de obicei în întreprinderi publice, cum ar fi restaurante, baruri și săli de jocuri</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Аркадная игра или монетоприемник - это развлекательный автомат, работающий на монетах, обычно устанавливаемый в общественных заведениях, таких как рестораны, бары и аркады развлечений</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Ett arkadspel eller coin-op är en myntdriven underhållningsmaskin som vanligtvis installeras i offentliga verksamheter som restauranger, barer och nöjesarkader</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アーケード・ゲームまたはコイン・ショップ（coin-op）とは、レストラン、バー、アミューズメント・アーケードなどの公共施設に一般的に設置されている、コインで作動する娯楽機器のことである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>街机游戏或投币机是一种投币式娱乐机器，通常安装在餐馆、酒吧和游乐场等公共场所</longdescription>
+</variables>
+</language>
+
 </theme>

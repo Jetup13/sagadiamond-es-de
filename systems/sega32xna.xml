@@ -10,7 +10,81 @@
 <text>1994  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Designed to expand the power of the Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Designed to expand the power of the Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La 32X es un complemento para la videoconsola Sega Mega Drive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La 32X est une extension de la console de jeu vidéo Sega Mega Drive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il 32X è un componente aggiuntivo per la console per videogiochi Sega Mega Drive/Genesis</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>32X to dodatek do konsoli do gier wideo Sega Mega Drive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O 32X é um complemento para o console de videogame Sega Mega Drive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>32X este un add-on pentru consola de jocuri video Sega Mega Drive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>32X - это дополнение для игровой приставки Sega Mega Drive/Genesis</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>32X är ett tillägg till Sega Mega Drive/Genesis videospelskonsol</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>32Xは、セガのゲーム機メガドライブ/ジェネシス用のアドオンである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>32X 是世嘉 Mega Drive/Genesis 视频游戏机的附加设备</longdescription>
+</variables>
+</language>
+
 </theme>

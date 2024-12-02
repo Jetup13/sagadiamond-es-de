@@ -7,7 +7,81 @@
 <text>1979  ·  Engine</text>
 </text>
 <text name="longdescription">
-<text>The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Z-machine es una máquina virtual desarrollada por Joel Berez y Marc Blank en 1979 y utilizada por Infocom para sus aventuras de texto</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Z-machine est une machine virtuelle développée par Joel Berez et Marc Blank en 1979 et utilisée par Infocom pour ses jeux d'aventure textuels</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La Z-machine è una macchina virtuale sviluppata da Joel Berez e Marc Blank nel 1979 e utilizzata da Infocom per i suoi giochi di avventura testuale</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Z-machine to maszyna wirtualna, która została opracowana przez Joela Bereza i Marca Blanka w 1979 roku i była używana przez firmę Infocom w jej tekstowych grach przygodowych</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>A Z-machine é uma máquina virtual desenvolvida por Joel Berez e Marc Blank em 1979 e usada pela Infocom para seus jogos de aventura de texto</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Z-machine este o mașină virtuală care a fost dezvoltată de Joel Berez și Marc Blank în 1979 și utilizată de Infocom pentru jocurile sale de aventuri text</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Z-машина - это виртуальная машина, разработанная Джоэлом Березом и Марком Бланком в 1979 году и использовавшаяся компанией Infocom для создания текстовых приключенческих игр</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Z-machine är en virtuell maskin som utvecklades av Joel Berez och Marc Blank 1979 och som användes av Infocom för deras textäventyrsspel</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Zマシンは、1979年にジョエル・ベレズとマーク・ブランクによって開発された仮想マシンで、インフォコムがテキストアドベンチャーゲームに使用していた</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Z-machine 是一种虚拟机，由 Joel Berez 和 Marc Blank 于 1979 年开发，被 Infocom 用于制作文字冒险游戏</longdescription>
+</variables>
+</language>
+
 </theme>

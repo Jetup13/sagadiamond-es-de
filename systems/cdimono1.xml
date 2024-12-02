@@ -10,7 +10,81 @@
 <text>1990  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Compact Disc-Interactive is a digital optical disc data storage format that was mostly developed and marketed by Dutch company Philips</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Compact Disc-Interactive is a digital optical disc data storage format that was mostly developed and marketed by Dutch company Philips</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Philips CD-i (Compact Disc Interactive) es un reproductor de CD multimedia interactivo desarrollado y comercializado por Royal Philips Electronics N</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Philips CD-i (Compact Disc Interactive) est un lecteur de CD multimédia interactif développé et commercialisé par Royal Philips Electronics N</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Philips CD-i (Compact Disc Interactive) è un lettore CD multimediale interattivo sviluppato e commercializzato da Royal Philips Electronics N</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Philips CD-i (Compact Disc Interactive) to interaktywny multimedialny odtwarzacz CD opracowany i sprzedawany przez Royal Philips Electronics N</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Philips CD-i (Compact Disc Interactive) é um CD player multimídia interativo desenvolvido e comercializado pela Royal Philips Electronics N</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Philips CD-i (Compact Disc Interactive) este un CD player multimedia interactiv dezvoltat și comercializat de Royal Philips Electronics N</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Philips CD-i (Compact Disc Interactive) - интерактивный мультимедийный CD-плеер, разработанный и продаваемый компанией Royal Philips Electronics N</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Philips CD-i (Compact Disc Interactive) är en interaktiv multimedia-CD-spelare som utvecklats och marknadsförs av Royal Philips Electronics N</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Philips CD-i（Compact Disc Interactive）は、Royal Philips Electronics N</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>飞利浦 CD-i（交互式光盘）是一种交互式多媒体 CD 播放器，由皇家飞利浦电子公司开发和销售</longdescription>
+</variables>
+</language>
+
 </theme>

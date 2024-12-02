@@ -10,7 +10,81 @@
 <text>2008  ·  Shortcuts</text>
 </text>
 <text name="longdescription">
-<text>View and play your favorite Android games</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>View and play your favorite Android games</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Android es un sistema operativo móvil basado en una versión modificada del núcleo de Linux y otro software de código abierto, diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes y tabletas</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Android est un système d'exploitation mobile basé sur une version modifiée du noyau Linux et d'autres logiciels libres, conçu principalement pour les appareils mobiles à écran tactile tels que les smartphones et les tablettes</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Android è un sistema operativo mobile basato su una versione modificata del kernel Linux e su altri software open-source, progettato principalmente per dispositivi mobili touchscreen come smartphone e tablet</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Android to mobilny system operacyjny oparty na zmodyfikowanej wersji jądra Linux i innym oprogramowaniu open-source, przeznaczony głównie dla urządzeń mobilnych z ekranem dotykowym, takich jak smartfony i tablety</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Android é um sistema operacional móvel baseado em uma versão modificada do kernel do Linux e em outros softwares de código aberto, projetado principalmente para dispositivos móveis com tela sensível ao toque, como smartphones e tablets</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Android este un sistem de operare mobil bazat pe o versiune modificată a nucleului Linux și pe alte programe open-source, conceput în principal pentru dispozitive mobile cu ecran tactil, cum ar fi smartphone-urile și tabletele</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Android - это мобильная операционная система, основанная на модифицированной версии ядра Linux и другом программном обеспечении с открытым исходным кодом, предназначенная в первую очередь для мобильных устройств с сенсорным экраном, таких как смартфоны и планшеты</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Visa och spela dina favorit Android-spel</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Androidは、Linuxカーネルの改良版とその他のオープンソースソフトウェアをベースにしたモバイルオペレーティングシステムで、主にスマートフォンやタブレットなどのタッチスクリーンモバイルデバイス向けに設計されている</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>安卓（Android）是一种移动操作系统，基于修改版的 Linux 内核和其他开源软件，主要为触摸屏移动设备（如智能手机和平板电脑）而设计</longdescription>
+</variables>
+</language>
+
 </theme>

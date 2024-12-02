@@ -10,7 +10,81 @@
 <text>1992  ·  Console Peripheral</text>
 </text>
 <text name="longdescription">
-<text>CD-ROM add-on to the Genesis, it launched many FMV games, including the infamous Night Trap, which led to the creation of the ESRB</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>CD-ROM add-on to the Genesis, it launched many FMV games, including the infamous Night Trap, which led to the creation of the ESRB</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Sega CD, lanzado como Mega-CD en la mayoría de las regiones fuera de Norteamérica y Brasil, es un accesorio de CD-ROM para la Mega Drive/Genesis diseñado y producido por Sega como parte de la cuarta generación de consolas de videojuegos</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Sega CD, commercialisé sous le nom de Mega-CD dans la plupart des régions en dehors de l'Amérique du Nord et du Brésil, est un accessoire CD-ROM pour la Mega Drive/Genesis conçu et produit par Sega dans le cadre de la quatrième génération de consoles de jeux vidéo</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Sega CD, pubblicato come Mega-CD nella maggior parte delle regioni al di fuori del Nord America e del Brasile, è un accessorio CD-ROM per il Mega Drive/Genesis progettato e prodotto da Sega come parte della quarta generazione di console per videogiochi</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Sega CD, wydana jako Mega-CD w większości regionów poza Ameryką Północną i Brazylią, to akcesorium CD-ROM dla Mega Drive/Genesis zaprojektowane i wyprodukowane przez firmę Sega w ramach czwartej generacji konsol do gier wideo</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Sega CD, lançado como Mega-CD na maioria das regiões fora da América do Norte e do Brasil, é um acessório de CD-ROM para o Mega Drive/Genesis projetado e produzido pela Sega como parte da quarta geração de consoles de videogame</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Sega CD, lansat ca Mega-CD în majoritatea regiunilor din afara Americii de Nord și Braziliei, este un accesoriu CD-ROM pentru Mega Drive/Genesis proiectat și produs de Sega ca parte a celei de-a patra generații de console de jocuri video</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Sega CD, выпущенный как Mega-CD в большинстве регионов за пределами Северной Америки и Бразилии, - это аксессуар CD-ROM для Mega Drive/Genesis, разработанный и выпущенный компанией Sega в рамках четвертого поколения игровых консолей</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Sega CD, som släpptes som Mega-CD i de flesta regioner utanför Nordamerika och Brasilien, är ett CD-ROM-tillbehör för Mega Drive/Genesis som designats och producerats av Sega som en del av den fjärde generationens videospelskonsoler</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>セガCDは、北米とブラジル以外のほとんどの地域ではメガCDとして発売され、ビデオゲーム機の第4世代の一部としてセガによって設計され、製造されたメガドライブ/ジェネシス用のCD-ROMアクセサリーである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>世嘉 CD（在北美和巴西以外的大多数地区以 Mega-CD 的名称发布）是世嘉设计和生产的 Mega Drive/Genesis 的 CD-ROM 附件，是第四代视频游戏机的一部分</longdescription>
+</variables>
+</language>
+
 </theme>

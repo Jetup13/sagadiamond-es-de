@@ -7,7 +7,81 @@
 <text>1986  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Apple IIGS is a 16-bit personal computer produced by Apple Computer. It is the fifth and most powerful of the Apple II family</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Apple IIGS is a 16-bit personal computer produced by Apple Computer. It is the fifth and most powerful of the Apple II family</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Apple IIGS es un ordenador personal lanzado por Apple Computer el 15 de septiembre de 1986, compatible con la serie Apple II, pero con capacidades comparables a las del Atari ST, Commodore Amiga y Macintosh</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Apple IIGS est un ordinateur personnel commercialisé par Apple Computer le 15 septembre 1986</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'Apple IIGS è un personal computer rilasciato da Apple Computer il 15 settembre 1986, compatibile con la serie Apple II, ma con funzionalità paragonabili a quelle dell'Atari ST, del Commodore Amiga e del Macintosh</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Apple IIGS to komputer osobisty wydany przez Apple Computer 15 września 1986 roku, który jest kompatybilny z serią Apple II, ale poza tym ma możliwości porównywalne z Atari ST, Commodore Amiga i Macintosh</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Apple IIGS é um computador pessoal lançado pela Apple Computer em 15 de setembro de 1986, compatível com a série Apple II, mas com recursos comparáveis aos do Atari ST, Commodore Amiga e Macintosh</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Apple IIGS este un computer personal lansat de Apple Computer la 15 septembrie 1986, care este compatibil cu seria Apple II, dar în rest are capabilități comparabile cu Atari ST, Commodore Amiga și Macintosh</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Apple IIGS - персональный компьютер, выпущенный компанией Apple Computer 15 сентября 1986 года, совместимый с серией Apple II, но по своим возможностям сопоставимый с Atari ST, Commodore Amiga и Macintosh</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Apple IIGS är en persondator som lanserades av Apple Computer den 15 september 1986 och som är kompatibel med Apple II-serien, men i övrigt har funktioner som kan jämföras med Atari ST, Commodore Amiga och Macintosh</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>アップルIIGSは、アップルコンピュータが1986年9月15日に発売したパーソナルコンピュータで、アップルIIシリーズと互換性があるが、それ以外はアタリST、コモドール・アミーガ、マッキントッシュに匹敵する性能を持つ</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>苹果 IIGS 是苹果电脑公司于 1986 年 9 月 15 日发布的一款个人电脑，它与苹果 II 系列兼容，但在其他方面的性能可与 Atari ST、Commodore Amiga 和 Macintosh 相媲美</longdescription>
+</variables>
+</language>
+
 </theme>

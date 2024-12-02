@@ -10,7 +10,81 @@
 <text>1993  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The 3DO Interactive Multiplayer (often called simply the 3DO), is a home video game console platform developed by The 3DO Company</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The 3DO Interactive Multiplayer (often called simply the 3DO), is a home video game console platform developed by The 3DO Company</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La 3DO Interactive Multiplayer (a menudo llamada simplemente 3DO) es una videoconsola producida originalmente por Panasonic en 1993</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La 3DO Interactive Multiplayer (souvent appelée simplement 3DO) est une console de jeux vidéo produite à l'origine par Panasonic en 1993</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il 3DO Interactive Multiplayer (spesso chiamato semplicemente 3DO) è una console per videogiochi prodotta originariamente da Panasonic nel 1993</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>3DO Interactive Multiplayer (często nazywana po prostu 3DO) to konsola do gier wideo pierwotnie wyprodukowana przez Panasonic w 1993 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O 3DO Interactive Multiplayer (geralmente chamado simplesmente de 3DO) é um console de videogame produzido originalmente pela Panasonic em 1993</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>3DO Interactive Multiplayer (adesea numită simplu 3DO) este o consolă de jocuri video produsă inițial de Panasonic în 1993</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>3DO Interactive Multiplayer (часто называемая просто 3DO) - это игровая консоль, первоначально выпущенная компанией Panasonic в 1993 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>3DO Interactive Multiplayer (ofta bara kallad 3DO) är en videospelskonsol som ursprungligen tillverkades av Panasonic 1993</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>3DO Interactive Multiplayer（単に3DOと呼ばれることが多い）は、1993年にパナソニックが製造したビデオゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>3DO Interactive Multiplayer（通常简称为 3DO）是松下公司于 1993 年推出的一款视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

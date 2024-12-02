@@ -10,7 +10,81 @@
 <text>2003  ·  Digital Platform</text>
 </text>
 <text name="longdescription">
-<text>Developed by Valve Corporation,  Steam offers digital rights management, multiplayer gaming, video streaming and social networking services</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Developed by Valve Corporation,  Steam offers digital rights management, multiplayer gaming, video streaming and social networking services</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Steam es un servicio de distribución digital de videojuegos y tienda de Valve</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Steam est un service de distribution numérique de jeux vidéo et une vitrine de Valve</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Steam è un servizio di distribuzione digitale di videogiochi e un negozio di Valve</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Steam to usługa cyfrowej dystrybucji gier wideo i witryna sklepowa firmy Valve</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Steam é um serviço de distribuição digital de videogames e uma loja da Valve</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Steam este un serviciu de distribuție digitală de jocuri video și o vitrină de magazin de la Valve</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Steam - это сервис цифровой дистрибуции видеоигр и магазин компании Valve</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Steam är en digital distributionstjänst för videospel och ett skyltfönster från Valve</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Steamは、Valveによるビデオゲームのデジタル配信サービスおよびストアフロントである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Steam 是 Valve 推出的视频游戏数字发行服务和店面</longdescription>
+</variables>
+</language>
+
 </theme>

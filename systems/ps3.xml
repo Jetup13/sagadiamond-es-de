@@ -10,7 +10,81 @@
 <text>2006  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The PlayStation 3 (PS3) is a home video game console developed and marketed by Sony Computer Entertainment. The successor to the PlayStation 2, it is part of the PlayStation brand of consoles. It was first released on November 11, 2006, in Japan, November 17, 2006, in North America, and March 23, 2007, in Europe and Australasia</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The PlayStation 3 (PS3) is a home video game console developed and marketed by Sony Computer Entertainment. The successor to the PlayStation 2, it is part of the PlayStation brand of consoles. It was first released on November 11, 2006, in Japan, November 17, 2006, in North America, and March 23, 2007, in Europe and Australasia</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La PlayStation 3 (PS3) es una videoconsola doméstica desarrollada por Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La PlayStation 3 (PS3) est une console de jeux vidéo de salon développée par Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La PlayStation 3 (PS3) è una console per videogiochi domestica sviluppata da Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>PlayStation 3 (PS3) to domowa konsola do gier wideo opracowana przez Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O PlayStation 3 (PS3) é um console de videogame doméstico desenvolvido pela Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>PlayStation 3 (PS3) este o consolă de jocuri video pentru acasă dezvoltată de Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>PlayStation 3 (PS3) - домашняя игровая консоль, разработанная компанией Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>PlayStation 3 (PS3) är en hemkonsol för videospel som utvecklats av Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>プレイステーション3（PS3）は、ソニー・コンピュータエンタテインメントが開発した家庭用ゲーム機</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>PlayStation 3（PS3）是索尼电脑娱乐公司开发的一款家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

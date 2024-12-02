@@ -10,7 +10,81 @@
 <text>1982  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>Lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El NEC PC-9800 fue una línea de ordenadores personales desarrollada en 1982 en Japón por NEC Corporation basándose en IBM, dirigida exclusivamente al mercado japonés</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le NEC PC-9800 était une gamme d'ordinateurs personnels développée en 1982 au Japon par NEC Corporation sur la base d'IBM, destinée exclusivement au marché japonais</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il NEC PC-9800 era una linea di personal computer sviluppata nel 1982 in Giappone da NEC Corporation sulla base di IBM, destinata esclusivamente al mercato giapponese</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>NEC PC-9800 był linią komputerów osobistych opracowanych w 1982 roku w Japonii przez NEC Corporation w oparciu o IBM, przeznaczonych wyłącznie na rynek japoński</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O NEC PC-9800 foi uma linha de computadores pessoais desenvolvida em 1982 no Japão pela NEC Corporation com base na IBM, voltada exclusivamente para o mercado japonês</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>NEC PC-9800 a fost o linie de calculatoare personale dezvoltate în 1982 în Japonia de NEC Corporation pe baza IBM, destinată exclusiv pieței japoneze</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>NEC PC-9800 - линейка персональных компьютеров, разработанная в 1982 году в Японии компанией NEC Corporation на базе IBM и ориентированная исключительно на японский рынок</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>NEC PC-9800 var en serie persondatorer som utvecklades 1982 i Japan av NEC Corporation, baserade på IBM, och som uteslutande var avsedda för den japanska marknaden</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>NEC PC-9800は、日本電気株式会社が1982年にIBMをベースに開発した日本市場専用のパーソナルコンピュータである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>NEC PC-9800 是日本 NEC 公司 1982 年在 IBM 基础上开发的个人电脑系列，专门面向日本市场</longdescription>
+</variables>
+</language>
+
 </theme>

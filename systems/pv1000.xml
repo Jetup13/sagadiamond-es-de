@@ -10,7 +10,81 @@
 <text>1983  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Casio PV-1000 is a third-generation home video game console manufactured by Casio and released in Japan in 1983</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Casio PV-1000 is a third-generation home video game console manufactured by Casio and released in Japan in 1983</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) es una videoconsola doméstica de tercera generación fabricada por Casio y lanzada en Japón en 1983</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) est une console de jeu vidéo de salon de troisième génération fabriquée par Casio et commercialisée au Japon en 1983</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) è una console per videogiochi di terza generazione prodotta da Casio e rilasciata in Giappone nel 1983</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) to domowa konsola do gier wideo trzeciej generacji wyprodukowana przez Casio i wydana w Japonii w 1983 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) é um console de videogame doméstico de terceira geração fabricado pela Casio e lançado no Japão em 1983</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) este o consolă de jocuri video de a treia generație fabricată de Casio și lansată în Japonia în 1983</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) - домашняя игровая приставка третьего поколения, выпущенная компанией Casio в Японии в 1983 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) är en tredje generationens hemkonsol för videospel som tillverkades av Casio och släpptes i Japan 1983</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>カシオPV-1000（ぴーぶいせん、ぴーぶいせん）は、1983年に日本で発売されたカシオ製の第3世代家庭用ゲーム機</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>卡西欧 PV-1000 （ぴーぶいせん，Pi Bui-Sen ）是卡西欧公司生产的第三代家用视频游戏机，1983 年在日本发布</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -7,7 +7,81 @@
 <text>2008  ·  Open Source Console</text>
 </text>
 <text name="longdescription">
-<text>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Uzebox es una videoconsola retro-minimalista de 8 bits y código abierto</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'Uzebox est une console de jeu open source 8 bits rétro-minimaliste</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Uzebox è una console di gioco open source retro-minimalista a 8 bit</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Uzebox to retro-minimalistyczna 8-bitowa konsola do gier typu open source</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Uzebox é um console de jogos de código aberto retro-minimalista de 8 bits</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Uzebox este o consolă de jocuri open source retro-minimalistă pe 8 biți</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Uzebox - это ретро-минималистская 8-битная игровая консоль с открытым исходным кодом</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Uzebox är en retro-minimalistisk 8-bitars spelkonsol med öppen källkod</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Uzeboxはレトロミニマリストの8ビットオープンソースゲーム機です</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Uzebox 是一款复古简约的 8 位开源游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

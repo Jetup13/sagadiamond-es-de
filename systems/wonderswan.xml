@@ -7,7 +7,81 @@
 <text>1999  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>The WonderSwan is a handheld game console released in Japan by Bandai. It was developed by Gunpei Yokoi's company Koto Laboratory and Bandai</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The WonderSwan is a handheld game console released in Japan by Bandai. It was developed by Gunpei Yokoi's company Koto Laboratory and Bandai</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>WonderSwan es una videoconsola portátil lanzada en Japón por Bandai</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le WonderSwan est une console de jeu portable commercialisée au Japon par Bandai</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il WonderSwan è una console portatile rilasciata in Giappone da Bandai</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>WonderSwan to przenośna konsola do gier wydana w Japonii przez Bandai</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O WonderSwan é um console de jogos portátil lançado no Japão pela Bandai</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>WonderSwan este o consolă de jocuri portabilă lansată în Japonia de Bandai</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>WonderSwan - это портативная игровая консоль, выпущенная в Японии компанией Bandai</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>WonderSwan är en handhållen spelkonsol som släpptes i Japan av Bandai</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ワンダースワンは、バンダイが日本で発売した携帯ゲーム機</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>WonderSwan 是日本 Bandai 推出的一款掌上游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

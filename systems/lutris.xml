@@ -7,7 +7,81 @@
 <text>2010  ·  Game Engine</text>
 </text>
 <text name="longdescription">
-<text>Lutris is a free and open source game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Lutris is a free and open source game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Lutris es un gestor de juegos libre y de código abierto para sistemas operativos basados en Linux desarrollado y mantenido por Mathieu Comandon y la comunidad, publicado bajo la Licencia Pública General GNU</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Lutris est un gestionnaire de jeux libre et gratuit pour les systèmes d'exploitation basés sur Linux, développé et maintenu par Mathieu Comandon et la communauté, sous la licence publique générale GNU</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Lutris è un gestore di giochi libero e open source per sistemi operativi basati su Linux, sviluppato e mantenuto da Mathieu Comandon e dalla comunità, rilasciato sotto la GNU General Public License</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Lutris to darmowy i otwarty menedżer gier dla systemów operacyjnych opartych na Linuksie, opracowany i utrzymywany przez Mathieu Comandona i społeczność, wydany na licencji GNU General Public License</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Lutris é um gerenciador de jogos gratuito e de código aberto para sistemas operacionais baseados em Linux, desenvolvido e mantido por Mathieu Comandon e pela comunidade, lançado sob a GNU General Public License</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Lutris este un manager de jocuri gratuit și cu sursă deschisă pentru sistemele de operare bazate pe Linux, dezvoltat și întreținut de Mathieu Comandon și de comunitate, lansat sub licența GNU General Public License</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Lutris - это свободный игровой менеджер с открытым исходным кодом для операционных систем на базе Linux, разработанный и поддерживаемый Матье Командоном и сообществом, выпущенный под лицензией GNU General Public License</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Lutris är en spelhanterare med fri och öppen källkod för Linux-baserade operativsystem som utvecklas och underhålls av Mathieu Comandon och communityn, och som släpps under GNU General Public License</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Lutrisは、Mathieu Comandonとコミュニティによって開発・保守されているLinuxベースのオペレーティングシステム用のフリーでオープンソースのゲームマネージャーであり、GNU General Public Licenseの下でリリースされています</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Lutris 是基于 Linux 操作系统的免费开源游戏管理器，由 Mathieu Comandon 和社区开发和维护，采用 GNU 通用公共许可证发布</longdescription>
+</variables>
+</language>
+
 </theme>

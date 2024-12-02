@@ -7,7 +7,81 @@
 <text>Various</text>
 </text>
 <text name="longdescription">
-<text>LaserDisc arcade games use pre-recorded video, either in combination with overlaid sprites or simply as sections of video controllable by the player</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>LaserDisc arcade games use pre-recorded video, either in combination with overlaid sprites or simply as sections of video controllable by the player</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Los juegos arcade LaserDisc utilizan vídeo pregrabado, ya sea en combinación con sprites superpuestos o simplemente como secciones de vídeo controlables por el jugador</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Les jeux d'arcade LaserDisc utilisent de la vidéo préenregistrée, soit en combinaison avec des sprites superposés, soit simplement sous forme de sections de vidéo contrôlables par le joueur</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>I giochi arcade LaserDisc utilizzano video preregistrati, in combinazione con sprite sovrapposti o semplicemente come sezioni di video controllabili dal giocatore</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Gry zręcznościowe LaserDisc wykorzystują wcześniej nagrane wideo, albo w połączeniu z nałożonymi sprite'ami, albo po prostu jako sekcje wideo kontrolowane przez gracza</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Os jogos de arcade LaserDisc usam vídeo pré-gravado, seja em combinação com sprites sobrepostos ou simplesmente como seções de vídeo controláveis pelo jogador</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Jocurile arcade LaserDisc utilizează înregistrări video preînregistrate, fie în combinație cu sprite suprapuse, fie pur și simplu ca secțiuni video controlabile de către jucător</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>В аркадных играх LaserDisc используется заранее записанное видео, либо в сочетании с наложенными спрайтами, либо просто в виде участков видео, управляемых игроком</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>LaserDisc-arkadspel använder förinspelad video, antingen i kombination med överlagrade sprites eller helt enkelt som delar av video som kan kontrolleras av spelaren</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>レーザーディスクのアーケードゲームでは、録画済みのビデオが使用され、重ね合わせたスプライトと組み合わせたり、単にプレイヤーが操作可能なビデオのセクションとして使用される</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>激光视盘街机游戏使用预先录制的视频，可以与叠加精灵结合使用，也可以简单地作为玩家可以控制的视频部分</longdescription>
+</variables>
+</language>
+
 </theme>

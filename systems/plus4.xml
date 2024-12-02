@@ -10,7 +10,81 @@
 <text>1984  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The "Plus/4" refers to the four-application ROM resident office suite (word processor, spreadsheet, database, and graphing)</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The "Plus/4" refers to the four-application ROM resident office suite (word processor, spreadsheet, database, and graphing)</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Commodore Plus/4 es un ordenador doméstico lanzado por Commodore International en 1984</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Commodore Plus/4 est un ordinateur domestique commercialisé par Commodore International en 1984</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Commodore Plus/4 è un home computer rilasciato da Commodore International nel 1984</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Commodore Plus/4 to komputer domowy wydany przez Commodore International w 1984 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Commodore Plus/4 é um computador doméstico lançado pela Commodore International em 1984</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Commodore Plus/4 este un computer de acasă lansat de Commodore International în 1984</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Commodore Plus/4 - домашний компьютер, выпущенный компанией Commodore International в 1984 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Commodore Plus/4 är en hemdator som släpptes av Commodore International 1984</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>コモドールプラス/4は、コモドールインターナショナルが1984年に発売した家庭用コンピュータ</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Commodore Plus/4 是 Commodore International 于 1984 年发布的一款家用电脑</longdescription>
+</variables>
+</language>
+
 </theme>

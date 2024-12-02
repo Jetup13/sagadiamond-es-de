@@ -7,7 +7,81 @@
 <text>1982  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The C64 is listed in the Guinness World Records as the highest-selling single computer model of all time</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The C64 is listed in the Guinness World Records as the highest-selling single computer model of all time</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El Commodore 64 es un ordenador doméstico de 8 bits presentado en enero de 1982 por Commodore International</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Commodore 64 est un ordinateur domestique 8 bits lancé en janvier 1982 par Commodore International</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Commodore 64 è un home computer a 8 bit introdotto nel gennaio 1982 da Commodore International</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Commodore 64 to 8-bitowy komputer domowy wprowadzony na rynek w styczniu 1982 roku przez firmę Commodore International</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Commodore 64 é um computador doméstico de 8 bits lançado em janeiro de 1982 pela Commodore International</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Commodore 64 este un computer de casă pe 8 biți introdus în ianuarie 1982 de Commodore International</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Commodore 64 - 8-битный домашний компьютер, представленный в январе 1982 года компанией Commodore International</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Commodore 64 är en 8-bitars hemdator som introducerades i januari 1982 av Commodore International</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>コモドール64は、コモドールインターナショナルが1982年1月に発売した8ビットの家庭用コンピューターである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>准将 64 是准将国际公司于 1982 年 1 月推出的一款 8 位家用电脑</longdescription>
+</variables>
+</language>
+
 </theme>

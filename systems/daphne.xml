@@ -7,7 +7,81 @@
 <text>1999  ·  Laserdisc Console</text>
 </text>
 <text name="longdescription">
-<text>Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Daphne es una aplicación emuladora de arcade que emula una gran variedad de videojuegos de laserdisc con la intención de preservar estos juegos y hacer que la experiencia de juego sea lo más fiel posible a los originales</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Daphne est une application d'émulation d'arcade qui émule une variété de jeux vidéo laserdisc avec l'intention de préserver ces jeux et de rendre l'expérience de jeu aussi fidèle que possible aux originaux</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Daphne è un'applicazione di emulazione arcade che emula una serie di videogiochi laserdisc con l'intento di preservare questi giochi e rendere l'esperienza di gioco il più fedele possibile agli originali</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Daphne to emulator gier arcade, który emuluje różne gry wideo na dyskach laserowych z zamiarem zachowania tych gier i uczynienia rozgrywki tak wierną oryginałom, jak to tylko możliwe</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Daphne é um aplicativo emulador de arcade que emula uma variedade de videogames de laserdisc com a intenção de preservar esses jogos e tornar a experiência de jogo o mais fiel possível aos originais</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Daphne este o aplicație de emulator arcade care emulează o varietate de jocuri video laserdisc cu intenția de a păstra aceste jocuri și de a face experiența de joc cât mai fidelă posibil față de originale</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Daphne - это приложение-эмулятор аркады, эмулирующее различные видеоигры на лазерных дисках с целью сохранить эти игры и сделать игровой процесс как можно более точным по отношению к оригиналам</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Daphne är ett arkademulatorprogram som emulerar en mängd olika laserdisc-videospel i syfte att bevara dessa spel och göra spelupplevelsen så trogen originalen som möjligt</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Daphneは、様々なレーザーディスクビデオゲームをエミュレートするアーケードエミュレータアプリケーションです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Daphne 是一款街机模拟器应用程序，可以模拟各种激光视盘视频游戏，目的是保存这些游戏，并使游戏体验尽可能忠实于原作</longdescription>
+</variables>
+</language>
+
 </theme>

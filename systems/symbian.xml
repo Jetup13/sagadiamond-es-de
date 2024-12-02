@@ -7,7 +7,81 @@
 <text>1997  ·  Operating System</text>
 </text>
 <text name="longdescription">
-<text>Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Symbian es un sistema operativo móvil (SO) y una plataforma informática descatalogados diseñados para teléfonos inteligentes</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Symbian est un système d'exploitation mobile (OS) et une plateforme informatique abandonnés, conçus pour les smartphones</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Symbian è un sistema operativo (OS) e una piattaforma informatica per smartphone che non è più in commercio</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Symbian to wycofany z produkcji mobilny system operacyjny (OS) i platforma obliczeniowa przeznaczona dla smartfonów</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Symbian é um sistema operacional (SO) móvel descontinuado e uma plataforma de computação projetada para smartphones</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Symbian este un sistem de operare (SO) mobil discontinuu și o platformă de calcul concepută pentru smartphone-uri</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Symbian - это снятая с производства мобильная операционная система (ОС) и вычислительная платформа, предназначенная для смартфонов</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Symbian är ett mobilt operativsystem (OS) och en datorplattform för smartphones</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Symbian（シンビアン）は、スマートフォン用に設計された、生産終了したモバイルオペレーティングシステム（OS）およびコンピューティングプラットフォームである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Symbian 是一款已停产的移动操作系统（OS）和计算平台，专为智能手机设计</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -10,7 +10,81 @@
 <text>1978  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Videopac is a game console marketed by Philips in 1978. It was the European version of the Magnavox Odyssey2 console</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Videopac is a game console marketed by Philips in 1978. It was the European version of the Magnavox Odyssey2 console</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Magnavox Odyssey 2 (estilizada como Magnavox Odyssey²), también conocida como Philips Odyssey 2, es una videoconsola doméstica de segunda generación que salió a la venta en 1978</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Magnavox Odyssey 2 (stylisée en Magnavox Odyssey²), également connue sous le nom de Philips Odyssey 2, est une console de jeux vidéo de salon de deuxième génération sortie en 1978</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La Magnavox Odyssey 2 (stilizzata come Magnavox Odyssey²), nota anche come Philips Odyssey 2, è una console per videogiochi domestica di seconda generazione uscita nel 1978</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Magnavox Odyssey 2 (stylizowana na Magnavox Odyssey²), znana również jako Philips Odyssey 2, to domowa konsola do gier wideo drugiej generacji, która została wydana w 1978 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Magnavox Odyssey 2 (estilizado como Magnavox Odyssey²), também conhecido como Philips Odyssey 2, é um console de videogame doméstico de segunda geração lançado em 1978</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Magnavox Odyssey 2 (stilizat ca Magnavox Odyssey²), cunoscut și ca Philips Odyssey 2, este o a doua generație de console de jocuri video pentru acasă care a fost lansată în 1978</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Magnavox Odyssey 2 (стилизованное название Magnavox Odyssey²), также известная как Philips Odyssey 2, - домашняя игровая приставка второго поколения, выпущенная в 1978 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Magnavox Odyssey 2 (stiliserad som Magnavox Odyssey²), även känd som Philips Odyssey 2, är en andra generationens videospelskonsol för hemmabruk som släpptes 1978</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>マグナボックス・オデッセイ2（Magnavox Odyssey²）は、フィリップス・オデッセイ2としても知られ、1978年に発売された第2世代の家庭用ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Magnavox Odyssey 2（文体名称为 Magnavox Odyssey²），又称飞利浦 Odyssey 2，是 1978 年发布的第二代家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

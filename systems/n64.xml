@@ -7,7 +7,81 @@
 <text>1996  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The N64 was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The N64 was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Llamada así por su unidad central de procesamiento de 64 bits, salió a la venta en junio de 1996 en Japón, septiembre de 1996 en Norteamérica, marzo de 1997 en Europa y Australia, septiembre de 1997 en Francia y diciembre de 1997 en Brasil</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Nommé d'après son unité centrale de 64 bits, il est sorti en juin 1996 au Japon, en septembre 1996 en Amérique du Nord, en mars 1997 en Europe et en Australie, en septembre 1997 en France et en décembre 1997 au Brésil</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Chiamato così per la sua unità di elaborazione centrale a 64 bit, è stato rilasciato nel giugno 1996 in Giappone, nel settembre 1996 in Nord America, nel marzo 1997 in Europa e Australia, nel settembre 1997 in Francia e nel dicembre 1997 in Brasile</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Nazwany ze względu na 64-bitowy procesor centralny, został wydany w czerwcu 1996 roku w Japonii, we wrześniu 1996 roku w Ameryce Północnej, w marcu 1997 roku w Europie i Australii, we wrześniu 1997 roku we Francji i w grudniu 1997 roku w Brazylii</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Batizado com o nome de sua unidade central de processamento de 64 bits, foi lançado em junho de 1996 no Japão, setembro de 1996 na América do Norte, março de 1997 na Europa e na Austrália, setembro de 1997 na França e dezembro de 1997 no Brasil</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Numit după unitatea sa centrală de procesare pe 64 de biți, a fost lansat în iunie 1996 în Japonia, septembrie 1996 în America de Nord, martie 1997 în Europa și Australia, septembrie 1997 în Franța și decembrie 1997 în Brazilia</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Названная так за свой 64-битный центральный процессор, она была выпущена в июне 1996 года в Японии, в сентябре 1996 года в Северной Америке, в марте 1997 года в Европе и Австралии, в сентябре 1997 года во Франции и в декабре 1997 года в Бразилии</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Den har fått sitt namn efter sin 64-bitars centralprocessor och släpptes i juni 1996 i Japan, september 1996 i Nordamerika, mars 1997 i Europa och Australien, september 1997 i Frankrike och december 1997 i Brasilien</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>64ビットの中央演算処理装置を搭載していることから名づけられ、日本では1996年6月、北米では1996年9月、ヨーロッパとオーストラリアでは1997年3月、フランスでは1997年9月、ブラジルでは1997年12月に発売された</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>N64 因其 64 位中央处理器而得名，于 1996 年 6 月在日本发布，1996 年 9 月在北美发布，1997 年 3 月在欧洲和澳大利亚发布，1997 年 9 月在法国发布，1997 年 12 月在巴西发布</longdescription>
+</variables>
+</language>
+
 </theme>

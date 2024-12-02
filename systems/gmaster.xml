@@ -10,7 +10,81 @@
 <text>1990  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Game Master es una consola portátil fabricada por Hartung y diseñada para competir con la Nintendo Game Boy</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Game Master est une console de jeu portable fabriquée par Hartung et conçue pour concurrencer le Nintendo Game Boy</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Game Master è una console portatile prodotta da Hartung e progettata per competere con il Nintendo Game Boy</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Game Master to przenośna konsola do gier wyprodukowana przez firmę Hartung i zaprojektowana w celu konkurowania z Nintendo Game Boy</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Game Master é um console de jogos portátil fabricado pela Hartung e projetado para competir com o Nintendo Game Boy</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Game Master este o consolă de jocuri portabilă fabricată de Hartung și concepută pentru a concura cu Nintendo Game Boy</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Game Master - это портативная игровая приставка, произведенная компанией Hartung и призванная конкурировать с Nintendo Game Boy</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Game Master är en handhållen spelkonsol tillverkad av Hartung och utformad för att konkurrera med Nintendo Game Boy</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ゲームマスターは、任天堂ゲームボーイに対抗するために設計された、ハルトゥング社製の携帯ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Game Master 是哈同公司生产的一款掌上游戏机，旨在与任天堂的 Game Boy 竞争</longdescription>
+</variables>
+</language>
+
 </theme>

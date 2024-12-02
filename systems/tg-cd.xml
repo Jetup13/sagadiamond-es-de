@@ -10,7 +10,81 @@
 <text>1990  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>Add-on attachment for the TurboGrafx-16. The add-on allows core versions of the console to play TurboGrafx-16 games in CD-ROM format</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Add-on attachment for the TurboGrafx-16. The add-on allows core versions of the console to play TurboGrafx-16 games in CD-ROM format</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El CD-ROM² (pronunciado CD-ROM-ROM) es un complemento para la PC Engine que salió a la venta en Japón el 4 de diciembre de 1988</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le CD-ROM² (prononcé CD-ROM-ROM) est un module d'extension pour le PC Engine qui est sorti au Japon le 4 décembre 1988</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il CD-ROM² (pronuncia CD-ROM-ROM) è un componente aggiuntivo per il PC Engine, rilasciato in Giappone il 4 dicembre 1988</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>CD-ROM² (wymawiane jako CD-ROM-ROM) to dodatek do konsoli PC Engine, który został wydany w Japonii 4 grudnia 1988 roku</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O CD-ROM² (pronuncia-se CD-ROM-ROM) é um acessório complementar para o PC Engine que foi lançado no Japão em 4 de dezembro de 1988</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>CD-ROM² (pronunțat CD-ROM-ROM) este un accesoriu suplimentar pentru PC Engine care a fost lansat în Japonia pe 4 decembrie 1988</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>CD-ROM² (произносится как CD-ROM-ROM) - это дополнение для PC Engine, которое было выпущено в Японии 4 декабря 1988 года</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>CD-ROM² (uttalas CD-ROM-ROM) är en tilläggsutrustning för PC Engine som släpptes i Japan den 4 december 1988</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>CD-ROM²（読み：シーディーロムロム）は、1988年12月4日に日本で発売されたPCエンジン用のアドオンアタッチメントである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>CD-ROM²（读作 CD-ROM-ROM）是 PC 引擎的一个附加附件，于 1988 年 12 月 4 日在日本发布</longdescription>
+</variables>
+</language>
+
 </theme>

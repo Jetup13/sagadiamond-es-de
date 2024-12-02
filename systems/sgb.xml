@@ -10,7 +10,81 @@
 <text>1994  ·  Console Peripheral</text>
 </text>
 <text name="longdescription">
-<text>The Super Game Boy is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Super Game Boy is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) es un periférico que permite jugar con cartuchos de Game Boy en una consola Super Nintendo Entertainment System, compatible con los mismos cartuchos que la Game Boy original: cartuchos de Game Boy original, la Game Boy Camera y cartuchos de Game Boy Color de modo dual (en modo Game Boy)</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) est un périphérique qui permet de lire les cartouches Game Boy sur une console Super Nintendo Entertainment System, compatible avec les mêmes cartouches que la Game Boy originale : cartouches Game Boy originales, Game Boy Camera, et cartouches Game Boy Color bi-mode (en mode Game Boy)</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) è una periferica che consente di giocare con le cartucce Game Boy su una console Super Nintendo Entertainment System, compatibile con le stesse cartucce del Game Boy originale: cartucce Game Boy originali, Game Boy Camera e cartucce Game Boy Color dual-mode (in modalità Game Boy)</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) to urządzenie peryferyjne, które umożliwia odtwarzanie kartridży Game Boy na konsoli Super Nintendo Entertainment System, kompatybilne z tymi samymi kartridżami, co oryginalny Game Boy: oryginalne kartridże Game Boy, Game Boy Camera i podwójne kartridże Game Boy Color (w trybie Game Boy)</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) é um periférico que permite que os cartuchos de Game Boy sejam reproduzidos em um console Super Nintendo Entertainment System, compatível com os mesmos cartuchos do Game Boy original: cartuchos de Game Boy originais, a Game Boy Camera e cartuchos de Game Boy Color de modo duplo (no modo Game Boy)</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) este un periferic care permite redarea cartușelor Game Boy pe o consolă Super Nintendo Entertainment System, compatibil cu aceleași cartușe ca și Game Boy original: cartușele Game Boy originale, Game Boy Camera și cartușele Game Boy Color dual-mode (în Game Boy-mode)</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) - периферийное устройство, позволяющее воспроизводить картриджи Game Boy на консоли Super Nintendo Entertainment System, совместимое с теми же картриджами, что и оригинальный Game Boy: оригинальные картриджи Game Boy, Game Boy Camera и двухрежимные картриджи Game Boy Color (в режиме Game Boy-mode)</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) är en kringutrustning som gör det möjligt att spela Game Boy-kassetter på en Super Nintendo Entertainment System-konsol, kompatibel med samma kassetter som den ursprungliga Game Boy: ursprungliga Game Boy-kassetter, Game Boy Camera och Game Boy Color-kassetter med dubbla lägen (i Game Boy-läge)</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>スーパーゲームボーイ（スーパーゲームボーイ、Sūpā Gēmu Bôi）は、ゲームボーイカートリッジをスーパーファミコンで遊べるようにする周辺機器で、初代ゲームボーイと同じカートリッジ（初代ゲームボーイカートリッジ、ゲームボーイカメラ、デュアルモードのゲームボーイカラーカートリッジ（ゲームボーイモード））に対応している</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>超级游戏男孩（Super Game Boy，Sūpā Gēmu Bōi）是一种外设，允许在超级任天堂娱乐系统游戏机上播放游戏男孩卡带，兼容与原始游戏男孩相同的卡带：原始游戏男孩卡带、游戏男孩相机和双模游戏男孩彩色卡带（游戏男孩模式）</longdescription>
+</variables>
+</language>
+
 </theme>

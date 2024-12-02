@@ -10,7 +10,81 @@
 <text>2000  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The PlayStation 2 is the best-selling video game console of all time, selling over 155 million units</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The PlayStation 2 is the best-selling video game console of all time, selling over 155 million units</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La PlayStation 2 (PS2) es una videoconsola doméstica desarrollada y comercializada por Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La PlayStation 2 (PS2) est une console de jeux vidéo de salon développée et commercialisée par Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La PlayStation 2 (PS2) è una console per videogiochi domestica sviluppata e commercializzata da Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>PlayStation 2 (PS2) to domowa konsola do gier wideo opracowana i sprzedawana przez Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O PlayStation 2 (PS2) é um console de videogame doméstico desenvolvido e comercializado pela Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>PlayStation 2 (PS2) este o consolă de jocuri video pentru acasă dezvoltată și comercializată de Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>PlayStation 2 (PS2) - это домашняя игровая консоль, разработанная и продаваемая компанией Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>PlayStation 2 (PS2) är en hemkonsol för videospel som utvecklats och marknadsförs av Sony Computer Entertainment</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>プレイステーション2（PS2）は、ソニー・コンピュータエンタテインメントが開発・販売する家庭用ゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>PlayStation 2（PS2）是索尼电脑娱乐公司开发和销售的家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -10,7 +10,81 @@
 <text>1981  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>PC-88 are a brand of Zilog Z80-based 8-bit home computers released by Nippon Electric Company in 1981 and primarily sold in Japan</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>PC-88 are a brand of Zilog Z80-based 8-bit home computers released by Nippon Electric Company in 1981 and primarily sold in Japan</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La serie PC-8800 (en japonés: PC-8800シリーズ, en hepburn: Pī Shī Hassen Happyaku Shirīzu), comúnmente abreviada como PC-88, es una marca de ordenadores domésticos de 8 bits basados en Z80 de Zilog lanzados por Nippon Electric Company (NEC) en 1981 y vendidos principalmente en Japón</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La série PC-8800 (Japonais : PC-8800シリーズ, Hepburn : Pī Shī Hassen Happyaku Shirīzu), communément abrégée en PC-88, est une marque d'ordinateurs domestiques 8 bits basés sur le Zilog Z80, commercialisés par Nippon Electric Company (NEC) en 1981 et principalement vendus au Japon</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La serie PC-8800 (giapponese: PC-8800シリーズ, Hepburn: Pī Shī Hassen Happyaku Shirīzu), comunemente abbreviata in PC-88, è una marca di home computer a 8 bit basati su Zilog Z80, rilasciati da Nippon Electric Company (NEC) nel 1981 e venduti principalmente in Giappone</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Seria PC-8800 (jap</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>A série PC-8800 (em japonês: PC-8800シリーズ, Hepburn: Pī Shī Hassen Happyaku Shirīzu), comumente abreviada para PC-88, é uma marca de computadores domésticos de 8 bits baseados no Zilog Z80, lançada pela Nippon Electric Company (NEC) em 1981 e vendida principalmente no Japão</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Seria PC-8800 (japoneză: PC-8800シリーズ, Hepburn: Pī Shī Hassen Happyaku Shirīzu), prescurtată în mod obișnuit la PC-88, este o marcă de computere de uz casnic pe 8 biți bazate pe Zilog Z80 lansate de Nippon Electric Company (NEC) în 1981 și vândute în principal în Japonia</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Серия PC-8800 (японский: PC-8800シリーズ, хепберн: Pī Shī Hassen Happyaku Shirīzu), обычно сокращаемая до PC-88, - это марка 8-битных домашних компьютеров на базе Zilog Z80, выпущенных компанией Nippon Electric Company (NEC) в 1981 году и продававшихся в основном в Японии</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>PC-8800-serien (japanska: PC-8800シリーズ, Hepburn: Pī Shī Hassen Happyaku Shirīzu), ofta förkortad till PC-88, är ett märke av Zilog Z80-baserade 8-bitars hemdatorer som lanserades av Nippon Electric Company (NEC) 1981 och främst såldes i Japan</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>PC-8800シリーズ（日本語：PC-8800シリーズ、ヘボン：Pī Shī Hassen Happyaku Shirīzu）は、1981年に日本電気（NEC）が発売し、主に日本で販売されたZilog Z80ベースの8ビット家庭用コンピュータのブランドである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>PC-8800 系列（日语：PC-8800シリーズ，合本：Pī Shī Hassen Happyaku Shirīzu），通常简称为 PC-88，是日本电气公司（NEC）于 1981 年发布的基于 Zilog Z80 的 8 位家用电脑品牌，主要在日本销售</longdescription>
+</variables>
+</language>
+
 </theme>

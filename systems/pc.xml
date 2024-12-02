@@ -7,7 +7,81 @@
 <text>1981  ·  Desktop Computers</text>
 </text>
 <text name="longdescription">
-<text>MS-DOS is an operating system for x86-based personal computers mostly developed by Microsoft</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>MS-DOS is an operating system for x86-based personal computers mostly developed by Microsoft</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El IBM Personal Computer (modelo 5150, comúnmente conocido como IBM PC) es el primer microordenador lanzado en la línea de modelos IBM PC y la base del estándar de facto IBM PC compatible</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>L'ordinateur personnel IBM (modèle 5150, communément appelé IBM PC) est le premier micro-ordinateur de la gamme IBM PC et la base du standard de facto de la compatibilité IBM PC</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>L'IBM Personal Computer (modello 5150, comunemente noto come IBM PC) è il primo microcomputer della linea IBM PC e la base dello standard IBM PC compatibile</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>IBM Personal Computer (model 5150, powszechnie znany jako IBM PC) to pierwszy mikrokomputer wydany w linii modeli IBM PC i podstawa faktycznego standardu kompatybilności IBM PC</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O IBM Personal Computer (modelo 5150, comumente conhecido como IBM PC) é o primeiro microcomputador lançado na linha de modelos IBM PC e a base para o padrão de fato compatível com o IBM PC</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>IBM Personal Computer (model 5150, cunoscut în mod obișnuit ca IBM PC) este primul microcomputer lansat în linia de modele IBM PC și baza pentru standardul de facto IBM PC compatibil</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>IBM Personal Computer (модель 5150, широко известная как IBM PC) - первый микрокомпьютер, выпущенный в модельном ряду IBM PC, и основа для стандарта IBM PC compatible de facto</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>IBM Personal Computer (modell 5150, allmänt känd som IBM PC) är den första mikrodatorn som släpptes i IBM PC-modellserien och grunden för de facto-standarden för IBM PC-kompatibla datorer</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>IBMパーソナルコンピュータ（モデル5150、通称IBM PC）は、IBM PCのモデルラインの中で最初にリリースされたマイクロコンピュータであり、IBM PC互換機のデファクトスタンダードのベースである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>IBM 个人电脑（型号 5150，通常称为 IBM PC）是 IBM PC 型号系列中发布的第一款微型计算机，也是 IBM PC 兼容事实标准的基础</longdescription>
+</variables>
+</language>
+
 </theme>

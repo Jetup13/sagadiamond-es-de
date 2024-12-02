@@ -7,7 +7,81 @@
 <text>1980  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>Notable for being one of the first computers available in the United Kingdom for less than a hundred pounds</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Notable for being one of the first computers available in the United Kingdom for less than a hundred pounds</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>El ZX81 es un ordenador doméstico producido por Sinclair Research y fabricado en Dundee, Escocia, por Timex Corporation</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le ZX81 est un ordinateur domestique produit par Sinclair Research et fabriqué à Dundee, en Écosse, par Timex Corporation</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Lo ZX81 è un home computer prodotto da Sinclair Research e fabbricato a Dundee, in Scozia, da Timex Corporation</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>ZX81 to komputer domowy wyprodukowany przez Sinclair Research i wyprodukowany w Dundee w Szkocji przez Timex Corporation</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O ZX81 é um computador doméstico produzido pela Sinclair Research e fabricado em Dundee, Escócia, pela Timex Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>ZX81 este un computer de casă produs de Sinclair Research și fabricat în Dundee, Scoția, de Timex Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>ZX81 - это домашний компьютер, выпущенный компанией Sinclair Research и произведенный в Данди, Шотландия, корпорацией Timex</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>ZX81 är en hemdator som producerades av Sinclair Research och tillverkades i Dundee, Skottland, av Timex Corporation</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ZX81は、シンクレア・リサーチ社が製造し、タイメックス社がスコットランドのダンディーで製造した家庭用コンピュータである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>ZX81 是一款家用电脑，由辛克莱研究公司生产，Timex 公司在苏格兰邓迪制造</longdescription>
+</variables>
+</language>
+
 </theme>

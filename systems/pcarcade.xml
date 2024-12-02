@@ -10,7 +10,81 @@
 <text>Various</text>
 </text>
 <text name="longdescription">
-<text>n the beginning of the 2000s arcade system manufacturers started to move away from custom board designs, and as part of this change many instead adapted the standard PC architecture</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>n the beginning of the 2000s arcade system manufacturers started to move away from custom board designs, and as part of this change many instead adapted the standard PC architecture</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>A principios de la década de 2000, los fabricantes de sistemas arcade empezaron a alejarse de los diseños de placas personalizadas y, como parte de este cambio, muchos adaptaron la arquitectura estándar de los PC</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Au début des années 2000, les fabricants de systèmes d'arcade ont commencé à s'éloigner de la conception de cartes personnalisées et, dans le cadre de ce changement, nombre d'entre eux ont adapté l'architecture PC standard</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>All'inizio degli anni 2000 i produttori di sistemi arcade hanno iniziato ad abbandonare la progettazione di schede personalizzate e, nell'ambito di questo cambiamento, molti hanno adattato l'architettura standard dei PC</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Na początku XXI wieku producenci systemów arcade zaczęli odchodzić od niestandardowych projektów płyt, a w ramach tej zmiany wielu z nich zaadaptowało standardową architekturę PC</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>No início dos anos 2000, os fabricantes de sistemas de fliperama começaram a se afastar dos projetos de placas personalizadas e, como parte dessa mudança, muitos adaptaram a arquitetura padrão do PC</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>La începutul anilor 2000, producătorii de sisteme arcade au început să renunțe la plăcile personalizate și, ca parte a acestei schimbări, mulți au adaptat arhitectura PC standard</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>В начале 2000-х годов производители аркадных систем начали отказываться от индивидуальных разработок плат, и многие из них перешли на стандартную архитектуру ПК</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>I början av 2000-talet började tillverkarna av arkadsystem att gå ifrån specialdesignade kort och som en del av denna förändring anpassade många istället standardarkitekturen för PC</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>2000年代初頭、アーケード・システム・メーカーはカスタム基板設計から脱却し始め、その一環として多くのメーカーが標準的なPCアーキテクチャを採用した</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>2000 年代初，街机系统制造商开始放弃定制板卡设计，许多公司转而采用标准 PC 架构</longdescription>
+</variables>
+</language>
+
 </theme>

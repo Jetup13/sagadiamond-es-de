@@ -10,7 +10,81 @@
 <text>1980  ·  Home Console</text>
 </text>
 <text name="longdescription">
-<text>The Intellivision is a home video game console released by Mattel Electronics, and was in direct competition with the Atari 2600</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Intellivision is a home video game console released by Mattel Electronics, and was in direct competition with the Atari 2600</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Mattel Intellivision es una videoconsola doméstica de segunda generación (1976-1992) desarrollada y distribuida por Mattel Electronics</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Mattel Intellivision est une console de jeux vidéo de salon de deuxième génération (1976-1992) développée et distribuée par Mattel Electronics</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Mattel Intellivision è una console per videogiochi domestici di seconda generazione (1976-1992) sviluppata e distribuita da Mattel Electronics</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Mattel Intellivision to domowa konsola do gier wideo drugiej generacji (1976-1992) opracowana i dystrybuowana przez Mattel Electronics</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Mattel Intellivision é um console de videogame doméstico de segunda geração (1976-1992) desenvolvido e distribuído pela Mattel Electronics</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Mattel Intellivision este o a doua generație (1976-1992) de console de jocuri video dezvoltate și distribuite de Mattel Electronics</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Mattel Intellivision - это домашняя игровая приставка второго поколения (1976-1992), разработанная и распространяемая компанией Mattel Electronics</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Mattel Intellivision är en andra generationens (1976-1992) videospelskonsol för hemmabruk som utvecklades och distribuerades av Mattel Electronics</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>マテル・インテリビジョンは、マテル・エレクトロニクスが開発・販売した第2世代（1976年～1992年）の家庭用ビデオゲーム機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>美泰 Intellivision 是美泰电子公司开发和销售的第二代（1976-1992 年）家用视频游戏机</longdescription>
+</variables>
+</language>
+
 </theme>

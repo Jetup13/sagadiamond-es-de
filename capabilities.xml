@@ -9,6 +9,18 @@
 	<aspectRatio>4:3</aspectRatio>
 	<aspectRatio>1:1</aspectRatio>
 	
+	<language>en_US</language>
+	<language>es_ES</language>
+	<language>fr_FR</language>
+	<language>it_IT</language>
+	<language>pl_PL</language>
+	<language>pt_BR</language>
+	<language>ro_RO</language>
+	<language>ru_RU</language>
+	<language>sv_SE</language>
+	<language>ja_JP</language>
+	<language>zh_CN</language>
+	
 	<fontSize>medium</fontSize>
 	<fontSize>large</fontSize>
 	

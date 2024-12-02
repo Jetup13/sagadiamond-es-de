@@ -10,7 +10,81 @@
 <text>1984  ·  Home Computer</text>
 </text>
 <text name="longdescription">
-<text>The Thomson MO5 and TO7 are home computers introduced in France in 1984 to compete against systems such as the ZX Spectrum and Commodore 64</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Thomson MO5 and TO7 are home computers introduced in France in 1984 to compete against systems such as the ZX Spectrum and Commodore 64</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La línea de ordenadores Thomson MOTO fue una serie de ordenadores de 8 bits vendidos en los años 80 por la empresa francesa de electrónica Thomson, nacionalizada en 1982</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La gamme d'ordinateurs Thomson MOTO était une série d'ordinateurs 8 bits vendus dans les années 1980 par la société française d'électronique Thomson, qui a été nationalisée en 1982</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La linea di computer Thomson MOTO era una serie di computer a 8 bit venduti negli anni '80 dall'azienda elettronica francese Thomson, nazionalizzata nel 1982</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Linia komputerów Thomson MOTO była serią 8-bitowych komputerów sprzedawanych w latach 80</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>A linha de computadores Thomson MOTO era uma série de computadores de 8 bits vendidos na década de 1980 pela empresa francesa de eletrônicos Thomson, que foi nacionalizada em 1982</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Linia de calculatoare Thomson MOTO a fost o serie de calculatoare pe 8 biți vândute în anii 1980 de compania franceză de electronice Thomson, care a fost naționalizată în 1982</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Линейка компьютеров Thomson MOTO - это серия 8-битных компьютеров, продававшихся в 1980-х годах французской компанией Thomson, которая была национализирована в 1982 году</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Thomson MOTO-serien var en serie 8-bitarsdatorer som såldes under 1980-talet av det franska elektronikföretaget Thomson, som förstatligades 1982</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>トムソンMOTOシリーズは、1982年に国有化されたフランスのエレクトロニクス企業トムソンが1980年代に販売した8ビットコンピュータのシリーズである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>汤姆逊 MOTO 系列计算机是法国电子公司汤姆逊在 20 世纪 80 年代销售的一系列 8 位计算机，该公司已于 1982 年国有化</longdescription>
+</variables>
+</language>
+
 </theme>

@@ -10,7 +10,81 @@
 <text>2001  ·  Arcade Board</text>
 </text>
 <text name="longdescription">
-<text>The Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>The Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Sega NAOMI 2 es una placa arcade desarrollada por Sega y sucesora del hardware Sega NAOMI</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Le Sega NAOMI 2 est une carte d'arcade développée par Sega et qui succède au matériel Sega NAOMI</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il Sega NAOMI 2 è una scheda arcade sviluppata da Sega ed è il successore dell'hardware Sega NAOMI</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Sega NAOMI 2 to płyta arcade opracowana przez firmę Sega i jest następcą sprzętu Sega NAOMI</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>A Sega NAOMI 2 é uma placa de fliperama desenvolvida pela Sega e é a sucessora do hardware Sega NAOMI</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Sega NAOMI 2 este o placă arcade dezvoltată de Sega și este un succesor al hardware-ului Sega NAOMI</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Sega NAOMI 2 - это настольная аркада, разработанная компанией Sega и являющаяся преемником аппаратной части Sega NAOMI</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Sega NAOMI 2 är ett arkadkort som utvecklats av Sega och är en efterföljare till Sega NAOMI-hårdvaran</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>セガNAOMI2はセガが開発したアーケード基板で、セガNAOMIハードの後継機である</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>世嘉 NAOMI 2 是世嘉公司开发的一款街机游戏板，是世嘉 NAOMI 硬件的后续产品</longdescription>
+</variables>
+</language>
+
 </theme>

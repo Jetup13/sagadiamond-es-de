@@ -4,13 +4,87 @@
 <text>Nintendo</text>
 </text>
 <text name="sys_line2">
-<text>Game & Watch</text>
+<text>Game &amp; Watch</text>
 </text>
 <text name="shortdescription">
 <text>1980  ·  Handheld Console</text>
 </text>
 <text name="longdescription">
-<text>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La marca Game &amp; Watch es una serie de juegos electrónicos portátiles desarrollados, fabricados, lanzados y comercializados por Nintendo entre 1980 y 1991</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La marque Game &amp; Watch est une série de jeux électroniques portables développés, fabriqués, commercialisés et mis en vente par Nintendo de 1980 à 1991</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Il marchio Game &amp; Watch è una serie di giochi elettronici portatili sviluppati, prodotti, distribuiti e commercializzati da Nintendo dal 1980 al 1991</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Marka Game &amp; Watch to seria przenośnych gier elektronicznych opracowanych, wyprodukowanych, wydanych i sprzedawanych przez Nintendo w latach 1980-1991</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>A marca Game &amp; Watch é uma série de jogos eletrônicos portáteis desenvolvidos, fabricados, lançados e comercializados pela Nintendo de 1980 a 1991</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Marca Game &amp; Watch este o serie de jocuri electronice portabile dezvoltate, fabricate, lansate și comercializate de Nintendo din 1980 până în 1991</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Game &amp; Watch - серия портативных электронных игр, разработанных, произведенных, выпущенных и проданных компанией Nintendo с 1980 по 1991 год</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Varumärket Game &amp; Watch är en serie handhållna elektroniska spel som utvecklades, tillverkades, släpptes och marknadsfördes av Nintendo mellan 1980 och 1991</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>ゲーム＆ウォッチブランドは、1980年から1991年まで任天堂が開発、製造、発売、販売した携帯型電子ゲームのシリーズである</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Game &amp; Watch 品牌是任天堂于 1980 年至 1991 年间开发、制造、发行和销售的一系列掌上电子游戏</longdescription>
+</variables>
+</language>
+
 </theme>

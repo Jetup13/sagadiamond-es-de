@@ -7,7 +7,81 @@
 <text>2017  ·  Fantasy Computer</text>
 </text>
 <text name="longdescription">
-<text>A simulated retro game console, which can be programmed in the classic BASIC language</text>
+<text>${longdescription}</text>
 </text>
 </view>
+<language name="en_US">
+<variables>
+<longdescription>A simulated retro game console, which can be programmed in the classic BASIC language</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>LowRes NX se inspira en los sistemas reales de 8 y 16 bits y simula chips para gráficos, sonido y E/S, que funcionan realmente como el hardware clásico</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>LowRes NX s'inspire des systèmes 8 et 16 bits réels et simule des puces pour les graphiques, le son et les E/S, qui fonctionnent réellement comme du matériel classique</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>LowRes NX si ispira ai sistemi reali a 8 e 16 bit e simula i chip per la grafica, il suono e l'I/O, che funzionano effettivamente come l'hardware classico</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>LowRes NX został zainspirowany prawdziwymi 8-bitowymi i 16-bitowymi systemami i symuluje układy graficzne, dźwiękowe i wejścia/wyjścia, które faktycznie działają jak klasyczny sprzęt</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O LowRes NX foi inspirado em sistemas reais de 8 e 16 bits e simula chips para gráficos, som e E/S, que realmente funcionam como o hardware clássico</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>LowRes NX a fost inspirat de sistemele reale pe 8 și 16 biți și simulează cipuri pentru grafică, sunet și I/O, care funcționează efectiv ca hardware-ul clasic</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>LowRes NX был вдохновлен реальными 8- и 16-битными системами и имитирует чипы для графики, звука и ввода-вывода, которые действительно работают как классическое оборудование</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>LowRes NX har inspirerats av riktiga 8- och 16-bitars system och simulerar chip för grafik, ljud och I/O, som faktiskt fungerar som klassisk hårdvara</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>LowRes NXは、本物の8ビットおよび16ビットシステムにインスパイアされ、グラフィック、サウンド、I/O用のチップをシミュレートしており、実際にクラシックなハードウェアのように動作します</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>LowRes NX 的灵感来源于真实的 8 位和 16 位系统，它模拟了图形、声音和输入/输出芯片，这些芯片的工作原理与经典硬件无异</longdescription>
+</variables>
+</language>
+
 </theme>
