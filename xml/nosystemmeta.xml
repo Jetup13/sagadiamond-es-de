@@ -8,5 +8,11 @@
 			<visible>false</visible>
 		</text>
 	</view>
+	
+	<view name="gamelist">
+		<text name="description">
+			<visible>false</visible>
+		</text>
+	</view>
 	</variant>
 </theme>

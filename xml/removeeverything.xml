@@ -7,15 +7,18 @@
 		<text name="shortdescription">
 			<visible>false</visible>
 		</text>
-
 		<image name="blurbackground">
 			<visible>false</visible>
 		</image>
 	</view>
+	
 	<view name="gamelist">
 		<image name="blurbackground">
 			<visible>false</visible>
 		</image>
+		<text name="description">
+			<visible>false</visible>
+		</text>
 	</view>
 	</variant>
 </theme>

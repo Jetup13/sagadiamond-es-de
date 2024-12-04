@@ -14,15 +14,15 @@
 			<colorEnd>00000000</colorEnd>
 			<zIndex>14</zIndex>
 		</video>
-		
+		<image name="blurbackground">
+			<visible>false</visible>
+		</image>
 	</view>
 	
 	<view name="system">
-	
 		<gameselector name="selector-random">
 			<selection>random</selection>
 		</gameselector>
-	
 		<video name="systemVideo">
 			<pos>0 0</pos>
 			<origin>0 0</origin>
@@ -35,24 +35,9 @@
 			<colorEnd>00000000</colorEnd>
 			<zIndex>14</zIndex>
 		</video>
-		
-	</view>
-	
-	<view name="system">
-	
 		<image name="blurbackground">
 			<visible>false</visible>
 		</image>
-		
 	</view>
-	
-	<view name="gamelist">
-	
-		<image name="blurbackground">
-			<visible>false</visible>
-		</image>
-		
-	</view>
-	
 	</variant>
 </theme>

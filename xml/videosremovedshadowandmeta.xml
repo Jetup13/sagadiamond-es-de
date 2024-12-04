@@ -1,6 +1,5 @@
 <theme>
 	<variant name="withVideosNoShadowsNoMeta">
-	
 	<view name="gamelist">	
 		<video name="gameVideo">
 			<pos>0 0</pos>
@@ -14,15 +13,18 @@
 			<colorEnd>00000000</colorEnd>
 			<zIndex>14</zIndex>
 		</video>
-		
+		<image name="blurbackground">
+			<visible>false</visible>
+		</image>
+		<text name="description">
+			<visible>false</visible>
+		</text>
 	</view>
 	
 	<view name="system">
-	
 		<gameselector name="selector-random">
 			<selection>random</selection>
 		</gameselector>
-	
 		<video name="systemVideo">
 			<pos>0 0</pos>
 			<origin>0 0</origin>
@@ -35,26 +37,9 @@
 			<colorEnd>00000000</colorEnd>
 			<zIndex>14</zIndex>
 		</video>
-		
-	</view>
-	
-	<view name="system">
-	
 		<image name="blurbackground">
 			<visible>false</visible>
 		</image>
-		
-	</view>
-	
-	<view name="gamelist">
-		<image name="blurbackground">
-			<visible>false</visible>
-		</image>
-		
-	</view>
-	
-	<view name="system">
-	
 		<text name="longdescription">
 			<visible>false</visible>
 		</text>
@@ -62,6 +47,5 @@
 			<visible>false</visible>
 		</text>
 	</view>
-
 	</variant>
 </theme>

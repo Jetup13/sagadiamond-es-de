@@ -5,9 +5,9 @@ Minimal ES-DE theme created by [Jetup13](https://github.com/Jetup13)
 Features|Note
 :-------|:----
 Aspect Ratio Support|16:9, 16:10, 19.5:9, 21:9, 4:3, & 1:1
-6x System Variations|
+7x System Variations|
 6x Color Schemes|White, Baby Blue, Mint, Cardinal Red, Fuchsia Pink, Orange
-System View Descriptions|
+Multilingual Support|
 
 
 System View|Gamelist View
@@ -18,7 +18,7 @@ System View|Gamelist View
 
 Planned
 :------|
-Multilingual Support
+Add hack system platforms
 
 Credits|Info
 :------|:---

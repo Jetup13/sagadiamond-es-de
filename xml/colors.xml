@@ -1,16 +1,16 @@
 <theme>
 	<colorScheme name="white">
 	<variables>
-		<textColor>ffffff</textColor>
+		<textColor>FFFFFF</textColor>
 		<textldColor>C9C9C9</textldColor>
-		<textsdColor>ffffff</textsdColor>
+		<textsdColor>FFFFFF</textsdColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="mint">
 	<variables>
 		<textColor>98FFAC</textColor>
-		<textldColor>6EB77B</textldColor>
+		<textldColor>5CBF76</textldColor>
 		<textsdColor>98FFAC</textsdColor>
 	</variables>
 	</colorScheme>
@@ -18,7 +18,7 @@
 	<colorScheme name="babyblue">
 	<variables>
 		<textColor>8fd9fb</textColor>
-		<textldColor>6DA6BF</textldColor>
+		<textldColor>4B8CAD</textldColor>
 		<textsdColor>8fd9fb</textsdColor>
 	</variables>
 	</colorScheme>
@@ -34,16 +34,16 @@
 	<colorScheme name="cardinalred">
 	<variables>
 		<textColor>BD2031</textColor>
-		<textldColor>9B1D2E</textldColor>
+		<textldColor>9C3542</textldColor>
 		<textsdColor>BD2031</textsdColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="fuchsiapink">
 	<variables>
-		<textColor>ff77ff</textColor>
-		<textldColor>CE61CE</textldColor>
-		<textsdColor>ff77ff</textsdColor>
+		<textColor>FF77FF</textColor>
+		<textldColor>B26AB2</textldColor>
+		<textsdColor>FF77FF</textsdColor>
 	</variables>
 	</colorScheme>
 </theme>

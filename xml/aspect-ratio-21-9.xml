@@ -25,9 +25,7 @@
 			<maxItemCount>4.25</maxItemCount>
 			<itemSize>0.5 0.58</itemSize>
 			<itemScale>1</itemScale>
-			<itemsBeforeCenter>0</itemsBeforeCenter>
-			<selectedItemOffset>0 0</selectedItemOffset>
-			<selectedItemMargins>.25 0.1</selectedItemMargins >
+			<selectedItemMargins>.25 0.1</selectedItemMargins>
 			<itemScale>1.48</itemScale>
 		</carousel>
 
@@ -76,7 +74,6 @@
 			<selectedItemOffset>0 0</selectedItemOffset>
 			<selectedItemMargins>.25 0.1</selectedItemMargins >
 			<itemScale>1.48</itemScale>
-			<itemsBeforeCenter>0</itemsBeforeCenter>
 			<itemStacking>descending</itemStacking>
 			<color>00000000</color>
 		</carousel>
