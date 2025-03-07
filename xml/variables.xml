@@ -6,5 +6,13 @@
 		<line>./artwork/files/line2.png</line>
 		<background>./artwork/files/background.png</background>
 		<darkbackground>./artwork/files/blurbackground.png</darkbackground>
+		<wifi>./artwork/files/wifi.png</wifi>
+		<batterycharge>./artwork/files/batcharge.png</batterycharge>
+		<batterylow>./artwork/files/batlow.png</batterylow>
+		<batterymedium>./artwork/files/batmed.png</batterymedium>
+		<batteryhigh>./artwork/files/bathigh.png</batteryhigh>
+		<batteryfull>./artwork/files/batfull.png</batteryfull>
+		<cell>./artwork/files/cell.png</cell>
+		<bluetooth>./artwork/files/bluetooth.png</bluetooth>
 	</variables>
 </theme>

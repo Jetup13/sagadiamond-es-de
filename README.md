@@ -23,3 +23,4 @@ Add hack system platforms
 Credits|Info
 :------|:---
 missing.png|[MOHAMMED SALIM](https://thenounproject.com/creator/salim.miah24)
+Battery, Cell, & Wifi icons|[Icons8](https://icons8.com)

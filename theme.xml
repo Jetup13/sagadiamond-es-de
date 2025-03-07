@@ -175,4 +175,26 @@
 			<fontPath>${boldFont}</fontPath>
 		</helpsystem>
 	</view>
+	
+	<view name="gamelist, system">
+		<clock name="clock">
+			<format>%H:%M</format>
+			<color>${textColor}</color>
+			<fontPath>${boldFont}</fontPath>
+		</clock>
+		
+		<systemstatus name="systemStatus">
+			<entries>all</entries>
+			<color>${textColor}</color>
+			<fontPath>${boldFont}</fontPath>	
+			<customIcon icon="icon_wifi">${wifi}</customIcon>	
+			<customIcon icon="icon_battery_charging">${batterycharge}</customIcon>
+			<customIcon icon="icon_battery_low">${batterylow}</customIcon>
+			<customIcon icon="icon_battery_medium">${batterymedium}</customIcon>
+			<customIcon icon="icon_battery_high">${batteryhigh}</customIcon>
+			<customIcon icon="icon_battery_full">${batteryfull}</customIcon>
+			<customIcon icon="icon_cellular">${cell}</customIcon>
+			<customIcon icon="icon_bluetooth">${bluetooth}</customIcon>
+		</systemstatus>
+	</view>
 </theme>
