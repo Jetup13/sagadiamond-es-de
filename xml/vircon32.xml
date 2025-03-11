@@ -1,0 +1,87 @@
+<theme>
+<view name="system">
+<text name="sys_line2">
+<text>Vircon32</text>
+</text>
+<text name="shortdescription">
+<text>2021  ·  Fantasy Computer</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>Vircon32 is a virtual console inspired by classic 16- and 32-bit systems as well as the arcade era</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>Vircon32 es una consola virtual inspirada en los sistemas clásicos de 16 y 32 bits, así como en la era de los juegos arcade</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>Vircon32 est une console virtuelle inspirée des systèmes classiques 16 et 32 bits ainsi que de l'ère des jeux d'arcade</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>Vircon32 è una console virtuale ispirata ai sistemi classici a 16 e 32 bit, così come all'era arcade</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Vircon32 to wirtualna konsola inspirowana klasycznymi systemami 16- i 32-bitowymi oraz erą gier arcade</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>Vircon32 é um console virtual inspirado nos sistemas clássicos de 16 e 32 bits, bem como na era dos arcades</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Vircon32 este o consolă virtuală inspirată de sistemele clasice de 16 și 32 de biți, precum și de era jocurilor arcade</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>это виртуальная консоль, вдохновлённая классическими 16- и 32-битными системами, а также эпохой аркадных игр</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Vircon32 är en virtuell konsol inspirerad av klassiska 16- och 32-bitars system samt arkaderans spel</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Vircon32は、クラシックな16ビットおよび32ビットシステム、そしてアーケード時代にインスパイアされた仮想コンソールです</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Vircon32 是一款受经典 16 位和 32 位系统以及街机时代启发的虚拟主机</longdescription>
+</variables>
+</language>
+
+</theme>
