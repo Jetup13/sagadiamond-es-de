@@ -1,0 +1,90 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Sega</text>
+</text>
+<text name="sys_line2">
+<text>Mark III</text>
+</text>
+<text name="shortdescription">
+<text>1985  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>The Sega Mark III, released in Japan in 1985, was an advanced 8-bit console that later became the Sega Master System internationally</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Sega Mark III, lanzada en Japón en 1985, fue una consola de 8 bits avanzada que más tarde se convirtió en la Sega Master System a nivel internacional</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Sega Mark III, sortie au Japon en 1985, était une console 8 bits avancée qui est ensuite devenue la Sega Master System à l’international</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La Sega Mark III, rilasciata in Giappone nel 1985, era una console a 8 bit avanzata che divenne poi la Sega Master System a livello internazionale</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Sega Mark III, wydana w Japonii w 1985 roku, była zaawansowaną konsolą 8-bitową, która później stała się Sega Master System na rynkach międzynarodowych</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Sega Mark III, lançado no Japão em 1985, foi um console de 8 bits avançado que mais tarde se tornou o Sega Master System internacionalmente</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Sega Mark III, lansată în Japonia în 1985, a fost o consolă avansată de 8 biți care ulterior a devenit Sega Master System la nivel internațional</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Sega Mark III, выпущенная в Японии в 1985 году, была продвинутой 8-битной консолью, которая позже стала известна как Sega Master System за пределами Японии</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Sega Mark III, släppt i Japan 1985, var en avancerad 8-bitarskonsol som senare blev Sega Master System internationellt. Den hade bättre grafik och ljud än konkurrenterna men kunde inte slå Famicom</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>セガ・マークIIIは1985年に日本で発売された高度な8ビットゲーム機で、後に海外ではセガ・マスターシステムとなった</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Sega Mark III 于1985年在日本发布，是一款先进的8位游戏机，后来在国际上成为 Sega Master System</longdescription>
+</variables>
+</language>
+
+</theme>

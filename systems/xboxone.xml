@@ -1,0 +1,90 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Microsoft</text>
+</text>
+<text name="sys_line2">
+<text>Xbox One</text>
+</text>
+<text name="shortdescription">
+<text>2013  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>The Xbox One is an eighth-generation home video game console developed by Microsoft</longdescription>
+</variables>
+</language>
+
+
+
+
+
+<language name="es_ES">
+<variables>
+<longdescription>La Xbox One es una consola de videojuegos doméstica de octava generación desarrollada por Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="fr_FR">
+<variables>
+<longdescription>La Xbox One est une console de jeux vidéo domestique de huitième génération développée par Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="it_IT">
+<variables>
+<longdescription>La Xbox One è una console per videogiochi domestica di ottava generazione sviluppata da Microsoft</longdescription>
+</variables>
+</language>
+
+
+
+<language name="pl_PL">
+<variables>
+<longdescription>Xbox One to konsola do gier wideo ósmej generacji opracowana przez Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="pt_BR">
+<variables>
+<longdescription>O Xbox One é um console de videogame doméstico de oitava geração desenvolvido pela Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ro_RO">
+<variables>
+<longdescription>Xbox One este o consolă de jocuri video de acasă din a opta generație dezvoltată de Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ru_RU">
+<variables>
+<longdescription>Xbox One — это игровая консоль восьмого поколения разработанная компанией Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="sv_SE">
+<variables>
+<longdescription>Xbox One är en spelkonsol för hemmabruk från åttonde generationen utvecklad av Microsoft</longdescription>
+</variables>
+</language>
+
+<language name="ja_JP">
+<variables>
+<longdescription>Xbox Oneはマイクロソフトが開発した第8世代の家庭用ゲーム機です</longdescription>
+</variables>
+</language>
+
+
+
+<language name="zh_CN">
+<variables>
+<longdescription>Xbox One 是由微软开发的第八代家用电子游戏机</longdescription>
+</variables>
+</language>
+
+</theme>
