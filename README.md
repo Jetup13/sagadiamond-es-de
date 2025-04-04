@@ -6,7 +6,8 @@ Features|Note
 :-------|:----
 Aspect Ratio Support|16:9, 16:10, 19.5:9, 21:9, 4:3, & 1:1
 7x System Variations|
-6x Color Schemes|White, Baby Blue, Mint, Cardinal Red, Fuchsia Pink, Orange
+14x Color Schemes|White, Baby Blue, Mint, Cardinal Red, Fuchsia Pink, Orange, Lavender, Lime Green, Sky Blue, Lemon Yellow, Butter Yellow, Burnt Orange, Strawberry, & Amethyst
+Custome Clock & Icons| 
 Multilingual Support|
 
 

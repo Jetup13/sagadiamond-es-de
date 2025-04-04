@@ -176,7 +176,7 @@
 		</helpsystem>
 	</view>
 	
-<!--	<view name="gamelist, system">
+	<view name="gamelist, system">
 		<clock name="clock">
 			<format>%H:%M</format>
 			<color>${textColor}</color>
@@ -196,5 +196,5 @@
 			<customIcon icon="icon_cellular">${cell}</customIcon>
 			<customIcon icon="icon_bluetooth">${bluetooth}</customIcon>
 		</systemstatus>
-	</view> -->
+	</view>
 </theme>

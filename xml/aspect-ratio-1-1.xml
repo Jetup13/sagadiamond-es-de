@@ -123,4 +123,28 @@
 			<visible>false</visible>
 		</image>
 	</view>
+	<view name="gamelist, system">
+		<helpsystem name="help">
+			<entries>
+				back,
+				start,
+				a,
+				b,
+				y,
+				l,
+				r,
+				lt,
+				rt,
+				left/right,
+				down,
+				up,
+				up/down,
+				up/down/left/right,
+				ltrt,
+				lr
+			</entries>
+			<pos>0.012 0.9515</pos>
+			<fontSize>0.030</fontSize>
+		</helpsystem>
+	</view>
 </theme>

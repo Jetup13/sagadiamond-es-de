@@ -63,24 +63,56 @@
 		<label>White</label>
 	</colorScheme>
 	
+	<colorScheme name="lavender">
+		<label>Lavender</label>
+	</colorScheme>
+	
 	<colorScheme name="mint">
 		<label>Mint</label>
+	</colorScheme>
+	
+	<colorScheme name="limegreen">
+		<label>Lime Green</label>
 	</colorScheme>
 	
 	<colorScheme name="babyblue">
 		<label>Baby Blue</label>
 	</colorScheme>
 	
+	<colorScheme name="skyblue">
+		<label>Sky Blue</label>
+	</colorScheme>
+	
+	<colorScheme name="lemonyellow">
+		<label>Lemon Yellow</label>
+	</colorScheme>
+
+	<colorScheme name="butteryellow">
+		<label>Butter Yellow</label>
+	</colorScheme>
+	
 	<colorScheme name="orange">
 		<label>Orange</label>
+	</colorScheme>
+	
+	<colorScheme name="burntorange">
+		<label>Burnt Orange</label>
 	</colorScheme>
 	
 	<colorScheme name="cardinalred">
 		<label>Cardinal Red</label>
 	</colorScheme>
 	
+	<colorScheme name="strawberry">
+		<label>Strawberry</label>
+	</colorScheme>
+
 	<colorScheme name="fuchsiapink">
 		<label>Fuchsia Pink</label>
+	</colorScheme>
+	
+	<colorScheme name="amethyst">
+		<label>Amethyst</label>
 	</colorScheme>
 
 </themeCapabilities>

@@ -115,4 +115,27 @@
 			<origin>0 0</origin>
 		</image>
 	</view>
+	<view name="gamelist, system">
+		<helpsystem name="help">
+			<entries>
+				back,
+				start,
+				a,
+				b,
+				x,
+				y,
+				l,
+				r,
+				lt,
+				rt,
+				left/right,
+				down,
+				up,
+				up/down,
+				up/down/left/right,
+				ltrt,
+				lr
+			</entries>
+		</helpsystem>
+	</view>
 </theme>
