@@ -1,0 +1,71 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Super</text>
+</text>
+<text name="sys_line2">
+<text>Nintendo Hacks</text>
+</text>
+<text name="shortdescription">
+<text>1990  ·  Home Console</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>Nintendo's second home console introduced advanced graphics and sound capabilities compared with other systems at the time</longdescription>
+</variables>
+</language>
+<language name="es_ES">
+<variables>
+<longdescription>La Super Nintendo Entertainment System (también conocida como Super NES, SNES o Super Nintendo) es una videoconsola doméstica de 16 bits desarrollada por Nintendo que salió a la venta en 1990 en Japón, 1991 en Norteamérica, 1992 en Europa y Australasia (Oceanía) y 1993 en Sudamérica</longdescription>
+</variables>
+</language>
+<language name="fr_FR">
+<variables>
+<longdescription>La Super Nintendo Entertainment System (également connue sous le nom de Super NES, SNES ou Super Nintendo) est une console de jeux vidéo de salon 16 bits développée par Nintendo et commercialisée en 1990 au Japon, 1991 en Amérique du Nord, 1992 en Europe et en Australasie (Océanie), et 1993 en Amérique du Sud</longdescription>
+</variables>
+</language>
+<language name="it_IT">
+<variables>
+<longdescription>Il Super Nintendo Entertainment System (noto anche come Super NES, SNES o Super Nintendo) è una console per videogiochi domestici a 16 bit sviluppata da Nintendo e uscita nel 1990 in Giappone, nel 1991 in Nord America, nel 1992 in Europa e Australasia (Oceania) e nel 1993 in Sud America</longdescription>
+</variables>
+</language>
+<language name="pl_PL">
+<variables>
+<longdescription>Super Nintendo Entertainment System (znany również jako Super NES, SNES lub Super Nintendo) to 16-bitowa domowa konsola do gier wideo opracowana przez Nintendo, która została wydana w 1990 roku w Japonii, w 1991 roku w Ameryce Północnej, w 1992 roku w Europie i Australazji (Oceanii) oraz w 1993 roku w Ameryce Południowej</longdescription>
+</variables>
+</language>
+<language name="pt_BR">
+<variables>
+<longdescription>O Super Nintendo Entertainment System (também conhecido como Super NES, SNES ou Super Nintendo) é um console de videogame doméstico de 16 bits desenvolvido pela Nintendo, lançado em 1990 no Japão, 1991 na América do Norte, 1992 na Europa e Australásia (Oceania) e 1993 na América do Sul</longdescription>
+</variables>
+</language>
+<language name="ro_RO">
+<variables>
+<longdescription>Super Nintendo Entertainment System (cunoscut și sub numele de Super NES, SNES sau Super Nintendo) este o consolă de jocuri video de acasă pe 16 biți dezvoltată de Nintendo, lansată în 1990 în Japonia, 1991 în America de Nord, 1992 în Europa și Australasia (Oceania) și 1993 în America de Sud</longdescription>
+</variables>
+</language>
+<language name="ru_RU">
+<variables>
+<longdescription>Super Nintendo Entertainment System (также известная как Super NES, SNES или Super Nintendo) - 16-битная домашняя игровая приставка, разработанная компанией Nintendo, которая была выпущена в 1990 году в Японии, в 1991 году в Северной Америке, в 1992 году в Европе и Австралазии (Океании), а также в 1993 году в Южной Америке</longdescription>
+</variables>
+</language>
+<language name="sv_SE">
+<variables>
+<longdescription>Super Nintendo Entertainment System (även känt som Super NES, SNES eller Super Nintendo) är en 16-bitars hemkonsol för videospel som utvecklats av Nintendo och som släpptes 1990 i Japan, 1991 i Nordamerika, 1992 i Europa och Australasien (Oceanien) och 1993 i Sydamerika</longdescription>
+</variables>
+</language>
+<language name="ja_JP">
+<variables>
+<longdescription>スーパーファミコン（スーパーファミコン、SNES、スーパーファミコンとも）は、任天堂が開発した16ビットの家庭用ゲーム機で、日本では1990年、北米では1991年、ヨーロッパとオーストラレーシア（オセアニア）では1992年、南米では1993年に発売された</longdescription>
+</variables>
+</language>
+<language name="zh_CN">
+<variables>
+<longdescription>超级任天堂娱乐系统（Super Nintendo Entertainment System，又称超级 NES、SNES 或 Super Nintendo）是任天堂开发的一款 16 位家用视频游戏机，1990 年在日本发布，1991 年在北美发布，1992 年在欧洲和澳大拉西亚（大洋洲）发布，1993 年在南美发布</longdescription>
+</variables>
+</language>
+</theme>

@@ -1,0 +1,71 @@
+<theme>
+<view name="system">
+<text name="sys_line1">
+<text>Super Nintendo</text>
+</text>
+<text name="sys_line2">
+<text>MSU-1</text>
+</text>
+<text name="shortdescription">
+<text>2013  ·  Enhancement Chip</text>
+</text>
+<text name="longdescription">
+<text>${longdescription}</text>
+</text>
+</view>
+<language name="en_US">
+<variables>
+<longdescription>The MSU-1 chip is a Super Nintendo enhancement chip created by Higan emulator creator byuu. MSU stands for "Media Streaming Unit 1"</longdescription>
+</variables>
+</language>
+<language name="es_ES">
+<variables>
+<longdescription>El chip MSU-1 es un chip de mejora para Super Nintendo creado por byuu, el creador del emulador Higan. MSU significa "Unidad de Transmision de Medios 1"</longdescription>
+</variables>
+</language>
+<language name="fr_FR">
+<variables>
+<longdescription>La puce MSU-1 est une puce d'amélioration pour la Super Nintendo créée par byuu, le créateur de l’émulateur Higan. MSU signifie "Unite de Diffusion Multimédia 1"</longdescription>
+</variables>
+</language>
+<language name="it_IT">
+<variables>
+<longdescription>Il chip MSU-1 è un chip di potenziamento per Super Nintendo creato da byuu, il creatore dell’emulatore Higan. MSU sta per "Unità di Streaming Multimediale 1"</longdescription>
+</variables>
+</language>
+<language name="pl_PL">
+<variables>
+<longdescription>SUkład MSU-1 to chip rozszerzający możliwości Super Nintendo, stworzony przez byuu, twórcę emulatora Higan. MSU oznacza "Jednostka Strumieniowania Mediów 1"</longdescription>
+</variables>
+</language>
+<language name="pt_BR">
+<variables>
+<longdescription>O chip MSU-1 é um chip de aprimoramento para o Super Nintendo criado por byuu, o criador do emulador Higan. MSU significa "Unidade de Transmissão de Mídia 1"</longdescription>
+</variables>
+</language>
+<language name="ro_RO">
+<variables>
+<longdescription>Cipul MSU-1 este un cip de îmbunătățire pentru Super Nintendo, creat de byuu, creatorul emulatorului Higan. MSU înseamnă „Unitate de Streaming Media 1”</longdescription>
+</variables>
+</language>
+<language name="ru_RU">
+<variables>
+<longdescription>Чип MSU-1 — это дополнительный чип для Super Nintendo, созданный byuu, автором эмулятора Higan. MSU расшифровывается как "Модуль потоковой передачи мультимедиа 1"</longdescription>
+</variables>
+</language>
+<language name="sv_SE">
+<variables>
+<longdescription>MSU-1-chippet är ett förbättringschip för Super Nintendo skapat av byuu, skaparen av emulatorn Higan. MSU står för "Media Streaming Unit 1"</longdescription>
+</variables>
+</language>
+<language name="ja_JP">
+<variables>
+<longdescription>MSU-1チップは、Higanエミュレーターの開発者byuuによって作られたスーパーファミコン用の拡張チップです。MSUは「Media Streaming Unit 1」の略です</longdescription>
+</variables>
+</language>
+<language name="zh_CN">
+<variables>
+<longdescription>MSU-1芯片是由 Higan 模拟器的创建者 byuu 开发的超级任天堂增强芯片。MSU 是“媒体流单元 1”（Media Streaming Unit 1）的缩写</longdescription>
+</variables>
+</language>
+</theme>
