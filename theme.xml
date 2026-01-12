@@ -75,6 +75,7 @@
 			<container>true</container>
 			<fontPath>${regularFont}</fontPath>
 			<zIndex>17</zIndex>
+			<lineSpacing>1.2</lineSpacing>
 		</text>
 
 		<text name="shortdescription">
@@ -120,6 +121,7 @@
 			<color>${textldColor}</color>
 			<fontPath>${regularFont}</fontPath>
 			<zIndex>17</zIndex>
+			<lineSpacing>1.2</lineSpacing>
 		</text>
 
 		<text name="name">
@@ -127,6 +129,7 @@
 			<color>${textColor}</color>
 			<fontPath>${boldFont}</fontPath>
 			<zIndex>17</zIndex>
+			<lineSpacing>1</lineSpacing>
 		</text>
 		
 		<text name="developer">
