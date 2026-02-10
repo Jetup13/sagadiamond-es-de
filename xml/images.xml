@@ -1,0 +1,35 @@
+<theme>
+	<variant name="withImages">
+	<view name="gamelist">	
+		<image name="gameImage">
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<maxSize>2 1</maxSize>
+			<opacity>0.8</opacity>
+			<imageType>screenshot</imageType>
+			<scrollFadeIn>true</scrollFadeIn>
+			<gradientType>horizontal</gradientType>
+			<colorEnd>00000000</colorEnd>
+			<zIndex>14</zIndex>
+		</image>
+	</view>
+	
+	<view name="system">
+		<gameselector name="selector-random">
+			<selection>random</selection>
+		</gameselector>
+		<image name="systemImage">
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<maxSize>2 1</maxSize>
+			<opacity>0.8</opacity>
+			<gameselector>selector-random</gameselector>
+			<imageType>screenshot</imageType>
+			<scrollFadeIn>true</scrollFadeIn>
+			<gradientType>horizontal</gradientType>
+			<colorEnd>00000000</colorEnd>
+			<zIndex>14</zIndex>
+		</image>
+	</view>
+	</variant>
+</theme>

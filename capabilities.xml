@@ -29,6 +29,11 @@
 		<selectable>true</selectable>
 	</variant>
 
+	<variant name="withImages">
+		<label>w/ Images</label>
+		<selectable>true</selectable>
+	</variant>
+
 	<variant name="withVideos">
 		<label>w/ Videos</label>
 		<selectable>true</selectable>

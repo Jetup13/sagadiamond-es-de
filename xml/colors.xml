@@ -9,104 +9,104 @@
 	
 	<colorScheme name="lavender">
 	<variables>
-		<textColor>E6E6FA</textColor>
-		<textldColor>AC9DBA</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>E6E6FA</textsdColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="mint">
 	<variables>
-		<textColor>98FFAC</textColor>
-		<textldColor>5CBF76</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>98FFAC</textsdColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="limegreen">
 	<variables>
-		<textColor>32CD32</textColor>
-		<textldColor>228B22</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>32CD32</textsdColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="babyblue">
 	<variables>
-		<textColor>8fd9fb</textColor>
-		<textldColor>4B8CAD</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>8fd9fb</textsdColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="skyblue">
 	<variables>
-		<textColor>87CEEB</textColor>
-		<textldColor>5BA4C4</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>87CEEB</textsdColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="lemonyellow">
 	<variables>
-		<textColor>FFFF66</textColor>
-		<textldColor>CCCC44</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>FFFF66</textsdColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="butteryellow">
 	<variables>
-		<textColor>FFFACD</textColor>
-		<textldColor>D9D6AA</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>FFFACD</textsdColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="orange">
 	<variables>
-		<textColor>FFA500</textColor>
-		<textldColor>B27100</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>FFA500</textsdColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="burntorange">
 	<variables>
-		<textColor>CC5500</textColor>
-		<textldColor>9B3E00</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>CC5500</textsdColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="cardinalred">
 	<variables>
-		<textColor>BD2031</textColor>
-		<textldColor>9C3542</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>BD2031</textsdColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="strawberry">
 	<variables>
-		<textColor>FC5A8D</textColor>
-		<textldColor>C94D71</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>FC5A8D</textsdColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="fuchsiapink">
 	<variables>
-		<textColor>FF77FF</textColor>
-		<textldColor>B26AB2</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>FF77FF</textsdColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="amethyst">
 	<variables>
-		<textColor>9966CC</textColor>
-		<textldColor>6B4FA1</textldColor>
+		<textColor>FFFFFF</textColor>
+		<textldColor>C9C9C9</textldColor>
 		<textsdColor>9966CC</textsdColor>
 	</variables>
 	</colorScheme>
