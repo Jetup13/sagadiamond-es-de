@@ -140,4 +140,8 @@
 		<label>Grape</label>
 	</colorScheme>
 
+	<colorScheme name="perconsole">
+		<label>Per Console</label>
+	</colorScheme>
+
 </themeCapabilities>

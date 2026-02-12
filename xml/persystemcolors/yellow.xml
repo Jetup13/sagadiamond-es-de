@@ -1,0 +1,11 @@
+<theme>
+	<colorScheme name="perconsole">
+	<variables>
+		<textColor>FFFFFF</textColor>
+		<textColor2>030303</textColor2>
+		<textldColor>C9C9C9</textldColor>
+		<textsdColor>FFFF66</textsdColor>
+		<barColor>FFFF66</barColor>
+	</variables>
+	</colorScheme>
+</theme>

@@ -1,4 +1,5 @@
 <theme>
+<include>./../xml/persystemcolors/white.xml</include>
 <view name="system">
 <text name="sys_line1">
 <text>Last</text>

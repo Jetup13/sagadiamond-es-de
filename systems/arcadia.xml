@@ -1,4 +1,5 @@
 <theme>
+<include>./../xml/persystemcolors/yellow.xml</include>
 <view name="system">
 <text name="sys_line1">
 <text>Emerson</text>

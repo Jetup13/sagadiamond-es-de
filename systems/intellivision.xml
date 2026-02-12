@@ -1,4 +1,5 @@
 <theme>
+<include>./../xml/persystemcolors/green.xml</include>
 <view name="system">
 <text name="sys_line1">
 <text>Mattel</text>

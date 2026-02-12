@@ -1,4 +1,5 @@
 <theme>
+<include>./../xml/persystemcolors/purple.xml</include>
 <view name="system">
 <text name="sys_line2">
 <text>Spectravideo</text>

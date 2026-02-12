@@ -1,10 +1,11 @@
 <theme>
+<include>./../xml/persystemcolors/red.xml</include>
 <view name="system">
 <text name="sys_line1">
-<text>Super</text>
+<text>Nintedo</text>
 </text>
 <text name="sys_line2">
-<text>Nintendo</text>
+<text>Super Nintendo</text>
 </text>
 <text name="shortdescription">
 <text>1990  ·  Home Console</text>
