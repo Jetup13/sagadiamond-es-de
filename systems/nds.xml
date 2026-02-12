@@ -1,7 +1,10 @@
 <theme>
 <view name="system">
+<text name="sys_line1">
+<text>Nintendo</text>
+</text>
 <text name="sys_line2">
-<text>Nintendo DS</text>
+<text>DS</text>
 </text>
 <text name="shortdescription">
 <text>2004  ·  Handheld Console</text>

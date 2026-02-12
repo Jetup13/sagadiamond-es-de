@@ -76,11 +76,11 @@
 			<container>true</container>
 			<fontPath>${regularFont}</fontPath>
 			<zIndex>17</zIndex>
-			<lineSpacing>1.5</lineSpacing>
+			<lineSpacing>1.25</lineSpacing>
 		</text>
 
 		<text name="shortdescription">
-			<color>${textColor}</color>
+			<color>${textColor2}</color>
 			<fontPath>${mediumFont}</fontPath>
 			<zIndex>17</zIndex>
 			<backgroundColor>${textsdColor}</backgroundColor>
@@ -90,14 +90,14 @@
 
 		<image name="lineUpperLeft">
 			<path>${line}</path>
-			<color>${textsdColor}</color>
-			<zIndex>11</zIndex>
+			<color>${barColor}</color>
+			<zIndex>17</zIndex>
 		</image>
 
 		<image name="lineBottomLeft">
 			<path>${line}</path>
-			<color>${textsdColor}</color>
-			<zIndex>11</zIndex>
+			<color>${barColor}</color>
+			<zIndex>17</zIndex>
 		</image>
 
 		<helpsystem name="help">
@@ -151,7 +151,7 @@
 			<defaultValue>XXXX</defaultValue>
 			<format>%Y</format>
 			<fontPath>${mediumFont}</fontPath>
-			<color>${textColor}</color>
+			<color>${textColor2}</color>
 			<backgroundColor>${textsdColor}</backgroundColor>
 			<backgroundMargins>0.005 0.005</backgroundMargins>
 			<backgroundCornerRadius>0.012</backgroundCornerRadius>
@@ -173,14 +173,14 @@
 
 		<image name="lineUpperLeft">
 			<path>${line}</path>
-			<color>${textsdColor}</color>
-			<zIndex>11</zIndex>
+			<color>${barColor}</color>
+			<zIndex>17</zIndex>
 		</image>
 
 		<image name="lineBottomLeft">
 			<path>${line}</path>
-			<color>${textsdColor}</color>
-			<zIndex>11</zIndex>
+			<color>${barColor}</color>
+			<zIndex>17</zIndex>
 		</image>
 
 		<helpsystem name="help">

@@ -2,112 +2,190 @@
 	<colorScheme name="white">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>C9C9C9</textsdColor>
+		<barColor>C9C9C9</barColor>
+	</variables>
+	</colorScheme>
+	
+	<colorScheme name="charcoal">
+	<variables>
+		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
+		<textldColor>C9C9C9</textldColor>
+		<textsdColor>262626</textsdColor>
+		<barColor>FFFFFF</barColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="lavender">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>030303</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>E6E6FA</textsdColor>
+		<barColor>E6E6FA</barColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="mint">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>030303</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>98FFAC</textsdColor>
+		<barColor>98FFAC</barColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="limegreen">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>32CD32</textsdColor>
+		<barColor>32CD32</barColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="babyblue">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>8fd9fb</textsdColor>
+		<barColor>8fd9fb</barColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="skyblue">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>87CEEB</textsdColor>
+		<barColor>87CEEB</barColor>
+	</variables>
+	</colorScheme>
+
+	<colorScheme name="oceanblue">
+	<variables>
+		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
+		<textldColor>C9C9C9</textldColor>
+		<textsdColor>004080</textsdColor>
+		<barColor>004080</barColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="lemonyellow">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>030303</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>FFFF66</textsdColor>
+		<barColor>FFFF66</barColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="butteryellow">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>030303</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>FFFACD</textsdColor>
+		<barColor>FFFACD</barColor>
+	</variables>
+	</colorScheme>
+
+	<colorScheme name="peach">
+	<variables>
+		<textColor>FFFFFF</textColor>
+		<textColor2>030303</textColor2>
+		<textldColor>C9C9C9</textldColor>
+		<textsdColor>f6a192</textsdColor>
+		<barColor>f6a192</barColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="orange">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>FFA500</textsdColor>
+		<barColor>FFA500</barColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="burntorange">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>CC5500</textsdColor>
+		<barColor>CC5500</barColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="cardinalred">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>BD2031</textsdColor>
+		<barColor>BD2031</barColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="strawberry">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>FC5A8D</textsdColor>
+		<barColor>FC5A8D</barColor>
+	</variables>
+	</colorScheme>
+	
+	<colorScheme name="darkraspberry">
+	<variables>
+		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
+		<textldColor>C9C9C9</textldColor>
+		<textsdColor>872657</textsdColor>
+		<barColor>872657</barColor>
 	</variables>
 	</colorScheme>
 
 	<colorScheme name="fuchsiapink">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>FF77FF</textsdColor>
+		<barColor>FF77FF</barColor>
 	</variables>
 	</colorScheme>
 	
 	<colorScheme name="amethyst">
 	<variables>
 		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
 		<textldColor>C9C9C9</textldColor>
 		<textsdColor>9966CC</textsdColor>
+		<barColor>9966CC</barColor>
+	</variables>
+	</colorScheme>
+	
+	<colorScheme name="grape">
+	<variables>
+		<textColor>FFFFFF</textColor>
+		<textColor2>FFFFFF</textColor2>
+		<textldColor>C9C9C9</textldColor>
+		<textsdColor>6F2DA8</textsdColor>
+		<barColor>6F2DA8</barColor>
 	</variables>
 	</colorScheme>
 

@@ -40,12 +40,12 @@
 	</variant>
 	
 	<variant name="withVideosNoShadows">
-		<label>w/ Videos & w/o Shadow</label>
+		<label>w/ Videos and w/o Shadow</label>
 		<selectable>true</selectable>
 	</variant>
 
 	<variant name="withVideosNoShadowsNoMeta">
-		<label>w/ Videos & w/o Shadow/Metadata</label>
+		<label>w/ Videos and w/o Shadow/Metadata</label>
 		<selectable>true</selectable>
 	</variant>
 
@@ -60,12 +60,16 @@
 	</variant>
 	
 	<variant name="removeeverything">
-		<label>w/o System Metadata & Shadow</label>
+		<label>w/o System Metadata and Shadow</label>
 		<selectable>true</selectable>
 	</variant>
 
 	<colorScheme name="white">
 		<label>White</label>
+	</colorScheme>
+
+	<colorScheme name="charcoal">
+		<label>Charcoal</label>
 	</colorScheme>
 	
 	<colorScheme name="lavender">
@@ -88,12 +92,20 @@
 		<label>Sky Blue</label>
 	</colorScheme>
 	
+	<colorScheme name="oceanblue">
+		<label>Ocean Blue</label>
+	</colorScheme>
+	
 	<colorScheme name="lemonyellow">
 		<label>Lemon Yellow</label>
 	</colorScheme>
 
 	<colorScheme name="butteryellow">
 		<label>Butter Yellow</label>
+	</colorScheme>
+	
+	<colorScheme name="peach">
+		<label>Peach</label>
 	</colorScheme>
 	
 	<colorScheme name="orange">
@@ -111,6 +123,10 @@
 	<colorScheme name="strawberry">
 		<label>Strawberry</label>
 	</colorScheme>
+	
+	<colorScheme name="darkraspberry">
+		<label>Dark Raspberry</label>
+	</colorScheme>
 
 	<colorScheme name="fuchsiapink">
 		<label>Fuchsia Pink</label>
@@ -118,6 +134,10 @@
 	
 	<colorScheme name="amethyst">
 		<label>Amethyst</label>
+	</colorScheme>
+
+	<colorScheme name="grape">
+		<label>Grape</label>
 	</colorScheme>
 
 </themeCapabilities>
