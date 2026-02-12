@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Xbox es una marca de videojuegos creada y propiedad de Microsoft</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Xbox è un marchio di videogiochi creato e di proprietà di Microsoft</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Xboxは、マイクロソフトが開発・所有するビデオゲームブランド</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

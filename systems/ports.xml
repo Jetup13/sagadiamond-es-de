@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Vea y juegue a todos sus puertos de juegos favoritos</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Visualizzate e giocate a tutte le vostre porte di gioco preferite</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>お気に入りのゲームポートをすべて表示してプレイできます</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Java Platform, Micro Edition o Java ME es una plataforma informática para el desarrollo y despliegue de código portátil para dispositivos embebidos y móviles (microcontroladores, sensores, pasarelas, teléfonos móviles, asistentes digitales personales, descodificadores de TV, impresoras)</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Java Platform, Micro Edition o Java ME è una piattaforma informatica per lo sviluppo e la distribuzione di codice portatile per dispositivi embedded e mobili (microcontrollori, sensori, gateway, telefoni cellulari, assistenti digitali personali, decoder TV, stampanti)</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Java Platform, Micro EditionまたはJava MEは、組み込み機器やモバイル機器（マイクロコントローラー、センサー、ゲートウェイ、携帯電話、パーソナルデジタルアシスタント、TVセットトップボックス、プリンター）向けのポータブルコードを開発・展開するためのコンピューティングプラットフォームである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

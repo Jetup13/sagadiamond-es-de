@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Modificar los ajustes y configuraciones del emulador</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Modificare le impostazioni e le configurazioni dell'emulatore</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>エミュレータの設定と構成を変更する</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

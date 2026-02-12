@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La PlayStation Vita (PS Vita o Vita) es una videoconsola portátil desarrollada y comercializada por Sony Interactive Entertainment</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>La PlayStation Vita (PS Vita o Vita) è una console portatile per videogiochi sviluppata e commercializzata da Sony Interactive Entertainment</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>プレイステーション ヴィータ（PS Vita、Vita）は、ソニー・インタラクティブエンタテインメントが開発・販売する携帯型ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

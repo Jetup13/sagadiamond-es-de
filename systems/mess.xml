@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Multi Emulator Super System (MESS) es un emulador para varias consolas y sistemas informáticos, basado en el núcleo de MAME</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Multi Emulator Super System (MESS) è un emulatore per varie console e sistemi informatici, basato sul nucleo del MAME</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>マルチエミュレータスーパーシステム(MESS)はMAMEコアをベースにした、様々なゲーム機やコンピュータシステム用のエミュレータです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Game Boy es una videoconsola portátil de 8 bits desarrollada y fabricada por Nintendo</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Game Boy è una console portatile per videogiochi a 8 bit sviluppata e prodotta da Nintendo</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ゲームボーイは任天堂が開発・製造した8ビット携帯ゲーム機</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

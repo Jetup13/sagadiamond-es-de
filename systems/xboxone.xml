@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Xbox One es una consola de videojuegos doméstica de octava generación desarrollada por Microsoft</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>La Xbox One è una console per videogiochi domestica di ottava generazione sviluppata da Microsoft</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Xbox Oneはマイクロソフトが開発した第8世代の家庭用ゲーム機です</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

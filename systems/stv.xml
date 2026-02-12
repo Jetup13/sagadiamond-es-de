@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>ST-V (Sega Titan Video) es una placa de sistema arcade lanzada por Sega, en 1994 para Japón y 1995 en todo el mundo</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>ST-V (Sega Titan Video) è una scheda di sistema arcade rilasciata da Sega, nel 1994 per il Giappone e nel 1995 in tutto il mondo</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ST-V（セガ・タイタン・ビデオ）は、セガが1994年に日本向けに、1995年に世界向けに発売したアーケードシステム基板である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

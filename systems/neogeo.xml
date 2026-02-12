@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Advanced Entertainment System (AES), originalmente conocida sólo como Neo Geo, es la primera videoconsola de la familia</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>L'Advanced Entertainment System (AES), originariamente noto solo come Neo Geo, è la prima console per videogiochi della famiglia</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>アドバンスド・エンターテインメント・システム（AES）は、当初ネオジオの名で知られていた最初のビデオゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

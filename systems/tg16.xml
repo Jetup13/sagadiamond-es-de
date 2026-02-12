@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La TurboGrafx-16, conocida como PC Engine en Japón y Francia, es una videoconsola doméstica de 16 bits de cuarta generación diseñada por Hudson Soft y comercializada por NEC Home Electronics</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il TurboGrafx-16, noto come PC Engine in Giappone e Francia, è una console per videogiochi domestici di quarta generazione a 16 bit progettata da Hudson Soft e venduta da NEC Home Electronics</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ターボグラフィックス16（TurboGrafx-16）は、日本とフランスではPCエンジンと呼ばれ、ハドソンソフトが設計し、NECホームエレクトロニクスが販売した16ビットの第4世代家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

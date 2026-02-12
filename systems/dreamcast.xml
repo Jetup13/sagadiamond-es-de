@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Dreamcast es una videoconsola doméstica lanzada por Sega el 27 de noviembre de 1998 en Japón, el 9 de septiembre de 1999 en Norteamérica y el 14 de octubre de 1999 en Europa</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Dreamcast è una console per videogiochi domestica rilasciata da Sega il 27 novembre 1998 in Giappone, il 9 settembre 1999 in Nord America e il 14 ottobre 1999 in Europa</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ドリームキャストは、日本では1998年11月27日、北米では1999年9月9日、ヨーロッパでは1999年10月14日にセガから発売された家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

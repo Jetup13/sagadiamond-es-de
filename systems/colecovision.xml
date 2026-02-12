@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La ColecoVision es una videoconsola doméstica de segunda generación (1976-1992) desarrollada y distribuida por Coleco Industries</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il ColecoVision è una console per videogiochi domestici di seconda generazione (1976-1992) sviluppata e distribuita da Coleco Industries</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ColecoVisionは、Coleco Industriesが開発・販売した第2世代（1976年〜1992年）の家庭用ビデオゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

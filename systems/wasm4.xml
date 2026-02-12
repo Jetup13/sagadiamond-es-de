@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>WASM-4 es una consola de juegos de fantasía de bajo nivel para construir pequeños juegos con WebAssembly</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>WASM-4 è una console di gioco fantasy di basso livello per la creazione di piccoli giochi con WebAssembly</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>WASM-4は、WebAssemblyで小さなゲームを作るための低レベルのファンタジーゲーム機です</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Organiza tus juegos en colecciones personalizadas</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Organizzate i vostri giochi in collezioni personalizzate</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ゲームをカスタムコレクションに整理</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

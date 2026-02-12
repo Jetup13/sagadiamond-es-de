@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Game</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Game</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ゲームコムは、1997年8月にタイガー魔法瓶から発売された第5世代の携帯ゲーム機</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

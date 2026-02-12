@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El TI-99/4 es un ordenador doméstico lanzado a finales de 1979 por Texas Instruments</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Il TI-99/4 è un home computer rilasciato alla fine del 1979 da Texas Instruments</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>TI-99/4は、テキサス・インスツルメンツ社が1979年末に発売した家庭用コンピュータである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

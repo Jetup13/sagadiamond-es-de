@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Game Gear es una videoconsola portátil de 8 bits de cuarta generación lanzada por Sega el 6 de octubre de 1990 en Japón, en abril de 1991 en Norteamérica y Europa, y durante 1992 en Australia</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Game Gear è una console portatile a 8 bit di quarta generazione, rilasciata da Sega il 6 ottobre 1990 in Giappone, nell'aprile 1991 in Nord America e in Europa e nel 1992 in Australia</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ゲームギアは、セガが1990年10月6日に日本で、1991年4月に北米とヨーロッパで、1992年中にオーストラリアで発売した8ビットの第4世代携帯ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

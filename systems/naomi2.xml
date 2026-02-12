@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Sega NAOMI 2 es una placa arcade desarrollada por Sega y sucesora del hardware Sega NAOMI</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Sega NAOMI 2 è una scheda arcade sviluppata da Sega ed è il successore dell'hardware Sega NAOMI</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>セガNAOMI2はセガが開発したアーケード基板で、セガNAOMIハードの後継機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

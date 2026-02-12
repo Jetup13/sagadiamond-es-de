@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Llamada así por su unidad central de procesamiento de 64 bits, salió a la venta en junio de 1996 en Japón, septiembre de 1996 en Norteamérica, marzo de 1997 en Europa y Australia, septiembre de 1997 en Francia y diciembre de 1997 en Brasil</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Chiamato così per la sua unità di elaborazione centrale a 64 bit, è stato rilasciato nel giugno 1996 in Giappone, nel settembre 1996 in Nord America, nel marzo 1997 in Europa e Australia, nel settembre 1997 in Francia e nel dicembre 1997 in Brasile</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>64ビットの中央演算処理装置を搭載していることから名づけられ、日本では1996年6月、北米では1996年9月、ヨーロッパとオーストラリアでは1997年3月、フランスでは1997年9月、ブラジルでは1997年12月に発売された</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

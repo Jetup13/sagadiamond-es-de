@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Atomiswave es un sistema arcade personalizado de Sammy Corporation</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Atomiswave è una scheda e un cabinet per sistemi arcade personalizzati di Sammy Corporation</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>アトミスウェーブは、サミー株式会社のカスタムアーケードシステムボードとキャビネットである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

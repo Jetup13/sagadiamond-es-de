@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El CP System (CPシステム, shīpī shisutemu, CPS para abreviar) es una placa de sistema arcade desarrollada por Capcom que ejecutaba software de juego almacenado en placas hijas extraíbles</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il CP System (CPシステム, shīpī shisutemu, CPS in breve) è una scheda di sistema arcade sviluppata da Capcom che eseguiva software di gioco memorizzato su schede secondarie rimovibili</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>CPシステム（シーピーシステム、shīpī shisutemu、略してCPS）は、カプコンが開発した、着脱可能なドーターボードに格納されたゲームソフトを動作させるアーケードシステムボードである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

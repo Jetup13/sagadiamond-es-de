@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El IBM Personal Computer (modelo 5150, comúnmente conocido como IBM PC) es el primer microordenador lanzado en la línea de modelos IBM PC y la base del estándar de facto IBM PC compatible</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>L'IBM Personal Computer (modello 5150, comunemente noto come IBM PC) è il primo microcomputer della linea IBM PC e la base dello standard IBM PC compatibile</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>IBMパーソナルコンピュータ（モデル5150、通称IBM PC）は、IBM PCのモデルラインの中で最初にリリースされたマイクロコンピュータであり、IBM PC互換機のデファクトスタンダードのベースである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

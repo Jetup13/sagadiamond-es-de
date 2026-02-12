@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Game Master es una consola portátil fabricada por Hartung y diseñada para competir con la Nintendo Game Boy</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Game Master è una console portatile prodotta da Hartung e progettata per competere con il Nintendo Game Boy</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ゲームマスターは、任天堂ゲームボーイに対抗するために設計された、ハルトゥング社製の携帯ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

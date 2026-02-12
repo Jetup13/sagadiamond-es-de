@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Commodore 64 es un ordenador doméstico de 8 bits presentado en enero de 1982 por Commodore International</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Il Commodore 64 è un home computer a 8 bit introdotto nel gennaio 1982 da Commodore International</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>コモドール64は、コモドールインターナショナルが1982年1月に発売した8ビットの家庭用コンピューターである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

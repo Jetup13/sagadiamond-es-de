@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>En 1976, los pioneros de la informática Steve Wozniak y Steve Jobs empezaron a vender su ordenador Apple I en forma de kit a las tiendas de informática</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Nel 1976, i pionieri del computer Steve Wozniak e Steve Jobs iniziarono a vendere il loro computer Apple I in kit nei negozi di informatica</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>1976年、コンピューターのパイオニアであるスティーブ・ウォズニアックとスティーブ・ジョブズは、アップルIをキットにしてコンピューターショップに売り始めた</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

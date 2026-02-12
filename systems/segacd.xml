@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Sega CD, lanzado como Mega-CD en la mayoría de las regiones fuera de Norteamérica y Brasil, es un accesorio de CD-ROM para la Mega Drive/Genesis diseñado y producido por Sega como parte de la cuarta generación de consolas de videojuegos</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Sega CD, pubblicato come Mega-CD nella maggior parte delle regioni al di fuori del Nord America e del Brasile, è un accessorio CD-ROM per il Mega Drive/Genesis progettato e prodotto da Sega come parte della quarta generazione di console per videogiochi</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>セガCDは、北米とブラジル以外のほとんどの地域ではメガCDとして発売され、ビデオゲーム機の第4世代の一部としてセガによって設計され、製造されたメガドライブ/ジェネシス用のCD-ROMアクセサリーである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El N-Gage es un teléfono inteligente que combina características de un teléfono móvil y un sistema de juegos portátil desarrollado por Nokia, anunciado el 4 de noviembre de 2002 y lanzado el 7 de octubre de 2003</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'N-Gage è uno smartphone che combina le caratteristiche di un telefono cellulare e di un sistema di gioco portatile sviluppato da Nokia, annunciato il 4 novembre 2002 e rilasciato il 7 ottobre 2003</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>N-Gageは、ノキアが開発した携帯電話と携帯ゲーム機の機能を併せ持つスマートフォンで、2002年11月4日に発表され、2003年10月7日に発売された</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

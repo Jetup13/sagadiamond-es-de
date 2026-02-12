@@ -4,7 +4,7 @@
 <text>Panasonic</text>
 </text>
 <text name="sys_line2">
-<text>3DO</text>
+<text>3DO Interactive Multiplayer</text>
 </text>
 <text name="shortdescription">
 <text>1993  ·  Home Console</text>
@@ -18,10 +18,6 @@
 <longdescription>The 3DO Interactive Multiplayer (often called simply the 3DO), is a home video game console platform developed by The 3DO Company</longdescription>
 </variables>
 </language>
-
-
-
-
 
 <language name="es_ES">
 <variables>
@@ -40,8 +36,6 @@
 <longdescription>Il 3DO Interactive Multiplayer (spesso chiamato semplicemente 3DO) è una console per videogiochi prodotta originariamente da Panasonic nel 1993</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>3DO Interactive Multiplayer（単に3DOと呼ばれることが多い）は、1993年にパナソニックが製造したビデオゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

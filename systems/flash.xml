@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Adobe Flash (anteriormente Macromedia Flash y FutureSplash) era una plataforma de software multimedia utilizada para la producción de animaciones, aplicaciones web sofisticadas, aplicaciones de escritorio, aplicaciones para móviles, juegos para móviles y reproductores de vídeo integrados en navegadores web</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Adobe Flash (precedentemente Macromedia Flash e FutureSplash) è una piattaforma software multimediale utilizzata per la produzione di animazioni, applicazioni web ricche, applicazioni desktop, applicazioni mobili, giochi mobili e lettori video incorporati nei browser web</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Adobe Flash（旧Macromedia FlashおよびFutureSplash）は、アニメーション、リッチWebアプリケーション、デスクトップアプリケーション、モバイルアプリケーション、モバイルゲーム、組み込みWebブラウザビデオプレーヤーの制作に使用されるマルチメディアソフトウェアプラットフォームである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

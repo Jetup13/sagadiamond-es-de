@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El CP System II (CPシステムII, shīpī shisutemu tsū) o CPS-2 es una placa de sistema arcade que Capcom utilizó por primera vez en 1993 para Super Street Fighter II</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il CP System II (CPシステムII, shīpī shisutemu tsū) o CPS-2 è una scheda di sistema arcade che Capcom utilizzò per la prima volta nel 1993 per Super Street Fighter II</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>CPシステムII（シーピーシステムツー、しーぴーしすてむつー）またはCPS-2は、カプコンが1993年に『スーパーストリートファイターII』で初めて採用したアーケードシステム基板である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

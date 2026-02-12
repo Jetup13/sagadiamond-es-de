@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Cassette Vision original de Epoch fue introducido en Japón por Epoch en 1981, tuvo unas ventas constantes y se hizo con el 70% del mercado japonés de consolas domésticas de la época, con unas 400</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'originale Cassette Vision è stato introdotto in Giappone da Epoch nel 1981 e ha registrato vendite costanti, conquistando il 70% del mercato giapponese delle console domestiche dell'epoca, con circa 400</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>1981年にエポック社から発売された初代カセットビジョンは安定したセールスを記録し、当時の日本の家庭用ゲーム機市場の7割を占め、約40万台を販売した</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Un juego arcade o coin-op es una máquina de entretenimiento que funciona con monedas y que suele instalarse en negocios públicos como restaurantes, bares y salones recreativos</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Una sala giochi o coin-op è una macchina per l'intrattenimento a gettoni tipicamente installata in esercizi pubblici come ristoranti, bar e sale giochi</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>アーケード・ゲームまたはコイン・ショップ（coin-op）とは、レストラン、バー、アミューズメント・アーケードなどの公共施設に一般的に設置されている、コインで作動する娯楽機器のことである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

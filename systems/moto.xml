@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La línea de ordenadores Thomson MOTO fue una serie de ordenadores de 8 bits vendidos en los años 80 por la empresa francesa de electrónica Thomson, nacionalizada en 1982</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>La linea di computer Thomson MOTO era una serie di computer a 8 bit venduti negli anni '80 dall'azienda elettronica francese Thomson, nazionalizzata nel 1982</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>トムソンMOTOシリーズは、1982年に国有化されたフランスのエレクトロニクス企業トムソンが1980年代に販売した8ビットコンピュータのシリーズである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

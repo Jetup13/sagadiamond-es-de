@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El British Broadcasting Corporation Microcomputer System, BBC Microcomputer System, o más conocido como BBC Micro es una serie de microordenadores diseñados por Acorn Computers Ltd</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il British Broadcasting Corporation Microcomputer System, BBC Microcomputer System, o meglio conosciuto come BBC Micro, è una serie di microcomputer progettati da Acorn Computers Ltd</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>英国放送協会マイクロコンピュータ・システム、BBCマイクロコンピュータ・システム、またはBBCマイクロとして最もよく知られているのは、エイコーン・コンピュータ社によって設計され、BBCによって販売されたマイクロコンピュータのシリーズである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

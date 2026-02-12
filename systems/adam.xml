@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Coleco Adam es un ordenador doméstico y un dispositivo de expansión para la ColecoVision del fabricante estadounidense de juguetes y videojuegos Coleco</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Coleco Adam è un home computer e un dispositivo di espansione per il ColecoVision del produttore americano di giocattoli e videogiochi Coleco</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Coleco Adamは、アメリカの玩具・ビデオゲームメーカーColecoによるColecoVision用の家庭用コンピュータおよび拡張デバイスである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

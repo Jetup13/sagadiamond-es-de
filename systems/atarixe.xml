@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Atari XE Video Game System (Atari XEGS) es un rediseño industrial del ordenador doméstico Atari 65XE y el último modelo de la familia Atari de 8 bits</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'Atari XE Video Game System (Atari XEGS) è una riprogettazione industriale dell'home computer Atari 65XE e il modello finale della famiglia Atari 8-bit</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>アタリXEビデオゲームシステム（Atari XEGS）は、アタリ65XEホームコンピュータの工業的再設計であり、アタリ8ビットファミリーの最終モデルである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>PICO-8 es una máquina virtual y un motor de juego creados por Lexaloffle Games</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>PICO-8 è una macchina virtuale e un motore di gioco creato da Lexaloffle Games</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>PICO-8は、Lexaloffle Gamesによって作られた仮想マシンとゲームエンジンです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

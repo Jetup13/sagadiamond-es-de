@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>The Nintendo DS or simply, DS, is a 32-bit dual-screen handheld game console developed and released by Nintendo</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Nintendo DS, o semplicemente DS, è una console portatile a doppio schermo a 32 bit sviluppata e pubblicata da Nintendo</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ニンテンドーDS（Nintendo DS）は、任天堂が開発・発売した32ビット2画面携帯ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

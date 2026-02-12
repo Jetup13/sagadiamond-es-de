@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Super Nintendo Entertainment System (también conocida como Super NES, SNES o Super Nintendo) es una videoconsola doméstica de 16 bits desarrollada por Nintendo que salió a la venta en 1990 en Japón, 1991 en Norteamérica, 1992 en Europa y Australasia (Oceanía) y 1993 en Sudamérica</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Super Nintendo Entertainment System (noto anche come Super NES, SNES o Super Nintendo) è una console per videogiochi domestici a 16 bit sviluppata da Nintendo e uscita nel 1990 in Giappone, nel 1991 in Nord America, nel 1992 in Europa e Australasia (Oceania) e nel 1993 in Sud America</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>スーパーファミコン（スーパーファミコン、SNES、スーパーファミコンとも）は、任天堂が開発した16ビットの家庭用ゲーム機で、日本では1990年、北米では1991年、ヨーロッパとオーストラレーシア（オセアニア）では1992年、南米では1993年に発売された</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

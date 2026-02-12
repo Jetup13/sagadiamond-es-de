@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Adventure Game Studio (AGS) es una herramienta de desarrollo de código abierto utilizada principalmente para crear aventuras gráficas</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Adventure Game Studio (AGS) è uno strumento di sviluppo open source utilizzato principalmente per creare giochi di avventura grafica</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Adventure Game Studio（AGS）は、主にグラフィックアドベンチャーゲームの制作に使用されるオープンソースの開発ツールである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

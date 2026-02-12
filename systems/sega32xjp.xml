@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La 32X es un complemento para la videoconsola Sega Mega Drive/Genesis</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il 32X è un componente aggiuntivo per la console per videogiochi Sega Mega Drive/Genesis</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>32Xは、セガのゲーム機メガドライブ/ジェネシス用のアドオンである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

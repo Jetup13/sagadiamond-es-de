@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Un reproductor de vídeo es un programa informático que permite reproducir archivos de vídeo digital y admite varios formatos y códecs para una visualización fluida</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Un lettore video è un software che consente la riproduzione di file video digitali, supportando vari formati e codec per una visione fluida.</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ビデオプレーヤーは、デジタルビデオファイルの再生を可能にするソフトウェアであり、スムーズな視聴のために様々なフォーマットやコーデックをサポートしている</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

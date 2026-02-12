@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Commodore VIC-20 (conocido como VC-20 en Alemania y VIC-1001 en Japón) es un ordenador doméstico de 8 bits comercializado por Commodore Business Machines</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Il Commodore VIC-20 (noto come VC-20 in Germania e VIC-1001 in Giappone) è un home computer a 8 bit venduto da Commodore Business Machines</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>コモドールVIC-20（ドイツではVC-20、日本ではVIC-1001として知られる）は、コモドール・ビジネス・マシーンズが販売していた8ビットの家庭用コンピュータである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

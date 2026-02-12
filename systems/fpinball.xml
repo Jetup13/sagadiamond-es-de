@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Future Pinball ("FP") es una aplicación gratuita de edición y juego de pinball en 3D para Microsoft Windows</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Future Pinball ("FP") è un'applicazione freeware di editing e gioco di flipper 3D per Microsoft Windows</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Future Pinball ("FP") は、Microsoft Windows用のフリーウェアの3Dピンボール編集・ゲームアプリケーションです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Vircon32 es una consola virtual inspirada en los sistemas clásicos de 16 y 32 bits, así como en la era de los juegos arcade</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Vircon32 è una console virtuale ispirata ai sistemi classici a 16 e 32 bit, così come all'era arcade</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Vircon32は、クラシックな16ビットおよび32ビットシステム、そしてアーケード時代にインスパイアされた仮想コンソールです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

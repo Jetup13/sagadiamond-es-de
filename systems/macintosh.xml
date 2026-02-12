@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Macintosh (principalmente Mac desde 1998) es una familia de ordenadores personales diseñados, fabricados y vendidos por Apple Inc</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Macintosh (principalmente Mac dal 1998) è una famiglia di personal computer progettati, prodotti e venduti da Apple Inc</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>マッキントッシュ（1998年以降は主にMac）は、アップル社（当初はアップルコンピュータ社）が1984年1月から設計・製造・販売しているパーソナルコンピュータのファミリー</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

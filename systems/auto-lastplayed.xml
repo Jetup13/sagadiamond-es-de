@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Consulta los juegos que has jugado recientemente en toda la biblioteca</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Visualizzare i giochi giocati di recente nell'intera libreria</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>最近プレイしたゲームをライブラリ全体で表示</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

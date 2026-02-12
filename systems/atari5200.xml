@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Atari 5200 SuperSystem, comúnmente conocida como Atari 5200, es una videoconsola de segunda generación (1976-1992) desarrollada y distribuida por Atari, Inc</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>L'Atari 5200 SuperSystem, comunemente noto come Atari 5200, è una console per videogiochi di seconda generazione (1976-1992) sviluppata e distribuita da Atari, Inc</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>アタリ5200スーパーシステム（Atari 5200 SuperSystem）、通称アタリ5200は、アタリ社が開発・販売した第2世代（1976年～1992年）のビデオゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

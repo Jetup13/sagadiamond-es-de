@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Daphne es una aplicación emuladora de arcade que emula una gran variedad de videojuegos de laserdisc con la intención de preservar estos juegos y hacer que la experiencia de juego sea lo más fiel posible a los originales</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Daphne è un'applicazione di emulazione arcade che emula una serie di videogiochi laserdisc con l'intento di preservare questi giochi e rendere l'esperienza di gioco il più fedele possibile agli originali</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Daphneは、様々なレーザーディスクビデオゲームをエミュレートするアーケードエミュレータアプリケーションです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

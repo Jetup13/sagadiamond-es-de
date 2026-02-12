@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Wii (conocida extraoficialmente como Nintendo Wii) es una videoconsola doméstica lanzada por Nintendo el 19 de noviembre de 2006</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>La Wii (conosciuta non ufficialmente come Nintendo Wii) è una console per videogiochi domestica rilasciata da Nintendo il 19 novembre 2006</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Wiiは、2006年11月19日に任天堂から発売された家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

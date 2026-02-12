@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La V</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il V</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>V</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

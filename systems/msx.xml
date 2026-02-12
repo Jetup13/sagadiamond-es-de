@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>MSX es una arquitectura estandarizada de ordenadores domésticos, anunciada por Microsoft y ASCII Corporation el 16 de junio de 1983</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>MSX è un'architettura standardizzata per home computer, annunciata da Microsoft e ASCII Corporation il 16 giugno 1983</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>MSXは、1983年6月16日にマイクロソフトと株式会社アスキーによって発表された、標準化された家庭用コンピュータのアーキテクチャである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

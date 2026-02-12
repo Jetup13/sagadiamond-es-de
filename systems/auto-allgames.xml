@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Visualiza y juega a todos los juegos de tu biblioteca</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Visualizzate e giocate a tutti i giochi della vostra libreria</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ライブラリ全体のすべてのゲームを表示し、再生します</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

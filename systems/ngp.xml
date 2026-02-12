@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Neo Geo Pocket es una consola portátil monocroma lanzada por SNK</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Neo Geo Pocket è una console di gioco portatile monocromatica pubblicata da SNK</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ネオジオポケットはSNKから発売されたモノクロの携帯ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

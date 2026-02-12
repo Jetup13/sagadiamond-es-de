@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) es un conjunto de recreaciones de motores de juego</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) è un insieme di ricreazioni di motori di gioco</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) は、ゲームエンジンの再現セットです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

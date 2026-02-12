@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Los Dragon 32 y Dragon 64 son ordenadores domésticos fabricados en la década de 1980</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Dragon 32 e il Dragon 64 sono home computer costruiti negli anni '80</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ドラゴン32とドラゴン64は1980年代に作られた家庭用コンピュータである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Satellaview es un periférico de módem por satélite para la consola Super Famicom de Nintendo que salió a la venta en Japón en 1995</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Il Satellaview è una periferica per modem satellitare per la console Super Famicom di Nintendo, rilasciata in Giappone nel 1995</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Satellaviewは、1995年に日本で発売された任天堂のスーパーファミコン用の衛星モデム周辺機器である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

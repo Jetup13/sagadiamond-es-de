@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La PlayStation 3 (PS3) es una videoconsola doméstica desarrollada por Sony Computer Entertainment</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>La PlayStation 3 (PS3) è una console per videogiochi domestica sviluppata da Sony Computer Entertainment</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>プレイステーション3（PS3）は、ソニー・コンピュータエンタテインメントが開発した家庭用ゲーム機</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

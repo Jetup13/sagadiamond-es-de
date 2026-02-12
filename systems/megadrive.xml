@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Mega Drive es una videoconsola doméstica de 16 bits de cuarta generación desarrollada y comercializada por Sega</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Mega Drive è una console per videogiochi domestici di quarta generazione a 16 bit sviluppata e venduta da Sega</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>メガドライブは、セガが開発・販売した16ビットの第4世代家庭用ゲーム機</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

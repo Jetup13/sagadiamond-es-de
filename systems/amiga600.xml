@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Amiga es una familia de ordenadores personales comercializados por Commodore en las décadas de 1980 y 1990</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Amiga è una famiglia di personal computer commercializzata da Commodore negli anni '80 e '90</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>アミーガは、1980年代から1990年代にかけてコモドール社が販売したパーソナルコンピュータのファミリーである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Visual Pinball es un motor de videojuegos gratuito y de código fuente disponible para mesas de pinball y juegos similares, como las máquinas pachinko</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Visual Pinball è un motore di videogiochi freeware e disponibile alla fonte per tavoli da flipper e giochi simili, come le macchine da pachinko</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Visual Pinballは、ピンボール台やパチンコ台のような類似ゲーム用の、フリーウェアでソースが利用可能なビデオゲームエンジンです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

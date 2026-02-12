@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>ZX Spectrum Next es un ordenador doméstico de 8 bits, lanzado inicialmente en 2017, que es compatible con el software y el hardware del ZX Spectrum de 1982</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>ZX Spectrum Next è un home computer a 8 bit, rilasciato inizialmente nel 2017, compatibile con software e hardware dello ZX Spectrum del 1982</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ZX Spectrum Nextは、1982年発売のZX Spectrum用のソフトウェアとハードウェアと互換性のある、2017年に発売された8ビットの家庭用コンピューターである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

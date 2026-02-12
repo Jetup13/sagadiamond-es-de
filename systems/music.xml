@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Un reproductor de música es un programa informático que reproduce archivos de audio y admite varios formatos y códecs para escucharlos sin problemas</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Un lettore musicale è un software che riproduce file audio, supportando vari formati e codec per un ascolto senza interruzioni</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>音楽プレーヤーは、オーディオファイルを再生するソフトウェアで、シームレスに聴くための様々なフォーマットやコーデックをサポートしています</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

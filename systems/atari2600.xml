@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Atari Video Computer System (VCS), posteriormente denominado Atari 2600, es una videoconsola doméstica de segunda generación (1976-1992) desarrollada y distribuida por Atari, Inc</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>L'Atari Video Computer System (VCS), successivamente denominato Atari 2600, è una console per videogiochi domestica di seconda generazione (1976-1992) sviluppata e distribuita da Atari, Inc</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>アタリ・ビデオ・コンピュータ・システム（VCS）は、後にアタリ2600と名付けられ、アタリ社が開発・販売した第2世代（1976年～1992年）の家庭用ビデオゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

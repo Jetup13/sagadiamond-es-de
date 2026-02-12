@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Amiga CD32, conocida como "CD32" y con el nombre en clave "Spellbound", es la primera videoconsola doméstica de 32 bits comercializada en Europa occidental, Australia, Canadá y Brasil</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'Amiga CD32, con lo stile "CD32" e il nome in codice "Spellbound", è la prima console per videogiochi domestica a 32 bit rilasciata in Europa occidentale, Australia, Canada e Brasile</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>AmigaのCD32は「CD32」というスタイルで、コードネームは「Spellbound」、西ヨーロッパ、オーストラリア、カナダ、ブラジルで発売された最初の32ビット家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

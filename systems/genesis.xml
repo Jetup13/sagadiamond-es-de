@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Sega Genesis, conocida como Mega Drive en la mayoría de las regiones fuera de Norteamérica, es una videoconsola doméstica de 16 bits desarrollada y comercializada por Sega Enterprises, Ltd</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Sega Genesis, noto come Mega Drive nella maggior parte delle regioni al di fuori del Nord America, è una console per videogiochi domestica a 16 bit sviluppata e venduta dalla Sega Enterprises, Ltd</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>セガ・ジェネシス（北米以外のほとんどの地域ではメガドライブとして知られている）は、セガ・エンタープライゼス社が開発・販売した16ビットの家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

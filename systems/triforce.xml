@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Triforce (トライフォース) es una placa arcade desarrollada en una empresa conjunta entre Sega, Nintendo y Namco</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>The Triforce (トライフォース) è una scheda arcade sviluppata in una joint venture tra Sega, Nintendo e Namco</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>トライフォース（トライフォース）は、セガ、任天堂、ナムコの共同事業で開発されたアーケード基板</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

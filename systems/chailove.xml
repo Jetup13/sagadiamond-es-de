@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>ChaiLove es un impresionante framework que puedes usar para hacer juegos 2D en ChaiScript</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>ChaiLove è un framework fantastico che si può usare per creare giochi 2D in ChaiScript</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>ChaiLoveはChaiScriptで2Dゲームを作るための素晴らしいフレームワークです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

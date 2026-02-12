@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Los juegos arcade LaserDisc utilizan vídeo pregrabado, ya sea en combinación con sprites superpuestos o simplemente como secciones de vídeo controlables por el jugador</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>I giochi arcade LaserDisc utilizzano video preregistrati, in combinazione con sprite sovrapposti o semplicemente come sezioni di video controllabili dal giocatore</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>レーザーディスクのアーケードゲームでは、録画済みのビデオが使用され、重ね合わせたスプライトと組み合わせたり、単にプレイヤーが操作可能なビデオのセクションとして使用される</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

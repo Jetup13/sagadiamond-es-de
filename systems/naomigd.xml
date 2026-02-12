@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El NAOMI (New Arcade Operation Machine Idea) es un sistema arcade lanzado por Sega en 1998</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il NAOMI (New Arcade Operation Machine Idea) è un sistema arcade rilasciato da Sega nel 1998</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>NAOMI（New Arcade Operation Machine Idea）は、1998年にセガから発売されたアーケードシステム</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

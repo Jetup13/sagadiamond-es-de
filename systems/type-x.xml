@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Taito Type X es una placa de sistema arcade lanzada en 2004 por el desarrollador y editor de juegos Taito</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Taito Type X è una scheda di sistema arcade rilasciata nel 2004 dallo sviluppatore ed editore di giochi Taito</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>タイトータイプXは、ゲーム開発・発売元のタイトーが2004年に発売したアーケード用システム基板</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

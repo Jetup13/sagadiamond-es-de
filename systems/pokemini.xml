@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Pokémon Mini es una videoconsola portátil diseñada y fabricada por Nintendo en torno a la franquicia Pokémon</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Pokémon Mini è una console portatile progettata e prodotta da Nintendo e incentrata sul franchise mediatico dei Pokémon</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>ポケモンミニは、任天堂が企画・製造した、ポケモンをテーマにした携帯ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

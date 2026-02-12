@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El ZX Spectrum es un ordenador personal doméstico de 8 bits lanzado en el Reino Unido en 1982 por Sinclair Research Ltd</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Lo ZX Spectrum è un personal computer a 8 bit rilasciato nel Regno Unito nel 1982 dalla Sinclair Research Ltd</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ZX Spectrumは、Sinclair Research Ltd</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

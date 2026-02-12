@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Este proyecto de código fuente disponible se basa en FinalBurn, creado por Dave en 2000</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Questo progetto disponibile in formato sorgente è basato su FinalBurn, creato da Dave nel 2000</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>このソース公開プロジェクトは、2000年にDaveによって作られたFinalBurnをベースにしています</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

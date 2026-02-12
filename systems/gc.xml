@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Nintendo GameCube es una videoconsola doméstica lanzada por Nintendo en Japón y Norteamérica en 2001 y en territorios PAL en 2002</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Nintendo GameCube è una console per videogiochi domestica pubblicata da Nintendo in Giappone e Nord America nel 2001 e nei territori PAL nel 2002</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ニンテンドーゲームキューブは、任天堂が2001年に日本と北米で、2002年にPAL地域で発売した家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

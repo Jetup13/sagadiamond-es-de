@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Solarus se diseñó específicamente pensando en los clásicos RPG de acción en 2D de culto, como The Legend of Zelda: A Link to the Past y Secret of Mana para Super Nintendo, o Soleil para Sega Megadrive/Genesis</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Solarus è stato progettato pensando ai classici action-RPG 2D di culto, come The Legend of Zelda: A Link to the Past e Secret of Mana per Super Nintendo, o Soleil per Sega Megadrive/Genesis</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Solarusは、スーパーファミコンの『ゼルダの伝説 過去へのリンク』や『シークレット オブ マナ』、セガ・メガドライブ／ジェネシスの『ソレイユ』など、カルト的な2DアクションRPGの名作を念頭に置いて特別にデザインされた</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

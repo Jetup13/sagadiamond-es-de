@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Los juegos electrónicos portátiles son dispositivos muy pequeños y portátiles para jugar a juegos electrónicos interactivos, a menudo versiones miniaturizadas de videojuegos</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>I giochi elettronici portatili sono dispositivi molto piccoli e portatili per giocare a giochi elettronici interattivi, spesso versioni miniaturizzate di videogiochi</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>携帯型電子ゲームは、インタラクティブな電子ゲームをプレイするための非常に小型の携帯機器であり、ビデオゲームの小型版であることが多い</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

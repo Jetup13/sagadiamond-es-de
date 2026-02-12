@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Windows es un grupo de varias familias de sistemas operativos gráficos patentados desarrollados y comercializados por Microsoft</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Windows è un gruppo di diverse famiglie di sistemi operativi grafici proprietari sviluppati e commercializzati da Microsoft</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ウィンドウズは、マイクロソフト社が開発・販売する、いくつかの独自のグラフィカル・オペレーティング・システム・ファミリーのグループである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

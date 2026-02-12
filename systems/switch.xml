@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Nintendo Switch es una videoconsola doméstica de octava generación (2012-presente) desarrollada y distribuida por Nintendo</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Nintendo Switch è una console per videogiochi domestici di ottava generazione (2012-presente) sviluppata e distribuita da Nintendo</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Nintendo Switch（ニンテンドースイッチ）は、任天堂が開発・販売する第8世代（2012年～）の家庭用ゲーム機</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

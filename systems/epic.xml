@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Epic Games Store es una tienda digital de videojuegos para Microsoft Windows y macOS, operada por Epic Games</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'Epic Games Store è un negozio digitale di videogiochi per Microsoft Windows e macOS, gestito da Epic Games</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Epic Games Storeは、Epic Gamesが運営するMicrosoft WindowsおよびmacOS向けのデジタルビデオゲームストアである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

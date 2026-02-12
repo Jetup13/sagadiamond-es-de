@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Wii U (WEE YOO) es una videoconsola doméstica desarrollada por Nintendo como sucesora de la Wii</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>La Wii U (WEE YOO) è una console per videogiochi domestica sviluppata da Nintendo come successore della Wii</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Wii U（WEE YOO）は、任天堂がWiiの後継機として開発した家庭用ゲーム機</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

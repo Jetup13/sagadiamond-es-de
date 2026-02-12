@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Sega Saturn es una videoconsola doméstica desarrollada por Sega y lanzada el 22 de noviembre de 1994 en Japón, el 11 de mayo de 1995 en Norteamérica y el 8 de julio de 1995 en Europa</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Sega Saturn è una console per videogiochi domestica sviluppata da Sega e rilasciata il 22 novembre 1994 in Giappone, l'11 maggio 1995 in Nord America e l'8 luglio 1995 in Europa</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>セガサターンはセガが開発した家庭用ゲーム機で、日本では1994年11月22日、北米では1995年5月11日、ヨーロッパでは1995年7月8日に発売された</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

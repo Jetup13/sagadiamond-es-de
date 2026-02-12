@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Quake es un juego de disparos en primera persona desarrollado por id Software y publicado por GT Interactive</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Quake è uno sparatutto in prima persona sviluppato da id Software e pubblicato da GT Interactive</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Quakeはid Softwareが開発し、GT Interactiveが発売したファーストパーソンシューティングゲームである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

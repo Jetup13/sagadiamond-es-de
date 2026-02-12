@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Doom es un juego de disparos en primera persona (FPS) de 1993 desarrollado por id Software para MS-DOS</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Doom è un gioco sparatutto in prima persona (FPS) del 1993 sviluppato da id Software per MS-DOS</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Doomは1993年にid SoftwareによってMS-DOS向けに開発された一人称視点のシューティングゲーム（FPS）である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

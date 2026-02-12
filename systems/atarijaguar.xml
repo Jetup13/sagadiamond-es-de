@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Atari Jaguar es una videoconsola de quinta generación (1993-2005) desarrollada y distribuida por Atari Corporation</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'Atari Jaguar è una console per videogiochi di quinta generazione (1993-2005) sviluppata e distribuita da Atari Corporation</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>アタリ・ジャガー（Atari Jaguar）は、アタリ社が開発・販売した第5世代（1993年〜2005年）のビデオゲーム機</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

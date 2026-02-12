@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Sony PlayStation, o PS para abreviar, es una videoconsola doméstica de quinta generación (1993-2005) desarrollada y distribuida por Sony Interactive Entertainment</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>La Sony PlayStation, o PS in breve, è una console per videogiochi domestica di quinta generazione (1993-2005) sviluppata e distribuita da Sony Interactive Entertainment</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ソニーのプレイステーション、略してPSは、ソニー・インタラクティブエンタテインメントが開発・販売する第5世代（1993年～2005年）の家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

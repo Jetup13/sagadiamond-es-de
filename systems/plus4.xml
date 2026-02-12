@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Commodore Plus/4 es un ordenador doméstico lanzado por Commodore International en 1984</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Commodore Plus/4 è un home computer rilasciato da Commodore International nel 1984</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>コモドールプラス/4は、コモドールインターナショナルが1984年に発売した家庭用コンピュータ</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

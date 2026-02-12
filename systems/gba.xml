@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Game Boy Advance (abreviada como GBA) es una videoconsola portátil de 32 bits desarrollada, fabricada y comercializada por Nintendo como sucesora de la Game Boy Color</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Game Boy Advance (abbreviato in GBA) è una console portatile per videogiochi a 32 bit sviluppata, prodotta e commercializzata da Nintendo come successore del Game Boy Color</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ゲームボーイアドバンス（略称：GBA）は、任天堂がゲームボーイカラーの後継機として開発・製造・販売した32ビット携帯型ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

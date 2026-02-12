@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Oric fue el nombre utilizado por Tangerine Computer Systems, con sede en el Reino Unido, para una serie de ordenadores domésticos basados en 6502 que se vendieron en la década de 1980, principalmente en Europa</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Oric è il nome utilizzato da Tangerine Computer Systems, società con sede nel Regno Unito, per una serie di home computer basati su 6502 venduti negli anni '80, principalmente in Europa</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Oricは、イギリスのTangerine Computer Systemsが1980年代に主にヨーロッパで販売した6502ベースの家庭用コンピュータのシリーズに使用した名前である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

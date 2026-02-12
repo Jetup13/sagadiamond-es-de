@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El MSX Turbo R es la última generación de ordenadores MSX que sacó al mercado una marca de electrónica doméstica</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'MSX Turbo R è l'ultima generazione di computer MSX immessa sul mercato da un marchio di elettronica familiare</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>MSXターボRは、家庭用電子機器ブランドによって市場に投入されたMSXコンピュータの最後の世代である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Atari ST es una línea de ordenadores domésticos de Atari Corporation y el sucesor de la familia Atari 8-bit</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>L'Atari ST è una linea di home computer di Atari Corporation e il successore della famiglia Atari 8-bit</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>アタリSTはアタリ社の家庭用コンピュータで、アタリ8ビットファミリーの後継機種である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

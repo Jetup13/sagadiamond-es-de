@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Nintendo 3DS, abreviada 3DS, es una videoconsola portátil fabricada por Nintendo</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Nintendo 3DS, abbreviato in 3DS, è una console di gioco portatile prodotta da Nintendo</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ニンテンドー3DS、略称3DSは、任天堂が製造する携帯ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>MS-DOS, abreviatura de Microsoft Disk Operating System, era un sistema operativo para ordenadores personales basados en x86 desarrollado principalmente por Microsoft</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>MS-DOS, abbreviazione di Microsoft Disk Operating System, era un sistema operativo per personal computer basati su x86, sviluppato principalmente da Microsoft</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>MS-DOS（エムエスドス）は、Microsoft Disk Operating System（マイクロソフト・ディスク・オペレーティング・システム）の略で、主にマイクロソフトが開発したx86ベースのパーソナルコンピュータ用のオペレーティングシステムである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

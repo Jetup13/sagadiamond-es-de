@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El RadioShack TRS-80 Color Computer, posteriormente comercializado como Tandy Color Computer y a veces apodado CoCo, es una línea de ordenadores domésticos desarrollados y vendidos por Tandy Corporation</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il RadioShack TRS-80 Color Computer, successivamente commercializzato come Tandy Color Computer e talvolta soprannominato CoCo, è una linea di home computer sviluppata e venduta da Tandy Corporation</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ラジオシャックTRS-80カラーコンピュータ（後にタンディカラーコンピュータとして販売され、CoCoの愛称で呼ばれることもある）は、タンディ社が開発・販売した家庭用コンピュータのラインである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

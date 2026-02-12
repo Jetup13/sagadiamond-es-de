@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Atari Lynx, normalmente conocida como Lynx, es una videoconsola portátil de cuarta generación (1987-2004) desarrollada en colaboración con Epyx, Inc</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>L'Atari Lynx, solitamente indicato come Lynx, è una console portatile per videogiochi di quarta generazione (1987-2004) sviluppata in collaborazione con Epyx, Inc</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>アタリ・リンクス（Atari Lynx）は通常リンクスと呼ばれ、第4世代（1987年～2004年）の携帯ゲーム機で、エピックス社（Epyx, Inc）と共同で開発され、アタリ社（Atari Corporation）によって販売されました</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

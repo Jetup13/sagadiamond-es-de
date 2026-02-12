@@ -1,7 +1,10 @@
 <theme>
 <view name="system">
+<text name="sys_line1">
+<text>Bandai</text>
+</text>
 <text name="sys_line2">
-<text>Wonderswan</text>
+<text>WonderSwan</text>
 </text>
 <text name="shortdescription">
 <text>1999  ·  Handheld Console</text>
@@ -15,10 +18,6 @@
 <longdescription>The WonderSwan is a handheld game console released in Japan by Bandai. It was developed by Gunpei Yokoi's company Koto Laboratory and Bandai</longdescription>
 </variables>
 </language>
-
-
-
-
 
 <language name="es_ES">
 <variables>
@@ -37,8 +36,6 @@
 <longdescription>Il WonderSwan è una console portatile rilasciata in Giappone da Bandai</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +72,6 @@
 <longdescription>ワンダースワンは、バンダイが日本で発売した携帯ゲーム機</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

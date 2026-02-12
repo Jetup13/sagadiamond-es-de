@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>EasyRPG es un motor libre y de código abierto para crear juegos RPG, que pretende ser también compatible con todos los juegos RPG Maker 2000 y RPG Maker 2003</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>EasyRPG è un motore gratuito e open source per la creazione di giochi RPG, con l'obiettivo di essere compatibile anche con tutti i giochi RPG Maker 2000 e RPG Maker 2003</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>EasyRPGはフリーでオープンソースのRPGゲーム作成エンジンで、RPGツクール2000とRPGツクール2003のすべてのゲームとの互換性を目指しています</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

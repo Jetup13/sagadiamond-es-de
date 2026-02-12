@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Lutris es un gestor de juegos libre y de código abierto para sistemas operativos basados en Linux desarrollado y mantenido por Mathieu Comandon y la comunidad, publicado bajo la Licencia Pública General GNU</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Lutris è un gestore di giochi libero e open source per sistemi operativi basati su Linux, sviluppato e mantenuto da Mathieu Comandon e dalla comunità, rilasciato sotto la GNU General Public License</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Lutrisは、Mathieu Comandonとコミュニティによって開発・保守されているLinuxベースのオペレーティングシステム用のフリーでオープンソースのゲームマネージャーであり、GNU General Public Licenseの下でリリースされています</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>A principios de la década de 2000, los fabricantes de sistemas arcade empezaron a alejarse de los diseños de placas personalizadas y, como parte de este cambio, muchos adaptaron la arquitectura estándar de los PC</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>All'inizio degli anni 2000 i produttori di sistemi arcade hanno iniziato ad abbandonare la progettazione di schede personalizzate e, nell'ambito di questo cambiamento, molti hanno adattato l'architettura standard dei PC</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>2000年代初頭、アーケード・システム・メーカーはカスタム基板設計から脱却し始め、その一環として多くのメーカーが標準的なPCアーキテクチャを採用した</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Family Computer Disk System, a veces abreviado como Famicom Disk System o simplemente Disk System, y abreviado como FDS o FCD, es un periférico para la videoconsola doméstica Family Computer de Nintendo, que salió a la venta en Japón el 21 de febrero de 1986</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Family Computer Disk System, talvolta abbreviato in Famicom Disk System o semplicemente Disk System e abbreviato in FDS o FCD, è una periferica per la console per videogiochi domestica Family Computer di Nintendo, uscita in Giappone il 21 febbraio 1986</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>ファミリーコンピュータ ディスクシステム（Family Computer Disk System）は、1986年2月21日に日本で発売された任天堂の家庭用ゲーム機「ファミリーコンピュータ」の周辺機器である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

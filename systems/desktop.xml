@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Ver y ejecutar los accesos directos del Escritorio</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Visualizzare ed eseguire i collegamenti al desktop</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>デスクトップショートカットの表示と実行</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

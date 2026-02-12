@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Acorn Electron (apodado Elk dentro de Acorn y más allá) era una alternativa de menor coste al ordenador educativo/doméstico BBC Micro, también desarrollado por Acorn Computers Ltd, para ofrecer muchas de las características de esa máquina más cara a un precio más competitivo con el del ZX Spectrum</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'Acorn Electron (soprannominato Elk all'interno di Acorn e non solo) era un'alternativa a basso costo al computer educativo/casa BBC Micro, anch'esso sviluppato da Acorn Computers Ltd, per fornire molte delle caratteristiche di quella macchina più costosa a un prezzo più competitivo con quello dello ZX Spectrum</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>エイコーン・エレクトロン（エイコーン社内およびそれ以外での愛称はエルク）は、同じくエイコーン・コンピュータ社によって開発された教育用/家庭用コンピュータBBC Microに代わる廉価版で、より高価なBBC Microの機能の多くを、ZX Spectrumに匹敵する価格で提供した</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

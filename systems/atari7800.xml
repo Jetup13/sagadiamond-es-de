@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Atari 7800 Pro System, comúnmente conocida como Atari 7800, es una videoconsola de tercera generación (1983-2003) desarrollada y distribuida por Atari Corporation</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>L'Atari 7800 Pro System, comunemente noto come Atari 7800, è una console per videogiochi di terza generazione (1983-2003) sviluppata e distribuita da Atari Corporation</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>アタリ7800プロシステム、通称アタリ7800は、アタリ社が開発・販売した第3世代（1983年～2003年）のビデオゲーム機です</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

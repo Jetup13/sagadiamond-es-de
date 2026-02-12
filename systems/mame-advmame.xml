@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>AdvanceMAME, es un port de los emuladores MAME 0</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>AdvanceMAME è un porting degli emulatori MAME 0</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>AdvanceMAMEは、MAME 0</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

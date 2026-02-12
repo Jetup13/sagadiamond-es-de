@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Sega Model 2 es una placa de sistema arcade originalmente debutada por Sega en 1993 como sucesora de la Sega Model 1</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Sega Model 2 è una scheda di sistema arcade originariamente presentata da Sega nel 1993 come successore della scheda Sega Model 1</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>セガ・モデル2は、セガ・モデル1の後継機として1993年にセガからデビューしたアーケードシステム基板である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

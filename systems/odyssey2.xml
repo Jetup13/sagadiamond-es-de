@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Magnavox Odyssey 2 es una videoconsola doméstica de segunda generación (1976-1992) desarrollada y distribuida por Magnavox</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Magnavox Odyssey 2 è una console per videogiochi domestici di seconda generazione (1976-1992) sviluppata e distribuita da Magnavox</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>マグナボックス・オデッセイ2は、マグナボックスが開発・販売した第2世代（1976年〜1992年）の家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

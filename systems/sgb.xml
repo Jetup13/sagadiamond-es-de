@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) es un periférico que permite jugar con cartuchos de Game Boy en una consola Super Nintendo Entertainment System, compatible con los mismos cartuchos que la Game Boy original: cartuchos de Game Boy original, la Game Boy Camera y cartuchos de Game Boy Color de modo dual (en modo Game Boy)</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) è una periferica che consente di giocare con le cartucce Game Boy su una console Super Nintendo Entertainment System, compatibile con le stesse cartucce del Game Boy originale: cartucce Game Boy originali, Game Boy Camera e cartucce Game Boy Color dual-mode (in modalità Game Boy)</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>スーパーゲームボーイ（スーパーゲームボーイ、Sūpā Gēmu Bôi）は、ゲームボーイカートリッジをスーパーファミコンで遊べるようにする周辺機器で、初代ゲームボーイと同じカートリッジ（初代ゲームボーイカートリッジ、ゲームボーイカメラ、デュアルモードのゲームボーイカラーカートリッジ（ゲームボーイモード））に対応している</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Kodi es una aplicación de software de reproducción multimedia gratuita y de código abierto desarrollada por la Fundación XBMC, un consorcio tecnológico sin ánimo de lucro</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Kodi è un'applicazione software per lettori multimediali gratuita e open-source sviluppata dalla XBMC Foundation, un consorzio tecnologico senza scopo di lucro</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Kodiは、非営利の技術コンソーシアムであるXBMC財団によって開発されたフリーでオープンソースのメディアプレーヤーソフトウェアアプリケーションです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

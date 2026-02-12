@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>LowRes NX se inspira en los sistemas reales de 8 y 16 bits y simula chips para gráficos, sonido y E/S, que funcionan realmente como el hardware clásico</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>LowRes NX si ispira ai sistemi reali a 8 e 16 bit e simula i chip per la grafica, il suono e l'I/O, che funzionano effettivamente come l'hardware classico</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>LowRes NXは、本物の8ビットおよび16ビットシステムにインスパイアされ、グラフィック、サウンド、I/O用のチップをシミュレートしており、実際にクラシックなハードウェアのように動作します</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

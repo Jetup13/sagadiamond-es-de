@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Sega Master System es una videoconsola doméstica de 8 bits de tercera generación fabricada por Sega</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Sega Master System è una console per videogiochi domestici a 8 bit di terza generazione prodotta da Sega</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>セガ・マスターシステムは、セガが製造した第3世代の8ビット家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

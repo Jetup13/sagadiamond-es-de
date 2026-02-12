@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La SG-1000 es una videoconsola doméstica fabricada por Sega y comercializada en Japón, Australia, Nueva Zelanda y otras regiones</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'SG-1000 è una console per videogiochi domestica prodotta da Sega e distribuita in Giappone, Australia, Nuova Zelanda e altre regioni</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>SG-1000は、セガが製造し、日本、オーストラリア、ニュージーランドなどで発売された家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

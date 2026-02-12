@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La familia Atari de 8 bits es una serie de ordenadores domésticos de 8 bits presentada por Atari, Inc</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>La famiglia Atari 8-bit è una serie di home computer a 8 bit introdotta da Atari, Inc</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>アタリ8ビットファミリーは、アタリ社が1979年にアタリ400とアタリ800として発表し、1992年まで製造した8ビット家庭用コンピュータのシリーズである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

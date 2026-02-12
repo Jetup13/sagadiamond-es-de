@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>MAME (acrónimo de Multiple Arcade Machine Emulator) es un emulador gratuito y de código abierto diseñado para recrear el hardware de los sistemas de juegos arcade en software en ordenadores personales modernos y otras plataformas</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>MAME (già acronimo di Multiple Arcade Machine Emulator) è un emulatore gratuito e open-source progettato per ricreare l'hardware dei sistemi di gioco arcade nel software dei moderni personal computer e di altre piattaforme</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>MAME（旧称：Multiple Arcade Machine Emulator）は、アーケードゲームシステムのハードウェアを、現代のパソコンやその他のプラットフォーム上でソフトウェア的に再現するために設計された、フリーでオープンソースのエミュレータである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

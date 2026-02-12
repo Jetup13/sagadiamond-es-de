@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>PalmPilot Personal y PalmPilot Professional son la segunda generación de dispositivos PDA Palm producidos por Palm Inc (entonces filial de U</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Il PalmPilot Personal e il PalmPilot Professional sono la seconda generazione di dispositivi Palm PDA prodotti da Palm Inc (allora filiale di U</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>PalmPilot PersonalとPalmPilot Professionalは、Palm Inc（当時はU</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

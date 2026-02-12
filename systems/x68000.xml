@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El X68000 (japonés: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) es un ordenador doméstico creado por Sharp Corporation, lanzado por primera vez en 1987, vendido sólo en Japón</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'X68000 (giapponese: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) è un home computer creato da Sharp Corporation, uscito per la prima volta nel 1987 e venduto solo in Giappone</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>X68000（エックス68000、日本語：エックスろくまんはっせん、英語：Ekkusu Rokuman Hassen）は、1987年に発売されたシャープ製の家庭用コンピュータで、日本でのみ販売された</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

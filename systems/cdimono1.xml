@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Philips CD-i (Compact Disc Interactive) es un reproductor de CD multimedia interactivo desarrollado y comercializado por Royal Philips Electronics N</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Philips CD-i (Compact Disc Interactive) è un lettore CD multimediale interattivo sviluppato e commercializzato da Royal Philips Electronics N</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Philips CD-i（Compact Disc Interactive）は、Royal Philips Electronics N</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

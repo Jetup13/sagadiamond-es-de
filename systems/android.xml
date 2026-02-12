@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Android es un sistema operativo móvil basado en una versión modificada del núcleo de Linux y otro software de código abierto, diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes y tabletas</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Android è un sistema operativo mobile basato su una versione modificata del kernel Linux e su altri software open-source, progettato principalmente per dispositivi mobili touchscreen come smartphone e tablet</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Androidは、Linuxカーネルの改良版とその他のオープンソースソフトウェアをベースにしたモバイルオペレーティングシステムで、主にスマートフォンやタブレットなどのタッチスクリーンモバイルデバイス向けに設計されている</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

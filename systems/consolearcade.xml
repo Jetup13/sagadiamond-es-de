@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Aunque los tableros arcade han sido tradicionalmente diseños personalizados, ha habido una serie de sistemas basados en plataformas de consolas domésticas</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Sebbene i tabelloni arcade siano stati tradizionalmente progettati su misura, sono stati realizzati diversi sistemi basati sulle piattaforme delle console domestiche</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>アーケードボードは伝統的にカスタムデザインであったが、代わりに家庭用ゲーム機のプラットフォームをベースにしたシステムが数多く存在した</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

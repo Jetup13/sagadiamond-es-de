@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Virtual Boy es una videoconsola portátil de sobremesa de 32 bits desarrollada y fabricada por Nintendo</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Virtual Boy è una console portatile per videogiochi da tavolo a 32 bit sviluppata e prodotta da Nintendo</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>バーチャルボーイは、任天堂が開発・製造した32ビットの卓上型携帯ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

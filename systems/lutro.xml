@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Lutro es un framework de juegos 2D que busca la simplicidad y la portabilidad extrema</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Lutro è un framework per giochi 2D che punta alla semplicità e all'estrema portabilità</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>ルトロは、シンプルで移植性の高い2Dゲームフレームワークです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

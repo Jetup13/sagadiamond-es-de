@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El ZX81 es un ordenador doméstico producido por Sinclair Research y fabricado en Dundee, Escocia, por Timex Corporation</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Lo ZX81 è un home computer prodotto da Sinclair Research e fabbricato a Dundee, in Scozia, da Timex Corporation</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>ZX81は、シンクレア・リサーチ社が製造し、タイメックス社がスコットランドのダンディーで製造した家庭用コンピュータである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

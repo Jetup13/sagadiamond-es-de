@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El CDTV (acrónimo de "Commodore Dynamic Total Vision", acrónimo de "Compact Disc Television", lo que le confiere un doble significado) es una plataforma multimedia desarrollada por Commodore International y lanzada al mercado en marzo de 1991</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Il CDTV (acronimo di "Commodore Dynamic Total Vision", un backronym di un acronimo per "Compact Disc Television", che gli conferisce un doppio significato) è una piattaforma multimediale sviluppata da Commodore International e lanciata nel marzo 1991</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>CDTV（「コモドール・ダイナミック・トータル・ビジョン」の頭文字をとったもので、「コンパクト・ディスク・テレビジョン」の頭文字をとった二重の意味がある）は、コモドールインターナショナルが開発し、1991年3月に発売されたマルチメディア・プラットフォームである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

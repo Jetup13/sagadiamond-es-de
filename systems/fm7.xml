@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El FM-7 ("Fujitsu Micro 7") es un ordenador doméstico creado por Fujitsu</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>L'FM-7 ("Fujitsu Micro 7") è un home computer creato da Fujitsu</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>FM-7（「富士通マイクロ7」）は富士通が作った家庭用コンピュータである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

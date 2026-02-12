@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Apple IIGS es un ordenador personal lanzado por Apple Computer el 15 de septiembre de 1986, compatible con la serie Apple II, pero con capacidades comparables a las del Atari ST, Commodore Amiga y Macintosh</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>L'Apple IIGS è un personal computer rilasciato da Apple Computer il 15 settembre 1986, compatibile con la serie Apple II, ma con funzionalità paragonabili a quelle dell'Atari ST, del Commodore Amiga e del Macintosh</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>アップルIIGSは、アップルコンピュータが1986年9月15日に発売したパーソナルコンピュータで、アップルIIシリーズと互換性があるが、それ以外はアタリST、コモドール・アミーガ、マッキントッシュに匹敵する性能を持つ</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

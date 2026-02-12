@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Sega Model 3 es una plataforma arcade producida por Sega en colaboración con Lockheed Martin</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Il Sega Model 3 è una piattaforma arcade prodotta da Sega in collaborazione con Lockheed Martin</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>セガ・モデル3は、セガがロッキード・マーチンと提携して製作したアーケード・プラットフォームである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

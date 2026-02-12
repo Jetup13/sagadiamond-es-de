@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Symbian es un sistema operativo móvil (SO) y una plataforma informática descatalogados diseñados para teléfonos inteligentes</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Symbian è un sistema operativo (OS) e una piattaforma informatica per smartphone che non è più in commercio</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Symbian（シンビアン）は、スマートフォン用に設計された、生産終了したモバイルオペレーティングシステム（OS）およびコンピューティングプラットフォームである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

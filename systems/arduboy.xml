@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Arduboy es una videoconsola portátil con software de código abierto, basada en la plataforma de hardware Arduino</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Arduboy è una console di gioco portatile con software open source, basata sulla piattaforma hardware Arduino</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Arduboyは、Arduinoハードウェアプラットフォームをベースにしたオープンソースソフトウェアの携帯ゲーム機です</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El Acorn Archimedes es una familia de ordenadores personales diseñados por Acorn Computers de Cambridge, Inglaterra</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Acorn Archimedes è una famiglia di personal computer progettati da Acorn Computers di Cambridge, Inghilterra</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Acorn Archimedesは、イギリスのケンブリッジにあるAcorn Computersが設計したパーソナルコンピュータのファミリーである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Moonlight (antes Limelight) es una implementación de código abierto del protocolo GameStream de NVIDIA</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Moonlight (ex Limelight) è un'implementazione open source del protocollo GameStream di NVIDIA</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Moonlight（旧Limelight）は、NVIDIAのGameStreamプロトコルのオープンソース実装です</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

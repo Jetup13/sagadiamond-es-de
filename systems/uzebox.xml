@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Uzebox es una videoconsola retro-minimalista de 8 bits y código abierto</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Uzebox è una console di gioco open source retro-minimalista a 8 bit</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>Uzeboxはレトロミニマリストの8ビットオープンソースゲーム機です</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

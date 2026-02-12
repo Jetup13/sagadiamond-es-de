@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>El 64DD, coloquialmente conocido como Nintendo 64DD, es un periférico de unidad de disco magnético para la videoconsola Nintendo 64 desarrollado por Nintendo</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>Il 64DD, colloquialmente chiamato Nintendo 64DD, è una periferica a disco magnetico per la console Nintendo 64 sviluppata da Nintendo</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>64DD、俗称ニンテンドー64DDは、任天堂が開発したNINTENDO64ゲーム機用の磁気ディスクドライブ周辺機器である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

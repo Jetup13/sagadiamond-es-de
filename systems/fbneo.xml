@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>FinalBurn Neo es un Emulador Arcade Múltiple más popular para emular juegos de Neo-Geo, Capcom, Konami y Cave</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>FinalBurn Neo è un emulatore arcade multiplo molto popolare per l'emulazione di giochi Neo-Geo, Capcom, Konami e Cave</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>FinalBurn Neoは、ネオジオ、カプコン、コナミ、ケイブのゲームをエミュレートするために最も人気のあるマルチアーケードエミュレータです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

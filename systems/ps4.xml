@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La PlayStation 4 (PS4) es una videoconsola doméstica desarrollada por Sony Interactive Entertainment</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>La PlayStation 4 (PS4) è una console per videogiochi domestica sviluppata da Sony Interactive Entertainment</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>プレイステーション4（PS4）は、ソニー・インタラクティブエンタテインメントが開発した家庭用ゲーム機である</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

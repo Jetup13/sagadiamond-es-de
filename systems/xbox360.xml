@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>La Xbox 360 es una videoconsola doméstica desarrollada por Microsoft</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>La Xbox 360 è una console per videogiochi domestica sviluppata da Microsoft</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Xbox 360は、マイクロソフトが開発した家庭用ゲーム機</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

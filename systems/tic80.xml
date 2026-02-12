@@ -16,10 +16,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>TIC-80 es un ordenador de fantasía gratuito y de código abierto para crear, jugar y compartir minijuegos</longdescription>
@@ -37,8 +33,6 @@
 <longdescription>TIC-80 è un computer fantasy gratuito e open source per creare, giocare e condividere piccoli giochi</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -75,8 +69,6 @@
 <longdescription>TIC-80は、小さなゲームを作り、遊び、共有するためのフリーでオープンソースのファンタジーコンピュータです</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>

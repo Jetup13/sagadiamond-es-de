@@ -19,10 +19,6 @@
 </variables>
 </language>
 
-
-
-
-
 <language name="es_ES">
 <variables>
 <longdescription>Steam es un servicio de distribución digital de videojuegos y tienda de Valve</longdescription>
@@ -40,8 +36,6 @@
 <longdescription>Steam è un servizio di distribuzione digitale di videogiochi e un negozio di Valve</longdescription>
 </variables>
 </language>
-
-
 
 <language name="pl_PL">
 <variables>
@@ -78,8 +72,6 @@
 <longdescription>Steamは、Valveによるビデオゲームのデジタル配信サービスおよびストアフロントである</longdescription>
 </variables>
 </language>
-
-
 
 <language name="zh_CN">
 <variables>
