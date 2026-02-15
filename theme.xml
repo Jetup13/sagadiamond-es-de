@@ -43,20 +43,6 @@
 			<zIndex>15</zIndex>
 		</carousel>
 		
-		<image name="background">
-			<pos>0 0</pos>
-			<size>1 1</size>
-			<path>${background}</path>
-			<zIndex>1</zIndex>
-		</image>
-		
-		<image name="blurbackground">
-			<pos>0 0</pos>
-			<size>1 1</size>
-			<path>${darkbackground}</path>
-			<zIndex>16</zIndex>
-		</image>
-		
 		<text name="system-label">
 			<visible>false</visible>
 		</text>
@@ -80,6 +66,7 @@
 		</text>
 
 		<text name="shortdescription">
+			<letterCase>uppercase</letterCase>
 			<color>${textColor2}</color>
 			<fontPath>${mediumFont}</fontPath>
 			<zIndex>17</zIndex>
@@ -87,18 +74,6 @@
 			<backgroundMargins>0.005 0.005</backgroundMargins>
 			<backgroundCornerRadius>0.012</backgroundCornerRadius>
 		</text>
-
-		<image name="lineUpperLeft">
-			<path>${line}</path>
-			<color>${barColor}</color>
-			<zIndex>17</zIndex>
-		</image>
-
-		<image name="lineBottomLeft">
-			<path>${line}</path>
-			<color>${barColor}</color>
-			<zIndex>17</zIndex>
-		</image>
 
 		<helpsystem name="help">
 			<textColor>${textColor}</textColor>
@@ -137,15 +112,24 @@
 			<lineSpacing>1</lineSpacing>
 		</text>
 		
-		<text name="developer">
-			<metadata>developer</metadata>
-			<defaultValue>:space:</defaultValue>
-			<color>${textsdColor}</color>
+		<text name="systemName">
+			<metadata>systemName</metadata>
+			<letterCase>uppercase</letterCase>
 			<fontPath>${mediumFont}</fontPath>
+			<color>${textColor2}</color>
+			<backgroundColor>${textsdColor}</backgroundColor>
+			<backgroundMargins>0.055 0.005</backgroundMargins>
+			<backgroundCornerRadius>0.012</backgroundCornerRadius>
 			<zIndex>17</zIndex>
-			<visible>false</visible>
 		</text>
 		
+		<text name="dot">
+			<text>·</text>
+			<fontPath>${mediumFont}</fontPath>
+			<color>${textColor2}</color>
+			<zIndex>19</zIndex>
+		</text>
+
 		<datetime name="releasedate">
 			<metadata>releasedate</metadata>
 			<defaultValue>XXXX</defaultValue>
@@ -155,23 +139,32 @@
 			<backgroundColor>${textsdColor}</backgroundColor>
 			<backgroundMargins>0.005 0.005</backgroundMargins>
 			<backgroundCornerRadius>0.012</backgroundCornerRadius>
+			<zIndex>18</zIndex>
 		</datetime>
-		
+
+		<helpsystem name="help">
+			<textColor>${textColor}</textColor>
+			<iconColor>${textsdColor}</iconColor>
+			<fontPath>${boldFont}</fontPath>
+		</helpsystem>
+	</view>
+	
+	<view name="gamelist, system">
 		<image name="background">
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<path>${background}</path>
 			<zIndex>1</zIndex>
 		</image>
-
-		<image name="blurbackground">
+		
+		<image name="darkbackground">
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<path>${darkbackground}</path>
 			<zIndex>16</zIndex>
 		</image>
-
-		<image name="lineUpperLeft">
+		<image name="lineMid">
+			<cornerRadius>0.012</cornerRadius>
 			<path>${line}</path>
 			<color>${barColor}</color>
 			<zIndex>17</zIndex>
@@ -182,24 +175,29 @@
 			<color>${barColor}</color>
 			<zIndex>17</zIndex>
 		</image>
-
-		<helpsystem name="help">
-			<textColor>${textColor}</textColor>
-			<iconColor>${textsdColor}</iconColor>
-			<fontPath>${boldFont}</fontPath>
-		</helpsystem>
-	</view>
-	
-	<view name="gamelist, system">
+		<image name="lineUpperLeft">
+			<path>${line}</path>
+			<color>${barColor}</color>
+			<zIndex>17</zIndex>
+		</image>
+		
 		<clock name="clock">
 			<format>%H:%M</format>
 			<color>${textColor}</color>
 			<fontPath>${boldFont}</fontPath>
+			<backgroundColor>${textsdColor}</backgroundColor>
+			<backgroundCornerRadius>0.012</backgroundCornerRadius>
+			<backgroundHorizontalPadding>0.005 0.005</backgroundHorizontalPadding>
+			<backgroundVerticalPadding>0.005 0.005</backgroundVerticalPadding>
 		</clock>
 		
 		<systemstatus name="systemStatus">
 			<entries>all</entries>
 			<color>${textColor}</color>
+			<backgroundColor>${textsdColor}</backgroundColor>
+			<backgroundCornerRadius>0.012</backgroundCornerRadius>
+			<backgroundHorizontalPadding>0.005 0.005</backgroundHorizontalPadding>
+			<backgroundVerticalPadding>0.005 0.005</backgroundVerticalPadding>
 			<fontPath>${boldFont}</fontPath>	
 			<customIcon icon="icon_wifi">${wifi}</customIcon>	
 			<customIcon icon="icon_battery_charging">${batterycharge}</customIcon>

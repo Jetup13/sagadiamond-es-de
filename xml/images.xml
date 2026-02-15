@@ -5,7 +5,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<maxSize>2 1</maxSize>
-			<opacity>0.8</opacity>
+			<opacity>0.7</opacity>
 			<imageType>screenshot</imageType>
 			<scrollFadeIn>true</scrollFadeIn>
 			<gradientType>horizontal</gradientType>
@@ -22,7 +22,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<maxSize>2 1</maxSize>
-			<opacity>0.8</opacity>
+			<opacity>0.7</opacity>
 			<gameselector>selector-random</gameselector>
 			<imageType>screenshot</imageType>
 			<scrollFadeIn>true</scrollFadeIn>

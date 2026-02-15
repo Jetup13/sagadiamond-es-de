@@ -5,7 +5,8 @@
 		<mediumFont>./artwork/files/font/Roboto-Medium.ttf</mediumFont>
 		<line>./artwork/files/line2.png</line>
 		<background>./artwork/files/background.png</background>
-		<darkbackground>./artwork/files/blurbackground.png</darkbackground>
+		<darkbackground>./artwork/files/darkbackground.png</darkbackground>
+		<favorite>./artwork/files/favorite.png</favorite>
 		<wifi>./artwork/files/wifi.png</wifi>
 		<batterycharge>./artwork/files/batcharge.png</batterycharge>
 		<batterylow>./artwork/files/batlow.png</batterylow>

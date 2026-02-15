@@ -14,7 +14,7 @@
 			<colorEnd>00000000</colorEnd>
 			<zIndex>14</zIndex>
 		</video>
-		<image name="blurbackground">
+		<image name="darkbackground">
 			<visible>false</visible>
 		</image>
 	</view>
@@ -35,7 +35,7 @@
 			<colorEnd>00000000</colorEnd>
 			<zIndex>14</zIndex>
 		</video>
-		<image name="blurbackground">
+		<image name="darkbackground">
 			<visible>false</visible>
 		</image>
 	</view>

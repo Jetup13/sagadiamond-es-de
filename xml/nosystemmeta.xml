@@ -13,6 +13,15 @@
 		<text name="description">
 			<visible>false</visible>
 		</text>
+		<text name="systemName">
+			<visible>false</visible>
+		</text>		
+		<text name="dot">
+			<visible>false</visible>
+		</text>
+		<datetime name="releasedate">
+			<visible>false</visible>
+		</datetime>
 	</view>
 	</variant>
 </theme>

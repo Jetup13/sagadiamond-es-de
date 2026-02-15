@@ -13,12 +13,21 @@
 			<colorEnd>00000000</colorEnd>
 			<zIndex>14</zIndex>
 		</video>
-		<image name="blurbackground">
+		<image name="darkbackground">
 			<visible>false</visible>
 		</image>
 		<text name="description">
 			<visible>false</visible>
 		</text>
+		<text name="systemName">
+			<visible>false</visible>
+		</text>		
+		<text name="dot">
+			<visible>false</visible>
+		</text>
+		<datetime name="releasedate">
+			<visible>false</visible>
+		</datetime>
 	</view>
 	
 	<view name="system">
@@ -37,7 +46,7 @@
 			<colorEnd>00000000</colorEnd>
 			<zIndex>14</zIndex>
 		</video>
-		<image name="blurbackground">
+		<image name="darkbackground">
 			<visible>false</visible>
 		</image>
 		<text name="longdescription">
