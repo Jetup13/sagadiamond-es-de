@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>Solarus</text>
 </text>
-<text name="shortdescription">
-<text>2006  ·  Open Source Engine</text>
+<text name="platformyear">
+<text>2006</text>
+</text>
+<text name="category">
+<text>Open Source Engine</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

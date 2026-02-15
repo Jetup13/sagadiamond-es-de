@@ -1,11 +1,17 @@
 <theme>
 <include>./../xml/persystemcolors/green.xml</include>
 <view name="system">
-<text name="sys_line2">
-<text>EASY RPG</text>
+<text name="sys_line">
+<text>Easy</text>
 </text>
-<text name="shortdescription">
-<text>EASY RPG · RPG Engine</text>
+<text name="sys_line2">
+<text>RPG</text>
+</text>
+<text name="platformyear">
+<text>2011</text>
+</text>
+<text name="category">
+<text>RPG Engine</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

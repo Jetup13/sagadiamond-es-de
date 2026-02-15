@@ -7,8 +7,11 @@
 <text name="sys_line2">
 <text>Sufami Turbo</text>
 </text>
-<text name="shortdescription">
-<text>1996  ·  Home Console Peripheral</text>
+<text name="platformyear">
+<text>1996</text>
+</text>
+<text name="category">
+<text>Home Console Peripheral</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

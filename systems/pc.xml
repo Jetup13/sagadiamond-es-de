@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>MS-DOS</text>
 </text>
-<text name="shortdescription">
-<text>1981  ·  Desktop Computers</text>
+<text name="platformyear">
+<text>1981</text>
+</text>
+<text name="category">
+<text>Desktop Computers</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

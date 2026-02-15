@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>LOWRES NX</text>
 </text>
-<text name="shortdescription">
-<text>2017  ·  Fantasy Computer</text>
+<text name="platformyear">
+<text>2017</text>
+</text>
+<text name="category">
+<text>Fantasy Computer</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

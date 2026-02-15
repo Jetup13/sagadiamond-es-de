@@ -7,7 +7,10 @@
 <text name="sys_line2">
 <text>Players</text>
 </text>
-<text name="shortdescription">
+<text name="platformyear">
+<text>2023</text>
+</text>
+<text name="category">
 <text>Media Applications</text>
 </text>
 <text name="longdescription">

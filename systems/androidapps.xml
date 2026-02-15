@@ -7,8 +7,11 @@
 <text name="sys_line2">
 <text>Android Apps</text>
 </text>
-<text name="shortdescription">
-<text>2008  ·  Shortcuts</text>
+<text name="platformyear">
+<text>2008</text>
+</text>
+<text name="category">
+<text>Shortcuts</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

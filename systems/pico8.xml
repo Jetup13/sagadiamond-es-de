@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>Pico-8</text>
 </text>
-<text name="shortdescription">
-<text>2015  ·  Fantasy Computer</text>
+<text name="platformyear">
+<text>2015</text>
+</text>
+<text name="category">
+<text>Fantasy Computer</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

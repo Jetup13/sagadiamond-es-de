@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>Visual Pinball</text>
 </text>
-<text name="shortdescription">
-<text>2000  ·  Game Engine</text>
+<text name="platformyear">
+<text>2000</text>
+</text>
+<text name="category">
+<text>Game Engine</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

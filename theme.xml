@@ -64,14 +64,30 @@
 			<zIndex>17</zIndex>
 			<lineSpacing>1.25</lineSpacing>
 		</text>
+		
+		<text name="dot">
+			<text>·</text>
+			<fontPath>${mediumFont}</fontPath>
+			<color>${textColor2}</color>
+			<zIndex>19</zIndex>
+		</text>
 
-		<text name="shortdescription">
+		<text name="platformyear">
+			<fontPath>${mediumFont}</fontPath>
+			<color>${textColor2}</color>
+			<backgroundColor>${textsdColor}</backgroundColor>
+			<backgroundMargins>0.005 0.005</backgroundMargins>
+			<backgroundCornerRadius>0.012</backgroundCornerRadius>
+			<zIndex>18</zIndex>
+		</text>
+
+		<text name="category">
 			<letterCase>uppercase</letterCase>
 			<color>${textColor2}</color>
 			<fontPath>${mediumFont}</fontPath>
 			<zIndex>17</zIndex>
 			<backgroundColor>${textsdColor}</backgroundColor>
-			<backgroundMargins>0.005 0.005</backgroundMargins>
+			<backgroundMargins>0.055 0.005</backgroundMargins>
 			<backgroundCornerRadius>0.012</backgroundCornerRadius>
 		</text>
 

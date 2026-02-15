@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>Z-machine</text>
 </text>
-<text name="shortdescription">
-<text>1979  ·  Engine</text>
+<text name="platformyear">
+<text>1979</text>
+</text>
+<text name="category">
+<text>Engine</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

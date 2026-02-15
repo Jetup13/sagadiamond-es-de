@@ -4,7 +4,13 @@
 		<text name="longdescription">
 			<visible>true</visible>
 		</text>
-		<text name="shortdescription">
+		<text name="dot">
+			<visible>true</visible>
+		</text>
+		<text name="platformyear">
+			<visible>true</visible>
+		</text>
+		<text name="category">
 			<visible>true</visible>
 		</text>
 	</view>

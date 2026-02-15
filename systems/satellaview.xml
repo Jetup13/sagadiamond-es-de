@@ -7,8 +7,11 @@
 <text name="sys_line2">
 <text>Satellaview</text>
 </text>
-<text name="shortdescription">
-<text>1995  ·  Console Peripheral</text>
+<text name="platformyear">
+<text>1995</text>
+</text>
+<text name="category">
+<text>Console Peripheral</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

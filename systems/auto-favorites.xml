@@ -4,7 +4,10 @@
 <text name="sys_line2">
 <text>Favorites</text>
 </text>
-<text name="shortdescription">
+<text name="platformyear">
+<text>2023</text>
+</text>
+<text name="category">
 <text>Collection</text>
 </text>
 <text name="longdescription">

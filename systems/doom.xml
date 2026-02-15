@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>Doom</text>
 </text>
-<text name="shortdescription">
-<text>LZdoom · Doom Engine</text>
+<text name="platformyear">
+<text>1993</text>
+</text>
+<text name="category">
+<text>Doom Engine</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

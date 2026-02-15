@@ -4,7 +4,13 @@
 		<text name="longdescription">
 			<visible>false</visible>
 		</text>
-		<text name="shortdescription">
+		<text name="dot">
+			<visible>false</visible>
+		</text>
+		<text name="platformyear">
+			<visible>false</visible>
+		</text>
+		<text name="category">
 			<visible>false</visible>
 		</text>
 		<image name="darkbackground">

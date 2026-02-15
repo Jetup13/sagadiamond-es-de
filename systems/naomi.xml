@@ -7,8 +7,11 @@
 <text name="sys_line2">
 <text>NAOMI</text>
 </text>
-<text name="shortdescription">
-<text>1998  ·  Arcade Board</text>
+<text name="platformyear">
+<text>1998</text>
+</text>
+<text name="category">
+<text>Arcade Board</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

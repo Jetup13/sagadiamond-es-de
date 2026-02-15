@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>Atari ST</text>
 </text>
-<text name="shortdescription">
-<text>1985  ·  Home Computer</text>
+<text name="platformyear">
+<text>1985</text>
+</text>
+<text name="category">
+<text>Home Computer</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

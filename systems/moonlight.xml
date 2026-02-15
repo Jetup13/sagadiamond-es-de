@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>Moonlight</text>
 </text>
-<text name="shortdescription">
-<text>2018  ·  Streaming Client</text>
+<text name="platformyear">
+<text>2018</text>
+</text>
+<text name="category">
+<text>Streaming Client</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

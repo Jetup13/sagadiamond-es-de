@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>Mega Duck</text>
 </text>
-<text name="shortdescription">
-<text>1993  ·  Handheld Console</text>
+<text name="platformyear">
+<text>1993</text>
+</text>
+<text name="category">
+<text>Handheld Console</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>

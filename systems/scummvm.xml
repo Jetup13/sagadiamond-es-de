@@ -4,8 +4,11 @@
 <text name="sys_line2">
 <text>ScummVM</text>
 </text>
-<text name="shortdescription">
-<text>2001  ·  Cross Platform Computer</text>
+<text name="platformyear">
+<text>2001</text>
+</text>
+<text name="category">
+<text>Cross Platform Computer</text>
 </text>
 <text name="longdescription">
 <text>${longdescription}</text>
