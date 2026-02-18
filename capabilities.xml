@@ -60,7 +60,7 @@
 	</variant>
 	
 	<variant name="removeeverything">
-		<label>w/o System Metadata and Shadow</label>
+		<label>w/o Everything</label>
 		<selectable>true</selectable>
 	</variant>
 

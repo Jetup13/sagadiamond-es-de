@@ -2,7 +2,7 @@
 <include>./../xml/persystemcolors/red.xml</include>
 <view name="system">
 <text name="sys_line1">
-<text>Nintedo</text>
+<text>Nintendo</text>
 </text>
 <text name="sys_line2">
 <text>Super Nintendo</text>

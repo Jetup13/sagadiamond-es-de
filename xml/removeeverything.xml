@@ -13,15 +13,9 @@
 		<text name="category">
 			<visible>false</visible>
 		</text>
-		<image name="darkbackground">
-			<visible>false</visible>
-		</image>
 	</view>
 	
 	<view name="gamelist">
-		<image name="darkbackground">
-			<visible>false</visible>
-		</image>
 		<text name="description">
 			<visible>false</visible>
 		</text>
@@ -34,6 +28,15 @@
 		<datetime name="releasedate">
 			<visible>false</visible>
 		</datetime>
+	</view>
+	
+	<view name="gamelist, system">
+		<image name="darkbackground">
+			<visible>false</visible>
+		</image>
+		<image name="lineMid, lineBottomLeft,lineUpperLeft">
+			<visible>false</visible>
+		</image>
 	</view>
 	</variant>
 </theme>

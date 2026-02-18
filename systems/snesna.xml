@@ -2,10 +2,10 @@
 <include>./../xml/persystemcolors/red.xml</include>
 <view name="system">
 <text name="sys_line1">
-<text>Super</text>
+<text>Nintendo</text>
 </text>
 <text name="sys_line2">
-<text>Nintendo</text>
+<text>Super Nintendo</text>
 </text>
 <text name="platformyear">
 <text>1990</text>
