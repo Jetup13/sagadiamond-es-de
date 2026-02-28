@@ -54,15 +54,15 @@
 	<variant name="withImages">
 	<view name="gamelist">	
 		<image name="gameImage">
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<maxSize>2 1</maxSize>
-			<opacity>0.8</opacity>
+			<pos>0.5 0.25</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>1 2.5</maxSize>
+			<opacity>0.7</opacity>
 			<imageType>screenshot</imageType>
 			<scrollFadeIn>true</scrollFadeIn>
 			<gradientType>vertical</gradientType>
 			<colorEnd>00000000</colorEnd>
-			<zIndex>14</zIndex>
+			<zIndex>13</zIndex>
 		</image>
 	</view>
 	
@@ -71,18 +71,28 @@
 			<selection>random</selection>
 		</gameselector>
 		<image name="systemImage">
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<maxSize>2 1</maxSize>
-			<opacity>0.8</opacity>
+			<pos>0.5 0.25</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>1 2.5</maxSize>
+			<opacity>0.7</opacity>
 			<gameselector>selector-random</gameselector>
 			<imageType>screenshot</imageType>
 			<scrollFadeIn>true</scrollFadeIn>
 			<gradientType>vertical</gradientType>
 			<colorEnd>00000000</colorEnd>
-			<zIndex>14</zIndex>
+			<zIndex>13</zIndex>
 		</image>
 	</view>
+	
+	<view name="system, gamelist">
+		<image name="linebackground">
+			<path>./../artwork/files/linebackground.png</path>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<maxSize>2 1</maxSize>
+			<zIndex>14</zIndex>
+		</image>
+	</view>	
 	</variant>	
 
 	<view name="system">
@@ -209,13 +219,15 @@
 	
 		<image name="lineUpperLeft">
 			<pos>0.0 0.07</pos>
-			<size>1.5 0.008</size>
+			<size>2.5 0.008</size>
 			<origin>0 0</origin>
+			<visible>true</visible>
 		</image>
 		<image name="lineBottomLeft">
 			<pos>0.0 0.93</pos>
-			<size>1.5 0.008</size>
+			<size>2.5 0.008</size>
 			<origin>0 0</origin>
+			<visible>true</visible>
 		</image>
 		<image name="darkbackground">
 			<visible>false</visible>

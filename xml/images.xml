@@ -10,7 +10,7 @@
 			<scrollFadeIn>true</scrollFadeIn>
 			<gradientType>horizontal</gradientType>
 			<colorEnd>00000000</colorEnd>
-			<zIndex>14</zIndex>
+			<zIndex>13</zIndex>
 		</image>
 	</view>
 	
@@ -28,6 +28,16 @@
 			<scrollFadeIn>true</scrollFadeIn>
 			<gradientType>horizontal</gradientType>
 			<colorEnd>00000000</colorEnd>
+			<zIndex>13</zIndex>
+		</image>
+	</view>
+	
+	<view name="system, gamelist">
+		<image name="linebackground">
+			<path>./../artwork/files/linebackground.png</path>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<maxSize>2 1</maxSize>
 			<zIndex>14</zIndex>
 		</image>
 	</view>

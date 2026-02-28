@@ -190,11 +190,13 @@
 			<path>${line}</path>
 			<color>${barColor}</color>
 			<zIndex>17</zIndex>
+			<visible>false</visible>
 		</image>
 		<image name="lineUpperLeft">
 			<path>${line}</path>
 			<color>${barColor}</color>
 			<zIndex>17</zIndex>
+			<visible>false</visible>
 		</image>
 		
 		<clock name="clock">
