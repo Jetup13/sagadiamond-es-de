@@ -201,7 +201,7 @@
 		
 		<clock name="clock">
 			<format>%H:%M</format>
-			<color>${textColor}</color>
+			<color>${textColor2}</color>
 			<fontPath>${boldFont}</fontPath>
 			<backgroundColor>${textsdColor}</backgroundColor>
 			<backgroundCornerRadius>0.012</backgroundCornerRadius>
